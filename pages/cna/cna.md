@@ -4,6 +4,7 @@ color:: "#7cdeff"
 public:: true
 
 - # Flashcard
+  collapsed:: true
 	- {{cards (and (page-tags cna) [[card]])}}
 - # Syllabus
 	- # Introduction
