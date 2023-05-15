@@ -158,6 +158,12 @@ tags:: cna
 				- Se $L$ è nell'ordine di $N^2$, il grafo è denso.
 - # Proprietà globali #card
   id:: 64230819-c4a5-41cb-8c3c-1f5aa77033be
+  card-last-interval:: 4
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-05-19T02:16:17.490Z
+  card-last-reviewed:: 2023-05-15T02:16:17.491Z
+  card-last-score:: 5
 	- ## Cammini e distanze
 	  id:: 64368a97-14dd-4a64-95fb-cc81a0328d14
 		- ### Cammino
