@@ -18,7 +18,7 @@ tags:: cna
 			- Si possono quindi fare delle distinzioni tra i tipi di collegamento:
 			  id:: 6382460e-fb94-4ee5-aaaf-f7ed5a836c6d
 				- di tipo **locale e interpersonale**, in base a se siano [deboli o forti]([[Forza dei legami]])
-				- di tipo **strutturale**, in base a se sia un [ponti locali]([[Ponti e ponti locali]]) o no.
+				- di tipo **strutturale**, in base a se sia un ((631aefdf-9178-4e44-91a5-69200e94239c)) o no.
 	- La risposta trascende il contesto specifico della ricerca del lavoro, e offre un modo di pensare riguardo l'architettura delle reti sociali in modo più generale.
 	- > ((631af429-3ced-4079-b376-69bbd3bf171d))
 - # Chiusura triadica
