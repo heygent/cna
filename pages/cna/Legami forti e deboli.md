@@ -23,7 +23,8 @@ tags:: cna
 	- > ((631af429-3ced-4079-b376-69bbd3bf171d))
 - # Chiusura triadica
   id:: 64625526-7abe-416b-8538-8f2d05123946
-	- Quali sono i meccanismi per cui i nodi vanno e vengono, e gli archi si formano e svaniscono?
+	- Quali sono i meccanismi per cui nel tempo i nodi vanno e vengono, e gli archi si formano e svaniscono?
+	-
 	- Il ruolo base della chiusura triadica nelle reti sociali ha motivato la formulazione di misure semplici delle reti sociali per catturare la loro prevalenza. Una di queste è il ((64625143-588e-4dc1-a991-4b27deea3a85)).
 		- Quanto più fortemente la chiusura triadica opera nel vicinato del nodo, più il coefficiente di clustering tende a essere alto.
 	- ## Motivazioni
