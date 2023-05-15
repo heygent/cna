@@ -15,10 +15,10 @@ tags:: cna
 	- La risposta proposta da Granovetter lega due diverse prospettive sulle amicizie lontane:
 		- una **strutturale**, che si concentra sul modo in cui queste amicizie si estendano su diverse porzioni dell'intera rete.
 		- una **interpersonale**, considerando le conseguenze puramente locali che derivano dal fatto che un'amicizia tra due persone sia forte o debole.
-			- Si possono quindi fare delle distinzioni tra i tipi di collegamenti:
+			- Si possono quindi fare delle distinzioni tra i tipi di collegamento:
 			  id:: 6382460e-fb94-4ee5-aaaf-f7ed5a836c6d
 				- di tipo **locale e interpersonale**, in base a se siano [deboli o forti]([[Forza dei legami]])
-				- di tipo **strutturale**, in base a se siano [ponti locali]([[Ponti e ponti locali]]) o no.
+				- di tipo **strutturale**, in base a se sia un [ponti locali]([[Ponti e ponti locali]]) o no.
 	- La risposta trascende il contesto specifico della ricerca del lavoro, e offre un modo di pensare riguardo l'architettura delle reti sociali in modo più generale.
 	- > ((631af429-3ced-4079-b376-69bbd3bf171d))
 - # Chiusura triadica
