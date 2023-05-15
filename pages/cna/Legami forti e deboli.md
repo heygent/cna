@@ -34,7 +34,7 @@ tags:: cna
 	- In altre parole, cancellare l'arco aumenterebbe la ((6319be1d-d038-4df4-ae99-dc9ec8844242)) tra A e B di un valore $> 2$.
 	- **estensione (span)** di un ponte locale
 		- distanza a cui gli endpoint si troverebbero l'uno dall'altro se il ponte fosse cancellato.
-	- Opposto concettuale a [[Chiusura triadica]] ((64625526-7abe-416b-8538-8f2d05123946))
+	- Opposto concettuale a ((64625526-7abe-416b-8538-8f2d05123946))
 		- un arco è un ponte locale precisamente quando **non forma un lato** di un qualunque triangolo nel grafo
 	- I ponti locali, specie se grandi, hanno circa lo stesso ruolo dei ponti, anche se in modo meno estremo
 		- Forniscono ai loro endpoint accesso a parti della rete, e quindi fonti di informazione da cui sarebbero altrimenti lontani.
