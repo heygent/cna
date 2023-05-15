@@ -59,7 +59,7 @@ tags:: cna
 			- consistente di risorse fisiche e monetarie
 		- **capitale culturale**
 			- le risorse accumulate di una cultura che esistono a un livello oltre quello di qualunque circolo sociale individuale, portato tramite educazione e altre ampie strutture sociali.
-	- ## Capitale sociale e [[Chiusura triadica]]
+	- ## Capitale sociale e
 		- Coleman e gli altri enfatizzano i **benefici della chiusura triadica** e degli **archi embedded** per le ragioni discusse sopra
 			- abilitano [l'applicazione di norme ed effetti reputazionali](((631c8621-cfea-4690-a6bb-80d015caadd8))), proteggendo l'integrità delle transazioni economiche e sociali.
 		- Burt, dall'altro lato, discute del capitale sociale come una **tensione tra chiusura e brokerage**
