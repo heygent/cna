@@ -1,0 +1,21 @@
+- # Friendship paradox
+	- > The **friendship paradox** is the phenomenon first observed by the sociologist Scott L. Feld in 1991 that most people have fewer friends than their friends have, on average. It can be explained as a form of [sampling bias](https://en.wikipedia.org/wiki/Sampling_bias) in which people with more friends are more likely to be in one's own friend group. In other words, one is less likely to be friends with someone who has very few friends. In contradiction to this, most people believe that they have more friends than their friends have.
+	- ![image.png](../assets/image_1663062062355_0.png)
+		- Scegliendo *nodi* casualmente, Tom ha **le stesse probabilità** di essere scelto rispetto a tutti gli altri
+		- Scegliendo *archi* casualmente, Tom ha **più probabilità** di essere scelto rispetto agli altri.
+		- Seguendo i link, la probabilità di incontrare un ((631cb57b-95f1-4f96-bde0-7c6e6c74e8e7)) aumenta
+		- Grado medio di un nodo: 2.29
+		- Grado medio dei vicini di un nodo: 2.83
+		- I nostri amici, in media, hanno più amici di noi.
+	- ## Motivazioni
+		- Facendo la media di grado dei nodi, li scegliamo casualmente.
+		- Facendo la media dei gradi dei vicini, li scegliamo seguendo i link
+			- I nodi con grado $k$ verranno contati $k$ volte, il che gonfia la media
+		- Più hub ci sono, più è forte l'effetto.
+- # Ultra-small worlds
+  id:: 632050e0-bd5f-4b71-9a56-f7ac016612e2
+	- Nelle reti reali, molti cammini più brevi passano per hub.
+	- es. trasporto aereo
+		- ci possono essere molte strade tra l'aeroporto A e C (se sono piccoli), ma potrebbe essere possibile andare da A a B tramite un aeroporto C.
+	- La small-world property è tipica della maggior parte delle reti di interesse
+		- se la rete ha hub, i cammini sono molto corti (**ultra-small world**).

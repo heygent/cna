@@ -1,0 +1,29 @@
+- Consider an ER random graph with n nodes and connecting probability equal to p. What is the expected number of the edges?
+-
+	- $$\frac{(n-1)}{2}$$
+	- Average degree:
+		- $$(n-1) \cdot p$$
+		- When I count the degree I count every edge twice
+- Suppose an ER has n = 1000
+	- Does the largest cc have a number of nodes proportional to $n$?
+	- Percolation threshold
+- IMPORTANT TO REMEMBER: average degree
+-
+- To verify the friendship paradox:
+	- $$<k^2>/<k> \quad\quad> 1$$
+- What type of graph is this?
+	- check if it bipartite
+	- bipartite have clustering coefficient 0
+- Exercise 9
+- Esercizio 11
+	- edge list is convenient space-wise
+		- adj matrix is always $O(n^2)$
+		- edge list is $O(L)$ where $L \le n(n-1)$
+		- in the real world, $L$ is usually much smaller than $n^2$
+- Ex 12
+	- max diameter $n - 1$
+	- unless graph not connected, graph not connected has undefined or infinite diameter.
+- 14
+	- L max = n(n-1)/2
+	- L max = n(n-1) for directed
+-

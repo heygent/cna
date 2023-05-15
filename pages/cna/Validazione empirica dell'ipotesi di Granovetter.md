@@ -1,0 +1,35 @@
+tags:: cna
+
+- Per molti anni dopo il lavoro iniziale di Granovetter queste predizioni sono rimaste a lungo **relativamente non testate** su reti sociali in larga scala, data la difficoltà nel trovare dati che catturassero affidabilmente la forza degli archi in contesti realistici di larga scala.
+	- Questo cambia con avvento di **comunicazione digitale** e documentazioni dettagliate.
+- Questi dati su **chi-parla-con-chi** esibiscono i due ingredienti richiesti per la valutazione empirica:
+	- **struttura di rete** delle comunicazioni tra coppie di persone
+	- **tempo totale** che le due persone spendono a parlarsi a vicenda
+		- più tempo le due persone spendono a parlarsi a vicenda, maggiore sarà dichiarata la forza del legame.
+		- $(w, s) \rightarrow (0, 1) \rightarrow [0, +\infty]$
+- ## Il caso delle reti telefoniche
+	- Nel 2007 è stata studiata una rete mantenuta da un provider di telefoni cellulari che copriva circa **il 20% di una popolazione nazionale**.
+		- **nodi**: utenti
+		- **archi**: chiamate effettuate in ogni direzione in un periodo di osservazione di **18 settimane**
+	- La rete può essere vista come un campionamento ragionevole delle conversazioni che avvengono all'interno di una rete sociale che rappresenta una frazione significativa della popolazione di una nazione.
+	- I dati esibiscono molte delle larghe caratteristiche strutturali delle reti sociali tipiche, incluso un ((6319c11b-bddf-4fbb-bf24-9689c9e2f021)) che conteneva l'84% degli individui nella rete.
+- ## Generalizzazione dei concetti di legame debole e ponte locale
+	- La formulazione teorica è basata su due definizioni che impongono dicotomie rigide sulla rete:
+		- un arco è un [legame debole o forte]([[Forza dei legami]]), e:
+			- $\forall e \in L : w(e) \in [0, +\infty]$
+		- è un ((631aefdf-9178-4e44-91a5-69200e94239c)) o non lo è.
+	- Per entrambe queste definizioni, è **utile avere versioni che esibiscono gradazioni più levigate** quando andiamo a esaminare dati reali su larga scala.
+	- Si può rendere **la forza di un arco una quantità numerica**, definendola come il **totale dei minuti** spesi in chiamata.
+	- Diventa anche utile **ordinare tutti gli archi per forza**, così per ogni dato arco possiamo chiedere quale percentile occupa.
+	- {{embed [[Neighborhood overlap]]}}
+- ## Analisi indiretta di Onnela et al.
+	- **Hanno eliminato archi** dalla rete uno alla volta, **partendo dai legami più forti** e scendendo in basso in ordine di forza dei legami.
+		- Il ((6319c11b-bddf-4fbb-bf24-9689c9e2f021)) si è ridotto consistentemente facendo questo, con la sua dimensione che scendeva gradualmente.
+	- Hanno poi provato a fare la stessa cosa, ma **partendo dai legami più deboli** e salendo in ordine di forza. In questo caso, hanno scoperto che:
+		- il **giant component si riduceva più rapidamente**
+		- i suoi resti si rompevano in modo **brusco e rapido** una volta rimosso un numero critico di legami deboli.
+	- Tutto questo è consistente con l'idea che **i legami deboli forniscono la struttura connettiva più cruciale** per tenere insieme comunità disparate, e per **mantenere la struttura globale del giant component intatta**.
+- ## Conclusioni
+	- Questo è solo un primo passo nel valutare teorie sulla forza dei legami su dati di reti di questa scala.
+	- Illustra alcune delle sfide inerenti: data la dimensione e la complessità della rete, non possiamo semplicemente guardare e "vedere cosa c'è"
+	- Generalmente, è necessario usare misure indirette, e dato che si sa relativamente poco del significato o dell'importanza di ogni particolare nodo o arco, resta una sfida di ricerca cercare di trarre conclusioni più ricche e dettagliate nello stesso modo in cui è possibile su dataset più piccoli.
