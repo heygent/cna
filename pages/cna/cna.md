@@ -3,17 +3,14 @@ banner:: https://images.unsplash.com/photo-1545987796-200677ee1011?ixlib=rb-4.0.
 color:: "#7cdeff"
 public:: true
 
-- # Flashcard
-  collapsed:: true
-	- {{cards (and (page-tags cna) [[card]])}}
-- # Syllabus
-	- # Introduction
-	  date:: [[2023-02-07]]
-	  slide:: ![ns01.pdf](../assets/Lecture01ns01_1679220302961_0.pdf)
-	  refs:: [ns1 Chapter 1](((6422e720-946a-4c05-a38c-97f2f7b238a6)))
-		- Meaning and examples of complexity
-		- networks and complexity
-		- examples of applications of network theory
+-
+- # Introduction
+  date:: [[2023-02-07]]
+  slide:: ![ns01.pdf](../assets/Lecture01ns01_1679220302961_0.pdf)
+  refs:: [ns1 Chapter 1](((6422e720-946a-4c05-a38c-97f2f7b238a6)))
+	- Meaning and examples of complexity
+	- networks and complexity
+	- examples of applications of network theory
 	- # [[Grafo]]
 	  date:: [[2023-03-03]]
 	  slide:: ![ns02.pdf](../assets/Lecture03ns02_1679220312387_0.pdf)
