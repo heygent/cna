@@ -1,9 +1,3 @@
-icon:: 🌐
-banner:: https://images.unsplash.com/photo-1545987796-200677ee1011?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80
-color:: "#7cdeff"
-public:: true
-
--
 - # Introduction
   date:: [[2023-02-07]]
   slide:: ![ns01.pdf](../assets/Lecture01ns01_1679220302961_0.pdf)
