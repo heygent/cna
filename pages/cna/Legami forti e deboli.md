@@ -40,4 +40,3 @@ tags:: cna
 		- Ci si può aspettare che se un nodo come $A$ cerchi di trovare informazioni **veramente nuove**, queste potrebbero arrivare inaspettatamente spesso da un amico connesso da un ponte locale.
 		  id:: 631af429-3ced-4079-b376-69bbd3bf171d
 			- > I gruppi affiatati, anche se pieni di persone pronte ad aiutarsi a vicenda, sono anche quelli che sanno più o meno le stesse cose.
-- {{embed [[Ponti e ponti locali]]}}
