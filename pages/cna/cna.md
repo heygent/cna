@@ -17,12 +17,11 @@ public:: true
 	- # [[Grafo]]
 	  date:: [[2023-03-03]]
 	  slide:: ![ns02.pdf](../assets/Lecture03ns02_1679220312387_0.pdf)
-		- [[Grafo]]
-			- ((6416dcb6-cf08-4329-8e18-c6e6ee5a5b17))
-				- node
-				- edges
-				- cliques
-				- subgraphs
+		- ((6416dcb6-cf08-4329-8e18-c6e6ee5a5b17))
+			- node
+			- edges
+			- cliques
+			- subgraphs
 			- ((6422f672-3d23-4979-9b1e-299afce67298))
 				- ((64368a97-1853-46f2-946d-aba0b766a52e))
 				- ((64368a97-78f5-40da-9106-66f02375b7b1))
