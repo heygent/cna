@@ -1,6 +1,6 @@
 tags:: cna
 
-- Ci asteniamo dal provare a definire la "forza" precisamente, ma intendiamo allinearla con l'idea per cui connessioni più forti rappresentano **amicizie più strette e una maggior frequenza di interazione**.
+- Connessioni più forti rappresentano **amicizie più strette e una maggior frequenza di interazione**.
 - Per semplicità concettuale categorizzeremo tutti i collegamenti nella rete sociale come appartenenti a due tipi
 	- **legami forti** (corrispondenti ad amicizie)
 	- **legami deboli** (corrispondenti ai conoscenti).
