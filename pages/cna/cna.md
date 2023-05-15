@@ -39,7 +39,7 @@
 	- ((646275b2-6714-42a4-ad0e-ef408992f8ec))
 	- ((64625526-7abe-416b-8538-8f2d05123946))
 	- ((64625143-588e-4dc1-a991-4b27deea3a85))
-	- [[Ponti e ponti locali]]
+	- ((646275b2-d730-4377-b20c-44e761e3a1a5))
 	- [[Ponti locali e legami deboli]]
 	- [[Validazione empirica dell'ipotesi di Granovetter]]
 - # [[Homophily]]

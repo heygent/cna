@@ -41,6 +41,7 @@ tags:: cna
 		- $A$ soddisfa la proprietà di chiusura triadica forte se non la viola.
 		- La proprietà di chiusura triadica forte è troppo estrema perché possiamo aspettarci che tenga attraverso tutti i nodi di una rete sociale grande. Ma può essere utile come astrazione.
 - # Ponte
+  id:: 646275b2-d730-4377-b20c-44e761e3a1a5
 	- Un arco $A \rightarrow B$ è un **ponte** se cancellandolo $A$ e $B$ verrebbero a trovarsi in due [componenti](((64368a97-8099-48bf-b424-298fc228d1bb))) distinte.
 	- Quest'arco è **l'unico percorso** tra i suoi endpoint, i nodi $A$ e $B$.
 	- ![image.png](../assets/image_1662709688813_0.png)
