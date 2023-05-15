@@ -36,7 +36,7 @@
 - # [[Legami forti e deboli]]
 	- date:: [[2023-03-06]]
 	  slide:: ![ns03.pdf](../assets/Lecture04ns03_1679220321358_0.pdf)
-	- [[Ipotesi di Granovetter]]
+	- ((646275b2-6714-42a4-ad0e-ef408992f8ec))
 	- [[Chiusura triadica]]
 	- ((64625143-588e-4dc1-a991-4b27deea3a85))
 	- [[Ponti e ponti locali]]

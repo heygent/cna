@@ -6,6 +6,7 @@ tags:: cna
 		- Quanto nodi diversi possono giocare ruoli strutturalmente distinti in questo processo?
 		- Come queste considerazioni strutturali danno forma all'evoluzione della rete stessa nel tempo?
 - # Ipotesi di Granovetter
+  id:: 646275b2-6714-42a4-ad0e-ef408992f8ec
 	- ## Domanda motivante
 		- Come parte della sua tesi di Ph.D nei tardi anni 60, Mark Granovetter intervistò persone che avevano recentemente cambiato dato di lavoro per capire come avessero trovato i loro nuovi lavori.
 		- Ha scoperto che:
