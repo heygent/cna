@@ -1,6 +1,6 @@
 tags:: cna
 
-- Apparentemente non c'è connessione tra le due nozioni, ma di fatto usando la [[Chiusura triadica]] si può stabilire un collegamento nella seguente affermazione
+- Apparentemente non c'è connessione tra le due nozioni, ma di fatto usando la ((64625526-7abe-416b-8538-8f2d05123946)) si può stabilire un collegamento nella seguente affermazione
 	- > Se un nodo $A$ in una rete soddisfa la proprietà di chiusura triadica forte ed è coinvolto in almeno due legami forti, allora ogni ponte locale che vi è coinvolto **deve essere un legame debole.**
 	- ![image.png](../assets/image_1662744637303_0.png){:height 229, :width 325}
 - # Dimostrazione

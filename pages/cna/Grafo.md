@@ -239,7 +239,7 @@ tags:: cna
 		- ## Coefficiente di clustering alto o basso
 			- Se guardiamo la rete per un periodo di tempo più lungo, possiamo osservare diversi archi formarsi tramite la chiusura triadica, mentre altri si formano anche se i due endpoint non hanno vicini in comune.
 			- **CC alto**
-				- le reti sociali tendono ad avere coefficienti di clustering alti per la [[Chiusura triadica]]: ci conosciamo tramite amici in comune.
+				- le reti sociali tendono ad avere coefficienti di clustering alti per la ((64625526-7abe-416b-8538-8f2d05123946)): ci conosciamo tramite amici in comune.
 			- **CC basso**
 				- se comparato con il CC in un grafo generato casualmente - un grafo casuale del genere deve avere lo stesso numero di nodi, e un uguale numero di archi rimescolati
 					- tipico di reti bipartite e tree-like

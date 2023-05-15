@@ -10,7 +10,7 @@ tags:: cna
 	- Ad esempio, ci si concentri nel contrasto tra l'esperienza di un nodo come $A$, che si trova al centro di un **gruppo ristretto**, e il nodo $B$, che si trova al **confine di diversi gruppi**.
 	- ((631c8405-6a32-45ae-b869-8334a14c90f6))
 		- Il nodo $A$ è **al centro di un gruppo stretto**.
-		- L'insieme di vicini di rete di $A$ è stato considerevolmente soggetto a [[Chiusura triadica]]
+		- L'insieme di vicini di rete di $A$ è stato considerevolmente soggetto a ((64625526-7abe-416b-8538-8f2d05123946))
 		- $A$ ha un alto ((64625143-588e-4dc1-a991-4b27deea3a85))
 	- **embeddedness**
 		- proprietà di un arco

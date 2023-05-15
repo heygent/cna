@@ -68,7 +68,7 @@ tags:: cna
 	- ## Chiusure
 		- ((631cc3ec-71ba-40b5-b8df-2fd1ddbd284c))
 			- **friendship transitivity**
-				- amicizie nate per [[Chiusura triadica]]
+				- amicizie nate per ((64625526-7abe-416b-8538-8f2d05123946))
 			- **chiusura focale**
 				- $A$ è un focus (attività) e $B$ e $C$ sono individui connessi a quest'attività.
 				- Possiamo predire che $B$ e $C$ prima o poi diventeranno amici.

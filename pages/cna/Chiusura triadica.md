@@ -19,3 +19,4 @@ tags:: cna
 		- Un nodo $A$ viola la **proprietà di chiusura triadica forte** se ha legami forti $A \rightarrow B$ e $A \rightarrow C$, e non c'è nessun arco (che sia forte o debole) $B \rightarrow C$.
 		- $A$ soddisfa la proprietà di chiusura triadica forte se non la viola.
 		- La proprietà di chiusura triadica forte è troppo estrema perché possiamo aspettarci che tenga attraverso tutti i nodi di una rete sociale grande. Ma può essere utile come astrazione.
+-
