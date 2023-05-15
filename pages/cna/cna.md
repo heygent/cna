@@ -5,34 +5,34 @@
 	- Meaning and examples of complexity
 	- networks and complexity
 	- examples of applications of network theory
-	- # [[Grafo]]
-	  date:: [[2023-03-03]]
-	  slide:: ![ns02.pdf](../assets/Lecture03ns02_1679220312387_0.pdf)
-		- ((6416dcb6-cf08-4329-8e18-c6e6ee5a5b17))
-			- node
-			- edges
-			- cliques
-			- subgraphs
-		- ((6422f672-3d23-4979-9b1e-299afce67298))
-			- ((64368a97-1853-46f2-946d-aba0b766a52e))
-			- ((64368a97-78f5-40da-9106-66f02375b7b1))
-			- ((64368a97-5d3e-4c20-8c62-6c42ceac80f6))
-			- ((64368a97-f886-49ab-ac70-c7ee24f76e37))
-		- ((6422f914-29f3-46f4-916c-35a9f825fdb7))
-			- ((64368a97-1f6c-45e5-9071-f0d6ff26a06d))
-			- ((6422fb58-b14c-4f73-a8ce-c547d160c906))
-			- ((64368a97-7c8d-411c-a1ab-d08880fe1e29))
-			- ((64368a97-a071-42ad-9844-7d0ec1cf7814))
-		- ((64230819-c4a5-41cb-8c3c-1f5aa77033be))
-			- ((64368a97-8099-48bf-b424-298fc228d1bb))
-			- ((64368a97-14dd-4a64-95fb-cc81a0328d14)) and [[BFS]]
-			- ((64368a97-9392-4dfc-8f6e-fc99ca2c919e))
-			- small world effect
-			- ((64625143-588e-4dc1-a991-4b27deea3a85))
-		- Rappresentazioni di reti
-			- adjacency matrix
-			- adjacency list
-			- edge list
+- # [[Grafo]]
+  date:: [[2023-03-03]]
+  slide:: ![ns02.pdf](../assets/Lecture03ns02_1679220312387_0.pdf)
+	- ((6416dcb6-cf08-4329-8e18-c6e6ee5a5b17))
+		- node
+		- edges
+		- cliques
+		- subgraphs
+	- ((6422f672-3d23-4979-9b1e-299afce67298))
+		- ((64368a97-1853-46f2-946d-aba0b766a52e))
+		- ((64368a97-78f5-40da-9106-66f02375b7b1))
+		- ((64368a97-5d3e-4c20-8c62-6c42ceac80f6))
+		- ((64368a97-f886-49ab-ac70-c7ee24f76e37))
+	- ((6422f914-29f3-46f4-916c-35a9f825fdb7))
+		- ((64368a97-1f6c-45e5-9071-f0d6ff26a06d))
+		- ((6422fb58-b14c-4f73-a8ce-c547d160c906))
+		- ((64368a97-7c8d-411c-a1ab-d08880fe1e29))
+		- ((64368a97-a071-42ad-9844-7d0ec1cf7814))
+	- ((64230819-c4a5-41cb-8c3c-1f5aa77033be))
+		- ((64368a97-8099-48bf-b424-298fc228d1bb))
+		- ((64368a97-14dd-4a64-95fb-cc81a0328d14)) and [[BFS]]
+		- ((64368a97-9392-4dfc-8f6e-fc99ca2c919e))
+		- small world effect
+		- ((64625143-588e-4dc1-a991-4b27deea3a85))
+	- Rappresentazioni di reti
+		- adjacency matrix
+		- adjacency list
+		- edge list
 - # [[Legami forti e deboli]]
 	- date:: [[2023-03-06]]
 	  slide:: ![ns03.pdf](../assets/Lecture04ns03_1679220321358_0.pdf)
