@@ -11,7 +11,6 @@ tags:: cna
 		- Ha scoperto che:
 			- Molte persone apprendevano informazioni che li portavano ai loro attuali lavori tramite **contatti personali**.
 			- Questi contatti personali venivano spesso descritti nelle interviste come **conoscenti** invece che amici stretti.
-			- > ((631af429-3ced-4079-b376-69bbd3bf171d))
 	- La risposta proposta da Granovetter lega due diverse prospettive sulle amicizie lontane:
 		- una **strutturale**, che si concentra sul modo in cui queste amicizie si estendano su diverse porzioni dell'intera rete.
 		- una **interpersonale**, considerando le conseguenze puramente locali che derivano dal fatto che un'amicizia tra due persone sia forte o debole.
@@ -20,6 +19,7 @@ tags:: cna
 				- di tipo **locale e interpersonale**, in base a se siano [deboli o forti]([[Forza dei legami]])
 				- di tipo **strutturale**, in base a se siano [ponti locali]([[Ponti e ponti locali]]) o no.
 	- La risposta trascende il contesto specifico della ricerca del lavoro, e offre un modo di pensare riguardo l'architettura delle reti sociali in modo più generale.
+	- > ((631af429-3ced-4079-b376-69bbd3bf171d))
 - # Ponte
 	- Un arco $A \rightarrow B$ è un **ponte** se cancellandolo $A$ e $B$ verrebbero a trovarsi in due [componenti](((64368a97-8099-48bf-b424-298fc228d1bb))) distinte.
 	- Quest'arco è **l'unico percorso** tra i suoi endpoint, i nodi $A$ e $B$.
