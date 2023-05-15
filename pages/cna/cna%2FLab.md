@@ -13,7 +13,7 @@
 			- DONE variance/standard deviation
 			- TODO degree distribution
 				- some fit? Does it follow a power law? If yes, is it in the scale-free regime?
-		- DONE Clustering coefficient [[Coefficiente di clustering]]
+		- DONE Clustering coefficient ((64625143-588e-4dc1-a991-4b27deea3a85))
 		  :LOGBOOK:
 		  CLOCK: [2022-09-13 Tue 19:19:21]--[2022-09-13 Tue 19:19:22] =>  00:00:01
 		  :END:

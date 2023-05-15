@@ -1,9 +1,5 @@
 tags:: cna
 
-- Si possono quindi fare delle distinzioni tra i tipi di collegamenti:
-  id:: 6382460e-fb94-4ee5-aaaf-f7ed5a836c6d
-	- di tipo **locale e interpersonale**, in base a se siano [deboli o forti]([[Forza dei legami]])
-	- di tipo **strutturale**, in base a se siano [ponti locali]([[Ponti e ponti locali]]) o no.
 - Apparentemente non c'è connessione tra le due nozioni, ma di fatto usando la [[Chiusura triadica]] si può stabilire un collegamento nella seguente affermazione
 	- > Se un nodo $A$ in una rete soddisfa la proprietà di chiusura triadica forte ed è coinvolto in almeno due legami forti, allora ogni ponte locale che vi è coinvolto **deve essere un legame debole.**
 	- ![image.png](../assets/image_1662744637303_0.png){:height 229, :width 325}

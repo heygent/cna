@@ -96,7 +96,7 @@ tags:: cna
   card-last-score:: 1
 	- il fallimento di alcuni componenti non influenza il funzionamento del sistema
 	- per verificare la robustezza di una rete, rimuoviamo nodi o archi e verifichiamo che cosa succede alla sua struttura.
-	- punto chiave: [connettività]([[Connettività e componenti]])
+	- punto chiave: ((64368a97-8099-48bf-b424-298fc228d1bb))
 		- se internet non fosse connesso, sarebbe impossibile trasmettere segnali (es. email) tra router in diverse componenti.
 	- ## Robustness test
 		- verificare come la connettività della rete viene afflitta mano a mano che nodi vengono rimossi

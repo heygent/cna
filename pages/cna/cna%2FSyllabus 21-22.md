@@ -53,6 +53,7 @@
 	- centrality distribution
 	- the friendship paradox
 	- ultra-small worlds
+	  id:: 64618d35-6e8c-4782-870e-c8fdd767c2ca
 	- robustness
 - [ns2] [Sec. 4.4](https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book-ch04.pdf); [ns1] Sec. 3.1-3.5 
   | Slides: [Lecture07ns05](https://informatica.i-learn.unito.it/pluginfile.php/290412/mod_resource/content/4/Lecture07ns05.pdf) (43-52, 25-34) - [Lecture09ns06](https://informatica.i-learn.unito.it/pluginfile.php/303226/mod_resource/content/4/Lecture09ns06.pdf) (1-27) 
