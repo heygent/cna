@@ -37,7 +37,7 @@
 	- date:: [[2023-03-06]]
 	  slide:: ![ns03.pdf](../assets/Lecture04ns03_1679220321358_0.pdf)
 	- ((646275b2-6714-42a4-ad0e-ef408992f8ec))
-	- [[Chiusura triadica]] *
+	- ((64625526-7abe-416b-8538-8f2d05123946))
 	- ((64625143-588e-4dc1-a991-4b27deea3a85))
 	- [[Ponti e ponti locali]]
 	- [[Ponti locali e legami deboli]]
