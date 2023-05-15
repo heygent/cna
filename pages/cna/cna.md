@@ -3,8 +3,8 @@ banner:: https://images.unsplash.com/photo-1545987796-200677ee1011?ixlib=rb-4.0.
 color:: "#7cdeff"
 public:: true
 
--
--
+- # Flashcard
+	- {{cards (and (page-tags cna) [[card]])}}
 - # Syllabus
 	- # Introduction
 	  date:: [[2023-02-07]]
