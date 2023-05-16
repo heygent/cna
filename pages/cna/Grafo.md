@@ -154,7 +154,7 @@ tags:: cna
 			- Se la ((642308ed-6d6f-4c41-b709-e55f89808c85)) $d < 1$, il grafo è sparso.
 				- Se $L$ è nell'ordine di $N$, il grafo è sparso.
 				- Se $L$ è nell'ordine di $N^2$, il grafo è denso.
-- # Proprietà globali #card
+- # Proprietà globali
   id:: 64230819-c4a5-41cb-8c3c-1f5aa77033be
 	- ## Cammini e distanze
 	  id:: 64368a97-14dd-4a64-95fb-cc81a0328d14
