@@ -92,6 +92,7 @@ tags:: cna
 			- **Semplificare** è utile quando porta ad affermazioni che sono robuste nella pratica, che abbiano senso come **conclusioni qualitative che reggono in forme approssimative** anche quando le assunzioni vengono rilassate.
 			- Di fatto, l'argomentazione matematica può essere riassunta più informalmente e approssimativamente dicendo che nella vita reale **un ponte locale tra nodi A e B tende a essere un legame debole**, perché se non lo fosse, l**a chiusura triadica tenderebbe a produrre scorciatoie** da $A$ a $B$ che **eliminerebbero il suo ruolo come ponte locale.**
 - # Validazione empirica dell'ipotesi di Granovetter
+  id:: 64637645-e7fa-496f-86e6-323d38388366
 	- Per molti anni dopo il lavoro iniziale di Granovetter queste predizioni sono rimaste a lungo **relativamente non testate** su reti sociali in larga scala, data la difficoltà nel trovare dati che catturassero affidabilmente la forza degli archi in contesti realistici di larga scala.
 		- Questo cambia con avvento di **comunicazione digitale** e documentazioni dettagliate.
 	- Questi dati su **chi-parla-con-chi** esibiscono i due ingredienti richiesti per la valutazione empirica:
