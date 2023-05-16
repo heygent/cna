@@ -72,15 +72,15 @@ tags:: cna
 		- Proiezione 2: rete di interazione tra compagnie
 			- ((64632b72-7fb6-448f-a441-d25d9b508b78))
 	- ## Chiusure
-		- **friendship transitivity**
+		- ### Friendship transitivity
 			- ((64632b9a-ef30-417a-838d-7e4e7ae2deaa))
 			- amicizie nate per ((64625526-7abe-416b-8538-8f2d05123946))
-		- **chiusura focale**
+		- ### Chiusura focale
 			- ((64632bb0-bba8-4417-899d-1eff21a0bb04))
 			- $A$ è un focus (attività) e $B$ e $C$ sono individui connessi a quest'attività.
 			- Possiamo predire che $B$ e $C$ prima o poi diventeranno amici.
 			- Questa chiusura avviene per ((631cbf8f-e240-4708-8447-f7a31eeb87f5))
-		- **membership closure**
+		- ### Membership closure
 			- ((64632bd6-9e4d-4f70-ab77-0e923ffcfb59))
 			- $A$ e $B$ sono connessi da una relazione, e $A$ ha un focus
 			- Si può predire che $B$ interagirà con lo stesso focus
