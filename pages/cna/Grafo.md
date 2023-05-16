@@ -22,14 +22,12 @@ tags:: cna
   id:: 6422f672-3d23-4979-9b1e-299afce67298
 	- ## Grafo bipartito
 	  id:: 64368a97-1853-46f2-946d-aba0b766a52e
-	  collapsed:: true
 		- ((6422f6a5-d4db-4b84-ada4-1624743597e3))
 		- Due tipi di nodi
 		- Esistono archi solo tra nodi di tipo opposto
 		- > es: attore -> film
 	- ## Rete multilayer
 	  id:: 64368a97-78f5-40da-9106-66f02375b7b1
-	  collapsed:: true
 		- Una rete può avere più layer, ognuno con i suoi nodi e archi.
 			- > es: reti di trasporto aereo di compagnie di volo distinte, ognuna con i suoi nodi e archi.
 		- ### Link intralayer
@@ -246,7 +244,6 @@ tags:: cna
 			- Dati $G$, $G_R$ randomizzazione di $G$, il coefficiente di clustering è "alto" se:
 				- $$CC(G) > > CC(G_R)$$
 - # Rappresentazioni
-  collapsed:: true
 	- ## Rappresentazioni compatte
 		- ### Matrice di adiacenza (non orientato)
 			- ((64230b35-a956-48b0-bcb8-ff6b79cb0e5f))
