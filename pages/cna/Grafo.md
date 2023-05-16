@@ -178,20 +178,21 @@ tags:: cna
 		  card-last-interval:: 4
 		  card-ease-factor:: 2.6
 		  card-last-reviewed:: 2022-10-20T17:30:21.919Z
+		  id:: 646328e9-cc36-4507-8a8d-e04541c01d4b
 			- #### Lunghezza media dei cammini
 			  id:: 646328e9-959c-4cee-8058-d017e8806c35
 				- $$< l > = \frac{\sum_{ij}l_{ij}}{N(N-1)}$$
 			- #### Diametro
 			  id:: 64368a97-9392-4dfc-8f6e-fc99ca2c919e
 				- $$l_{\text{max}} = \max_{ij}l_{ij}$$
-			- Se ci sono elementi disconnessi, APL e diametro sono indefiniti.
+			- Se ci sono elementi disconnessi, lunghezza media e diametro sono indefiniti.
 				- $< l > = \frac{\sum_{ij}l_{ij}}{N(N-1)} = \infty$
 				- Trucco matematico:
 					- $$< l > = \left(\frac{\sum_{ij}\frac{1}{l_{ij}}}{N(N-1)}\right)^{-1}$$
 		- ### Small-world effect
 		  id:: 64633030-d7ea-434e-ada5-456426e9b83b
 			- Si può trovare una catena relativamente corta di conoscenti che collegano quasi qualunque coppia di individui nel pianeta.
-			- In altre parole, la lunghezza media dei cammini è molto breve.
+			- In altre parole, la ((646328e9-959c-4cee-8058-d017e8806c35)) è molto breve.
 			- La lunghezza media dei cammini viene considerata breve quando cresce molto lentamente rispetto alla dimensione della rete, ad esempio logaritmicamente:
 				- $< \mathcal{l}> \approx logN$
 	- ## Connettività
