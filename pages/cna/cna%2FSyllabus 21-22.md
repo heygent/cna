@@ -11,7 +11,7 @@
 	- [[Grado e forza]]
 	- ((646328e9-2e66-4d4d-b901-886cd864fa90)) e ((64368a97-5d3e-4c20-8c62-6c42ceac80f6))
 	- [[Rappresentazioni di reti]]
-	- [[Disegnare reti]]
+	- Disegnare reti
 	- ((64368a97-14dd-4a64-95fb-cc81a0328d14))
 	- ((64368a97-8099-48bf-b424-298fc228d1bb))
 	- [ns1] Sec. 1.1, 1.3-1.10, 2.2, 2.3 | [ns2] Sec.[ 2.1, 2.2](https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book-ch02.pdf) | Slides: ![ns01.pdf](../assets/ns01_1662802012700_0.pdf) (39-51) - ![ns02.pdf](../assets/ns02_1662802059480_0.pdf) (1-36) | [recorded lecture ](https://unito.webex.com/recordingservice/sites/unito/recording/983150ec7c3f103abdd7005056810190/playback)
@@ -23,7 +23,7 @@
 	- Friend of a Friend
 	- ((646328e9-442d-4f04-ac0c-fe6650ac3e66))
 	- ((64625526-7abe-416b-8538-8f2d05123946))
-	- [[La forza dei legami deboli]]
+	- [[Legami forti e deboli]]
 	- ((64637645-e7fa-496f-86e6-323d38388366))
 	- [ns1] Sec. 2.5-2.8 | [ns2] Sec. [2.3, 2.4](https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book-ch02.pdf), [3.1, 3.2, 3.3](https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book-ch03.pdf) | Slides: ![ns02.pdf](../assets/ns02_1662802059480_0.pdf) (37-58) - ![ns03.pdf](../assets/ns03_1662820229075_0.pdf) (1-44) | [recorded lecture ](https://unito.webex.com/recordingservice/sites/unito/recording/31acf5a7802d103abdfb005056828c5a/playback)
 - 2022.03.09 - Lecture 4:
