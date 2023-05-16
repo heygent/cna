@@ -190,7 +190,7 @@ tags:: cna
 		- ### Small-world effect
 			- Si può trovare una catena relativamente corta di conoscenti che collegano quasi qualunque coppia di individui nel pianeta.
 			- In altre parole, la lunghezza media dei cammini è molto breve.
-			- La APL è corta quando **cresce molto lentamente** rispetto alla dimensione della rete, ad esempio logaritmicamente:
+			- La APL viene considerata breve quando cresce molto lentamente rispetto alla dimensione della rete, ad esempio logaritmicamente:
 				- $< \mathcal{l}> \approx logN$
 	- ## Connettività
 	  id:: 64368a97-8099-48bf-b424-298fc228d1bb
