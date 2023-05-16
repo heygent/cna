@@ -235,7 +235,7 @@ tags:: cna
 			- media dei coefficienti di clustering di tutti i nodi.
 			- $$C = \frac{\sum_{i:k_i > 1} C(i)}{N_{k > 1}}$$
 		- ## Coefficiente di clustering alto o basso
-			- Se guardiamo la rete per un periodo di tempo più lungo, possiamo osservare diversi archi formarsi tramite la chiusura triadica, mentre altri si formano anche se i due endpoint non hanno vicini in comune.
+			- Osservando una rete per un certo periodo di tempo, si possono osservare diversi archi formarsi tramite la chiusura triadica, mentre altri si formano anche se i due endpoint non hanno vicini in comune.
 			- **CC alto**
 				- le reti sociali tendono ad avere coefficienti di clustering alti per la ((64625526-7abe-416b-8538-8f2d05123946)): ci conosciamo tramite amici in comune.
 			- **CC basso**
