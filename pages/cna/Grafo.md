@@ -248,6 +248,7 @@ tags:: cna
 	  id:: 646275b2-7887-4bef-83fa-dbaf2a264cd5
 		- Rappresentazione adatta per matrici compatte.
 		- Memoria richiesta da una matrice di adiacenza è proporzionale a $N^2$.
+		  id:: 64632463-ad06-42c4-9264-0668c5c2535e
 		- ### Non orienatata
 			- ((64230b35-a956-48b0-bcb8-ff6b79cb0e5f))
 			-
@@ -276,6 +277,7 @@ tags:: cna
 			  \end{aligned}
 	- ## Rappresentazioni sparse
 		- La memoria richiesta da una matrice di adiacenza è proporzionale a $N^2$.
+		- ((64632463-ad06-42c4-9264-0668c5c2535e))
 		- Nelle reti sparse, ciò è terribilmente inefficiente
 			- la maggior parte dello spazio è sprecato salvando degli zeri (non-collegamenti)
 			- Per reti molto grandi, le matrici di adiacenza non sono usabili.
