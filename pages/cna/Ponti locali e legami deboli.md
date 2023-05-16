@@ -4,7 +4,7 @@ tags:: cna
 	- Apparentemente non c'è connessione tra le due nozioni, ma di fatto usando la ((64625526-7abe-416b-8538-8f2d05123946)) si può stabilire un collegamento nella seguente affermazione
 		- > Se un nodo $A$ in una rete soddisfa la proprietà di chiusura triadica forte ed è coinvolto in almeno due legami forti, allora ogni ponte locale che vi è coinvolto **deve essere un legame debole.**
 	- ## Dimostrazione
-		- ![image.png](../assets/image_1662744637303_0.png){:height 229, :width 325}
+		- ![image.png](../assets/image_1662744637303_0.png){:height 339, :width 424}
 		- La dimostrazione procede per contraddizione.
 		- Si consideri una rete e un nodo $A$ che soddisfa la proprietà di ((631af503-9746-4c05-aefa-2b1000b877dd)) e che è coinvolto in almeno due legami forti.
 		- Ora si supponga che esista un ((631aefdf-9178-4e44-91a5-69200e94239c)) $A \rightarrow B$, e che sia un legame forte.
@@ -13,9 +13,9 @@ tags:: cna
 		- Dato che l'arco $A \rightarrow B$ è un ponte locale, $A$ e $B$ **non dovrebbero avere amici in comune**, per cui il ponte $B \rightarrow C$ **non dovrebbe esistere.**
 		- Questo contraddice la proprietà di chiusura triadica forte: dato che gli archi $A \rightarrow B$ e $A \rightarrow C$ sono entrambi legami forti, il legame $B \rightarrow C$ dovrebbe esistere.
 		- Questa contraddizione mostra che **non può esistere un legame forte che sia un ponte locale.**
-- # Considerazioni
-	- Questa argomentazione completa la connessione tra la proprietà locale della forza di legame e la proprietà globale di servire da ponte locale.
-	- In quanto tale, ci dà modo di pensare al modo in cui proprietà interpersonali di reti sociali sono collegate a considerazioni più ampie riguardanti la struttura della rete.
-	- La chiusura triadica forte è molto forte come assunzione.
-		- **Semplificare** è utile quando porta ad affermazioni che sono robuste nella pratica, che abbiano senso come **conclusioni qualitative che reggono in forme approssimative** anche quando le assunzioni vengono rilassate.
-		- Di fatto, l'argomentazione matematica può essere riassunta più informalmente e approssimativamente dicendo che nella vita reale **un ponte locale tra nodi A e B tende a essere un legame debole**, perché se non lo fosse, l**a chiusura triadica tenderebbe a produrre scorciatoie** da $A$ a $B$ che **eliminerebbero il suo ruolo come ponte locale.**
+	- ## Considerazioni
+		- Questa argomentazione completa la connessione tra la proprietà locale della forza di legame e la proprietà globale di servire da ponte locale.
+		- In quanto tale, ci dà modo di pensare al modo in cui proprietà interpersonali di reti sociali sono collegate a considerazioni più ampie riguardanti la struttura della rete.
+		- La chiusura triadica forte è molto forte come assunzione.
+			- **Semplificare** è utile quando porta ad affermazioni che sono robuste nella pratica, che abbiano senso come **conclusioni qualitative che reggono in forme approssimative** anche quando le assunzioni vengono rilassate.
+			- Di fatto, l'argomentazione matematica può essere riassunta più informalmente e approssimativamente dicendo che nella vita reale **un ponte locale tra nodi A e B tende a essere un legame debole**, perché se non lo fosse, l**a chiusura triadica tenderebbe a produrre scorciatoie** da $A$ a $B$ che **eliminerebbero il suo ruolo come ponte locale.**
