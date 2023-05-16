@@ -7,8 +7,8 @@
 		- directed networks
 	- [[Densità e sparsità]]
 	- ((6462989a-ec74-4814-ba4f-745fd640511c)) e ((64368a97-7c8d-411c-a1ab-d08880fe1e29))
-	- [[Grado e forza]]
 		- weighted networks
+	- [[Grado e forza]]
 	- [[Reti multilayer e temporali]]
 	- [[Rappresentazioni di reti]]
 	- [[Disegnare reti]]
