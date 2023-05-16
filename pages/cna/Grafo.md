@@ -190,7 +190,7 @@ tags:: cna
 			- La APL è corta quando **cresce molto lentamente** rispetto alla dimensione della rete, ad esempio logaritmicamente:
 				- $< \mathcal{l}> \approx logN$
 		- ### Small-world effect
-			- Si può osservare
+			- Si può trovare una catena relativamente corta di conoscenti che collegano quasi qualunque coppia di individui nel pianeta
 	- ## Connettività
 	  id:: 64368a97-8099-48bf-b424-298fc228d1bb
 		- ### Grafo connesso
