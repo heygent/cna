@@ -201,7 +201,7 @@ tags:: cna
 			- esiste un arco tra ogni coppia di nodi.
 		- ### Componente connessa
 		  id:: 6bc08bd9-9b69-4966-80d2-012ab396bd72
-			- sottografo connesso. Un grafo **non connesso** ha diverse componenti connesse.
+			- sottografo connesso. Un grafo **non connesso** ha diverse **componenti** connesse.
 		- ### Giant component
 			- componente connessa più grande. Solitamente include una porzione sostanziale della rete
 		- ### Singleton #card
