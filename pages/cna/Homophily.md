@@ -69,9 +69,12 @@ tags:: cna
 		- ((64632af3-0948-406b-b883-1d2af50a11b2))
 		- Proiezione 1: rete di interazione tra membri delle compagnie
 			- ((64632b62-4ad0-49f8-8a63-b89abccd0ef2))
+		- Proiezione 2: rete di interazione tra compagnie
+			- ((64632b72-7fb6-448f-a441-d25d9b508b78))
 	- ## Chiusure
 		- ((631cc3ec-71ba-40b5-b8df-2fd1ddbd284c))
 			- **friendship transitivity**
+				- ((64632b9a-ef30-417a-838d-7e4e7ae2deaa))
 				- amicizie nate per ((64625526-7abe-416b-8538-8f2d05123946))
 			- **chiusura focale**
 				- $A$ è un focus (attività) e $B$ e $C$ sono individui connessi a quest'attività.
