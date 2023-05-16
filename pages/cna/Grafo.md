@@ -203,6 +203,7 @@ tags:: cna
 		  id:: 6bc08bd9-9b69-4966-80d2-012ab396bd72
 			- sottografo connesso. Un grafo **non connesso** ha diverse **componenti** connesse.
 		- ### Giant component
+		  id:: 646328e9-4cf5-403f-9379-95fb60431ebb
 			- componente connessa più grande. Solitamente include una porzione sostanziale della rete
 		- ### Singleton #card
 		  card-last-interval:: -1
