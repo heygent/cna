@@ -184,7 +184,7 @@ tags:: cna
 				- $$< l > = \frac{\sum_{ij}l_{ij}}{N(N-1)}$$
 			- #### Diametro
 			  id:: 64368a97-9392-4dfc-8f6e-fc99ca2c919e
-				- $$l_{\text{max}} = max_{ij}l_{ij}$$
+				- $$l_{\text{max}} = \max_{ij}l_{ij}$$
 			- Se ci sono elementi disconnessi, APL e diametro sono indefiniti.
 				- $< l > = \frac{\sum_{ij}l_{ij}}{N(N-1)} = \infty$
 				- Trucco matematico:
