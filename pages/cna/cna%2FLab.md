@@ -8,7 +8,7 @@
 		  :LOGBOOK:
 		  CLOCK: [2022-09-13 Tue 18:37:34]--[2022-09-13 Tue 18:37:35] =>  00:00:01
 		  :END:
-		- TODO Degree [[Grado e forza]]
+		- TODO Degree  ((6462989a-ec74-4814-ba4f-745fd640511c))
 			- DONE average
 			- DONE variance/standard deviation
 			- TODO degree distribution
