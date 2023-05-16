@@ -86,6 +86,7 @@ tags:: cna
 		- Potrebbero non esserci rotte dirette tra l'aeroporto A e B (se sono piccoli), ma può essere possibile arrivare da A a B tramite un aeroporto hub C
 	- La proprietà di small world è tipica della maggior parte delle reti di interesse
 	- **Se la rete ha hub, i camini sono molto brevi.**
+	- Vedi: ((64633030-d7ea-434e-ada5-456426e9b83b))
 - # Robustness #card
   id:: 646165e2-153c-4b4a-a1f8-eddf930fdb9e
   card-last-interval:: -1
