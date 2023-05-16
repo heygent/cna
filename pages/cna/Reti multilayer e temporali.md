@@ -21,3 +21,5 @@ tags:: cna
 	- **fallimento a cascata**
 	  id:: baa0e947-52eb-406a-a2f1-b7edefd384d1
 		- tipo di vulnerabilità imprevedibile che sorge nelle reti di reti, dato che un fallimento in una certa rete può causare problemi massicci in un'altra.
+		- ((646328e9-2e66-4d4d-b901-886cd864fa90))
+		- ((64368a97-5d3e-4c20-8c62-6c42ceac80f6))
