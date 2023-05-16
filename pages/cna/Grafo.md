@@ -285,8 +285,9 @@ tags:: cna
 			- ((64230ba0-d361-4e1e-8d11-c35c5ade9ffd))
 			- Nei grafi orientati, ogni arco è rappresentato due volte.
 		- ## Lista di archi
-			- ((64230bbc-d085-4207-b4f2-64906fe84412))
-		- ## Lista di archi pesata
-			- ((64230bcc-1bb5-416d-874f-018c87c98472))
+			- ### Senza pesi
+				- ((64230bbc-d085-4207-b4f2-64906fe84412))
+			- ### Con pesi
+				- ((64230bcc-1bb5-416d-874f-018c87c98472))
 		- ## Grafi temporali
 			- ((64230c55-31cc-4207-a209-c4a7fb5c37e6))
