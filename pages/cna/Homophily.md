@@ -1,7 +1,6 @@
 tags:: cna
 
 - Materiale
-	- ![ns04.pdf](../assets/ns04_1662822358157_0.pdf)
 	- ![Lecture06ns04.pdf](../assets/Lecture06ns04_1679220329786_0.pdf)
 	- ![Appunti_Bryan.pdf](../assets/Appunti_Bryan_1662823146183_0.pdf)
 - # Contesto circostante
