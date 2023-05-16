@@ -1,5 +1,6 @@
 tags:: cna
 
+- # Validazione empirica dell'ipotesi di Granovetter
 - Per molti anni dopo il lavoro iniziale di Granovetter queste predizioni sono rimaste a lungo **relativamente non testate** su reti sociali in larga scala, data la difficoltà nel trovare dati che catturassero affidabilmente la forza degli archi in contesti realistici di larga scala.
 	- Questo cambia con avvento di **comunicazione digitale** e documentazioni dettagliate.
 - Questi dati su **chi-parla-con-chi** esibiscono i due ingredienti richiesti per la valutazione empirica:
