@@ -9,7 +9,7 @@
 	- ((6462989a-ec74-4814-ba4f-745fd640511c)) e ((64368a97-7c8d-411c-a1ab-d08880fe1e29))
 		- weighted networks
 	- [[Grado e forza]]
-	- [[Reti multilayer e temporali]]
+	- ((646328e9-2e66-4d4d-b901-886cd864fa90)) e ((64368a97-5d3e-4c20-8c62-6c42ceac80f6))
 	- [[Rappresentazioni di reti]]
 	- [[Disegnare reti]]
 	- ((64368a97-14dd-4a64-95fb-cc81a0328d14))
