@@ -30,8 +30,8 @@
 		- small world effect
 		- ((64625143-588e-4dc1-a991-4b27deea3a85))
 	- Rappresentazioni di reti
-		- adjacency matrix
-		- adjacency list
+		- ((646275b2-7887-4bef-83fa-dbaf2a264cd5))
+		- ((646275b2-a596-4444-b231-f4aa39798f57))
 		- edge list
 - # [[Legami forti e deboli]]
 	- date:: [[2023-03-06]]

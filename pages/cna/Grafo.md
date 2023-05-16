@@ -276,12 +276,12 @@ tags:: cna
 			  \end{split}
 			  \end{aligned}
 	- ## Rappresentazioni sparse
-		- La memoria richiesta da una matrice di adiacenza è proporzionale a $N^2$.
 		- ((64632463-ad06-42c4-9264-0668c5c2535e))
-		- Nelle reti sparse, ciò è terribilmente inefficiente
-			- la maggior parte dello spazio è sprecato salvando degli zeri (non-collegamenti)
-			- Per reti molto grandi, le matrici di adiacenza non sono usabili.
+			- Nelle reti sparse, ciò è terribilmente inefficiente
+				- la maggior parte dello spazio è sprecato salvando degli zeri (non-collegamenti)
+				- Per reti molto grandi, le matrici di adiacenza non sono usabili.
 		- ## Lista di adiacenza
+		  id:: 646275b2-a596-4444-b231-f4aa39798f57
 			- ((64230ba0-d361-4e1e-8d11-c35c5ade9ffd))
 			- Nei grafi orientati, ogni arco è rappresentato due volte.
 		- ## Lista di archi
