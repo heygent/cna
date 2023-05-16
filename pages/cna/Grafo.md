@@ -246,6 +246,8 @@ tags:: cna
 - # Rappresentazioni
 	- ## Matrice di adiacenza
 	  id:: 646275b2-7887-4bef-83fa-dbaf2a264cd5
+		- Rappresentazione adatta per matrici compatte.
+		- Memoria richiesta da una matrice di adiacenza è proporzionale a $N^2$.
 		- ### Non orienatata
 			- ((64230b35-a956-48b0-bcb8-ff6b79cb0e5f))
 			-
