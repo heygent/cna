@@ -21,7 +21,7 @@
 	- Social Distance
 	- Six Degrees of Separation
 	- Friend of a Friend
-	- [[Forza dei legami]]
+	- ((646328e9-442d-4f04-ac0c-fe6650ac3e66))
 	- [[Chiusura triadica]]
 	- [[La forza dei legami deboli]]
 	- [[Validazione empirica dell'ipotesi di Granovetter]]

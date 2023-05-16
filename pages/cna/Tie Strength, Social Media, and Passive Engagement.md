@@ -4,7 +4,7 @@ tags:: cna
 - Com'è ben riconosciuto dagli utenti di strumenti di social networking, le persone mantengono grandi liste esplicite di amici nei loro profili.
 	- In contrasto, in passato questi circoli di amicizie erano molto più impliciti, e difficili da enumerare.
 - Qual'è l'effetto?
-	- La forza dei legami può fornire una prospettiva importante su queste domande, fornendo un linguaggio per chiedere **come le attività sociali online siano distribuite tramite diversi tipi di legami** - e, in particolare, come siano distribuite tramite [[Forza dei legami]].
+	- La forza dei legami può fornire una prospettiva importante su queste domande, fornendo un linguaggio per chiedere **come le attività sociali online siano distribuite tramite diversi tipi di legami** - e, in particolare, come siano distribuite tramite [legami deboli e forti](((646328e9-442d-4f04-ac0c-fe6650ac3e66))).
 	  id:: 631c6318-945e-4bdc-9d4a-6f786efb72de
 	- Quando vediamo persone che mantengono centinaia di amicizie in un sito di social networking, possiamo chiedere quante di queste corrispondano a legami forti che coinvolgono contatti frequenti, e quanti di queste corrispondano a legami deboli che vengono attivati in modo relativamente raro.
 - # Forza dei legami su Facebook
