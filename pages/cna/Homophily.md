@@ -61,9 +61,10 @@ tags:: cna
 		  G = (U, V, E) \\
 		  \forall(u, v) \in E : u \in U \land v \in V
 		  $$
-	- ((631cc2cc-823d-4bad-a443-dabd3605eab5))
+	- ((64632a86-5ed9-4a21-a210-fc4345e425d0))
 	- **rete di affiliazione sociale**
 		- rete in cui i dati sui rapporti sociali e sui FOCI vengono uniti.
+		-
 	- ## Chiusure
 		- ((631cc3ec-71ba-40b5-b8df-2fd1ddbd284c))
 			- **friendship transitivity**
