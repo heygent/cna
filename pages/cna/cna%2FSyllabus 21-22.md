@@ -5,11 +5,11 @@
 	- [[Grafo]]
 		- subnetworks
 		- directed networks
-	- ((646328e9-667a-41fd-b8be-11a2acc3a2c4))
+	- ((64368a97-a071-42ad-9844-7d0ec1cf7814))
 	- ((6462989a-ec74-4814-ba4f-745fd640511c)) e ((64368a97-7c8d-411c-a1ab-d08880fe1e29))
 		- weighted networks
 	- [[Grado e forza]]
-	- ((646328e9-2e66-4d4d-b901-886cd864fa90)) e ((64368a97-5d3e-4c20-8c62-6c42ceac80f6))
+	- ((64368a97-78f5-40da-9106-66f02375b7b1)) e ((64368a97-5d3e-4c20-8c62-6c42ceac80f6))
 	- [[Rappresentazioni di reti]]
 	- Disegnare reti
 	- ((64368a97-14dd-4a64-95fb-cc81a0328d14))

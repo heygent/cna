@@ -18,7 +18,7 @@
 		  CLOCK: [2022-09-13 Tue 19:19:21]--[2022-09-13 Tue 19:19:22] =>  00:00:01
 		  :END:
 		- DONE Largest connected component size ((64368a97-8099-48bf-b424-298fc228d1bb))
-		- ((646328e9-f8bc-4f19-9f31-be5b42037809))
+		- ((64368a97-8099-48bf-b424-298fc228d1bb))
 		- DONE [[Degree correlation]]: neutral, assortative, disassortative?
 		  :LOGBOOK:
 		  CLOCK: [2022-09-13 Tue 19:16:02]--[2022-09-13 Tue 19:16:02] =>  00:00:00
