@@ -15,7 +15,7 @@ tags:: cna
 	- **embeddedness**
 		- proprietà di un arco
 		- il numero di vicini in comune tra i due estremi
-		- numeratore della [[Neighborhood overlap]]
+		- numeratore della ((646328e9-d663-4aea-be62-57acee3b83c3))
 		- ((631aefdf-9178-4e44-91a5-69200e94239c)): arco la cui embeddedness è uguale a 0.
 	- ## Comportamenti scorretti
 	  id:: 631c8621-cfea-4690-a6bb-80d015caadd8

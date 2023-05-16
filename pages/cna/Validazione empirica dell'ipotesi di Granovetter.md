@@ -23,6 +23,26 @@ tags:: cna
 		- Si può rendere **la forza di un arco una quantità numerica**, definendola come il **totale dei minuti** spesi in chiamata.
 		- Diventa anche utile **ordinare tutti gli archi per forza**, così per ogni dato arco possiamo chiedere quale percentile occupa.
 		- {{embed [[Neighborhood overlap]]}}
+	- # Neighborhood overlap
+	  id:: 646328e9-d663-4aea-be62-57acee3b83c3
+		- Ponti locali sono una frazione molto piccola degli archi in una rete telefonica.
+		- Si può ammorbidire anche questa definizione, così che alcuni archi siano "quasi" ponti locali.
+		- La *neighborhood overlap* di un arco $A \rightarrow B$ è il rapporto:
+			- $$O_{AB} = \frac{|N(A) \cap N(B)|}{|N(A) \cup N(B)|}$$
+			- Nel denominatore $A$ e $B$ non sono inclusi.
+		- #### Esempio
+			- ![image.png](../assets/image_1662798096968_0.png){:height 304, :width 331}
+			- Si consideri l'arco $A \rightarrow F$.
+			- Il denominatore della neighborhood overlap di $A \rightarrow F$ è determinato dai nodi $B, C, D, E, G, J$, visto che questi sono vicini di almeno uno tra $A$ e $F$.
+			- Di questi, solo $C$ è vicino sia di $A$ che di $F$, per cui la **neighborhood overlap è ⅙.**
+		- ### Caratteristica chiave
+			- Il rapporto in questione è 0 precisamente quando il numeratore è 0, e quindi quando l'arco è un ((631aefdf-9178-4e44-91a5-69200e94239c)).
+			- $$O_{AB} = 0 \Leftrightarrow A \rightarrow B \enspace\text{è un ponte locale.}$$
+			- Possiamo pensare ad archi con neighborhood overlap molto piccola come "quasi" ponti locali.
+			- Intuitivamente, archi con **neighborhood overlap piccola** consistono di nodi che viaggiano in **circoli sociali che non hanno quasi nessuno in comune.**
+		- ![image.png](../assets/image_1662800228165_0.png){:height 313, :width 344}
+			- Grafico della neighborhood overlap di archi in funzione del loro percentile ordinati per forza.
+			- Il fatto che l'overlap aumenti con la forza dei legami è consistente con le predizioni teoriche.
 - ## Analisi indiretta di Onnela et al.
 	- **Hanno eliminato archi** dalla rete uno alla volta, **partendo dai legami più forti** e scendendo in basso in ordine di forza dei legami.
 		- Il ((6319c11b-bddf-4fbb-bf24-9689c9e2f021)) si è ridotto consistentemente facendo questo, con la sua dimensione che scendeva gradualmente.
