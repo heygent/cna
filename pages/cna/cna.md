@@ -41,7 +41,7 @@
 	- ((64625526-7abe-416b-8538-8f2d05123946))
 	- ((64625143-588e-4dc1-a991-4b27deea3a85))
 	- ((646275b2-d730-4377-b20c-44e761e3a1a5)) e ((631aefdf-9178-4e44-91a5-69200e94239c))
-	- [[Ponti locali e legami deboli]]
+	- ((646357c4-b064-4a5e-92aa-22bbec17f577))
 	- [[Validazione empirica dell'ipotesi di Granovetter]]
 - # [[Homophily]]
   date:: [[2023-03-08]]
