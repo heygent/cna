@@ -91,3 +91,56 @@ tags:: cna
 		- La chiusura triadica forte è molto forte come assunzione.
 			- **Semplificare** è utile quando porta ad affermazioni che sono robuste nella pratica, che abbiano senso come **conclusioni qualitative che reggono in forme approssimative** anche quando le assunzioni vengono rilassate.
 			- Di fatto, l'argomentazione matematica può essere riassunta più informalmente e approssimativamente dicendo che nella vita reale **un ponte locale tra nodi A e B tende a essere un legame debole**, perché se non lo fosse, l**a chiusura triadica tenderebbe a produrre scorciatoie** da $A$ a $B$ che **eliminerebbero il suo ruolo come ponte locale.**
+- # Validazione empirica dell'ipotesi di Granovetter
+	- Per molti anni dopo il lavoro iniziale di Granovetter queste predizioni sono rimaste a lungo **relativamente non testate** su reti sociali in larga scala, data la difficoltà nel trovare dati che catturassero affidabilmente la forza degli archi in contesti realistici di larga scala.
+		- Questo cambia con avvento di **comunicazione digitale** e documentazioni dettagliate.
+	- Questi dati su **chi-parla-con-chi** esibiscono i due ingredienti richiesti per la valutazione empirica:
+		- **struttura di rete** delle comunicazioni tra coppie di persone
+		- **tempo totale** che le due persone spendono a parlarsi a vicenda
+			- più tempo le due persone spendono a parlarsi a vicenda, maggiore sarà dichiarata la forza del legame.
+			- $(w, s) \rightarrow (0, 1) \rightarrow [0, +\infty]$
+	- ## Il caso delle reti telefoniche
+		- Nel 2007 è stata studiata una rete mantenuta da un provider di telefoni cellulari che copriva circa **il 20% di una popolazione nazionale**.
+			- **nodi**: utenti
+			- **archi**: chiamate effettuate in ogni direzione in un periodo di osservazione di **18 settimane**
+		- La rete può essere vista come un campionamento ragionevole delle conversazioni che avvengono all'interno di una rete sociale che rappresenta una frazione significativa della popolazione di una nazione.
+		- I dati esibiscono molte delle larghe caratteristiche strutturali delle reti sociali tipiche, incluso un ((6319c11b-bddf-4fbb-bf24-9689c9e2f021)) che conteneva l'84% degli individui nella rete.
+	- ## Generalizzazione dei concetti di legame debole e ponte locale
+		- La formulazione teorica è basata su due definizioni che impongono dicotomie rigide sulla rete:
+			- un arco è un [legame debole o forte](((646328e9-442d-4f04-ac0c-fe6650ac3e66))), e:
+				- $\forall e \in L : w(e) \in [0, +\infty]$
+			- è un ((631aefdf-9178-4e44-91a5-69200e94239c)) o non lo è.
+		- Per entrambe queste definizioni, è **utile avere versioni che esibiscono gradazioni più levigate** quando andiamo a esaminare dati reali su larga scala.
+		- Si può rendere **la forza di un arco una quantità numerica**, definendola come il **totale dei minuti** spesi in chiamata.
+		- Diventa anche utile **ordinare tutti gli archi per forza**, così per ogni dato arco possiamo chiedere quale percentile occupa.
+	- ## Neighborhood overlap
+	  id:: 646328e9-d663-4aea-be62-57acee3b83c3
+		- Ponti locali sono una frazione molto piccola degli archi in una rete telefonica.
+		- Si può ammorbidire anche questa definizione, così che alcuni archi siano "quasi" ponti locali.
+		- La *neighborhood overlap* di un arco $A \rightarrow B$ è il rapporto:
+			- $$O_{AB} = \frac{|N(A) \cap N(B)|}{|N(A) \cup N(B)|}$$
+			- Nel denominatore $A$ e $B$ non sono inclusi.
+		- #### Esempio
+			- ![image.png](../assets/image_1662798096968_0.png){:height 304, :width 331}
+			- Si consideri l'arco $A \rightarrow F$.
+			- Il denominatore della neighborhood overlap di $A \rightarrow F$ è determinato dai nodi $B, C, D, E, G, J$, visto che questi sono vicini di almeno uno tra $A$ e $F$.
+			- Di questi, solo $C$ è vicino sia di $A$ che di $F$, per cui la **neighborhood overlap è ⅙.**
+		- ### Caratteristica chiave
+			- Il rapporto in questione è 0 precisamente quando il numeratore è 0, e quindi quando l'arco è un ((631aefdf-9178-4e44-91a5-69200e94239c)).
+			- $$O_{AB} = 0 \Leftrightarrow A \rightarrow B \enspace\text{è un ponte locale.}$$
+			- Possiamo pensare ad archi con neighborhood overlap molto piccola come "quasi" ponti locali.
+			- Intuitivamente, archi con **neighborhood overlap piccola** consistono di nodi che viaggiano in **circoli sociali che non hanno quasi nessuno in comune.**
+		- ![image.png](../assets/image_1662800228165_0.png){:height 313, :width 344}
+			- Grafico della neighborhood overlap di archi in funzione del loro percentile ordinati per forza.
+			- Il fatto che l'overlap aumenti con la forza dei legami è consistente con le predizioni teoriche.
+	- ## Analisi indiretta di Onnela et al.
+		- **Hanno eliminato archi** dalla rete uno alla volta, **partendo dai legami più forti** e scendendo in basso in ordine di forza dei legami.
+			- Il ((6319c11b-bddf-4fbb-bf24-9689c9e2f021)) si è ridotto consistentemente facendo questo, con la sua dimensione che scendeva gradualmente.
+		- Hanno poi provato a fare la stessa cosa, ma **partendo dai legami più deboli** e salendo in ordine di forza. In questo caso, hanno scoperto che:
+			- il **giant component si riduceva più rapidamente**
+			- i suoi resti si rompevano in modo **brusco e rapido** una volta rimosso un numero critico di legami deboli.
+		- Tutto questo è consistente con l'idea che **i legami deboli forniscono la struttura connettiva più cruciale** per tenere insieme comunità disparate, e per **mantenere la struttura globale del giant component intatta**.
+		- ## Conclusioni
+			- Questo è solo un primo passo nel valutare teorie sulla forza dei legami su dati di reti di questa scala.
+			- Illustra alcune delle sfide inerenti: data la dimensione e la complessità della rete, non possiamo semplicemente guardare e "vedere cosa c'è"
+			- Generalmente, è necessario usare misure indirette, e dato che si sa relativamente poco del significato o dell'importanza di ogni particolare nodo o arco, resta una sfida di ricerca cercare di trarre conclusioni più ricche e dettagliate nello stesso modo in cui è possibile su dataset più piccoli.
