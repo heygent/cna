@@ -245,7 +245,8 @@ tags:: cna
 				- $$CC(G) > > CC(G_R)$$
 - # Rappresentazioni
 	- ## Rappresentazioni compatte
-		- ### Matrice di adiacenza (non orientato)
+	  id:: 646275b2-7887-4bef-83fa-dbaf2a264cd5
+		- ## Matrice di adiacenza (non orientato)
 			- ((64230b35-a956-48b0-bcb8-ff6b79cb0e5f))
 			-
 			- $$
