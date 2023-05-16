@@ -4,7 +4,7 @@
 	- gephi is a great tool if you need to analyze/visualize an adequately small network. You can use gephi at this stage to better and quickly visualize the network, but you must focus on other tools to perform the majority of your measures (see next slide)
 - ## Objectives
 	- You are requested to give a generic description of the network. Calculate the measures and the characteristics below, and plot them whenever it is possible/significant:
-		- DONE Distances: average, distribution [[Cammini e distanze]]
+		- DONE Distances: average, distribution ((64368a97-14dd-4a64-95fb-cc81a0328d14))
 		  :LOGBOOK:
 		  CLOCK: [2022-09-13 Tue 18:37:34]--[2022-09-13 Tue 18:37:35] =>  00:00:01
 		  :END:
