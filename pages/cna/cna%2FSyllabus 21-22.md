@@ -22,7 +22,7 @@
 	- Six Degrees of Separation
 	- Friend of a Friend
 	- ((646328e9-442d-4f04-ac0c-fe6650ac3e66))
-	- [[Chiusura triadica]]
+	- ((64625526-7abe-416b-8538-8f2d05123946))
 	- [[La forza dei legami deboli]]
 	- ((64637645-e7fa-496f-86e6-323d38388366))
 	- [ns1] Sec. 2.5-2.8 | [ns2] Sec. [2.3, 2.4](https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book-ch02.pdf), [3.1, 3.2, 3.3](https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book-ch03.pdf) | Slides: ![ns02.pdf](../assets/ns02_1662802059480_0.pdf) (37-58) - ![ns03.pdf](../assets/ns03_1662820229075_0.pdf) (1-44) | [recorded lecture ](https://unito.webex.com/recordingservice/sites/unito/recording/31acf5a7802d103abdfb005056828c5a/playback)
