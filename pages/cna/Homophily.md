@@ -38,8 +38,6 @@ tags:: cna
 			- contare il numero di archi tra colori diversi
 			- comparare il numero con la rete reali
 		- L'idea è che se abbiamo una rete creata da dati reali e vogliamo capire se un tratto è caratterizzante di quella rete, dobbiamo compararla con una rete in cui lo stesso tratto è distribuito casualmente.
-		- ((631cb437-9898-4b67-950f-59d21498ba87))
-		- ((631cb447-ee96-4c7f-bf32-f0402af6fddd))
 - # Meccanismi sottostanti all'omofilia
   id:: 631cb450-b46e-427f-9747-442e03094845
 	- Ci sono due meccanismi naturali per cui l'omofilia emerge:

@@ -50,6 +50,7 @@ tags:: cna
 	- ## [Degree](((6422fb58-b14c-4f73-a8ce-c547d160c906))) distribution
 		- ![image.png](../assets/image_1662974968197_0.png)
 		- **heterogeneity**
+		  collapsed:: true
 			- parametro che indica l'ampiezza della distribuzione
 			- $$\mathcal{k} = \frac{\lang k^2 \rang}{\lang k \rang^2}$$
 			- {{embed ((631eee28-2fed-4f1c-a38b-9e0156115091))}}
