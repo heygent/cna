@@ -114,7 +114,7 @@ tags:: cna
 		- Per entrambe queste definizioni, è **utile avere versioni che esibiscono gradazioni più levigate** quando andiamo a esaminare dati reali su larga scala.
 		- Si può rendere **la forza di un arco una quantità numerica**, definendola come il **totale dei minuti** spesi in chiamata.
 		- Diventa anche utile **ordinare tutti gli archi per forza**, così per ogni dato arco possiamo chiedere quale percentile occupa.
-	- ## Neighborhood overlap
+	- ## Neighborhood overlap #card
 	  id:: 646328e9-d663-4aea-be62-57acee3b83c3
 		- Ponti locali sono una frazione molto piccola degli archi in una rete telefonica.
 		- Si può ammorbidire anche questa definizione, così che alcuni archi siano "quasi" ponti locali.
