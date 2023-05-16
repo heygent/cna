@@ -64,6 +64,9 @@ tags:: cna
 	- ((64632a86-5ed9-4a21-a210-fc4345e425d0))
 	- **rete di affiliazione sociale**
 		- rete in cui i dati sui rapporti sociali e sui FOCI vengono uniti.
+	- ## Proiezioni
+		- Metodo per complementare una rete di affiliazione con una rete sociale.
+		- ((64632af3-0948-406b-b883-1d2af50a11b2))
 		-
 	- ## Chiusure
 		- ((631cc3ec-71ba-40b5-b8df-2fd1ddbd284c))
