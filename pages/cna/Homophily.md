@@ -67,7 +67,7 @@ tags:: cna
 	- ## Proiezioni
 		- Metodo per complementare una rete di affiliazione con una rete sociale.
 		- ((64632af3-0948-406b-b883-1d2af50a11b2))
-		-
+		- Proiezione 1: rete di interazione tra membri di CDA
 	- ## Chiusure
 		- ((631cc3ec-71ba-40b5-b8df-2fd1ddbd284c))
 			- **friendship transitivity**
