@@ -188,6 +188,7 @@ tags:: cna
 				- Trucco matematico:
 					- $$< l > = \left(\frac{\sum_{ij}\frac{1}{l_{ij}}}{N(N-1)}\right)^{-1}$$
 		- ### Small-world effect
+		  id:: 64633030-d7ea-434e-ada5-456426e9b83b
 			- Si può trovare una catena relativamente corta di conoscenti che collegano quasi qualunque coppia di individui nel pianeta.
 			- In altre parole, la lunghezza media dei cammini è molto breve.
 			- La APL viene considerata breve quando cresce molto lentamente rispetto alla dimensione della rete, ad esempio logaritmicamente:
