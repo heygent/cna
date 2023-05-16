@@ -1,7 +1,7 @@
 tags:: cna
 
 - # Connessione tra [ponti locali](((631aefdf-9178-4e44-91a5-69200e94239c))) e [legami deboli](((646328e9-442d-4f04-ac0c-fe6650ac3e66)))
-	- Se un nodo $A$ in una rete soddisfa la proprietà di ((631af503-9746-4c05-aefa-2b1000b877dd)) ed è coinvolto in almeno due [legami forti](((646328e9-442d-4f04-ac0c-fe6650ac3e66))), allora ogni ponte locale che vi è coinvolto **deve essere un legame debole.**
+	- Se un nodo $A$ in una rete soddisfa la proprietà di ((631af503-9746-4c05-aefa-2b1000b877dd)) ed è coinvolto in almeno due [legami forti](((646328e9-442d-4f04-ac0c-fe6650ac3e66))), allora ogni ((631aefdf-9178-4e44-91a5-69200e94239c)) che vi è coinvolto **deve essere un legame debole.**
 	- ## Dimostrazione
 		- ![image.png](../assets/image_1662744637303_0.png){:height 339, :width 424}
 		- La dimostrazione procede per contraddizione.
