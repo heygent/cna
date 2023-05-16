@@ -106,7 +106,7 @@ tags:: cna
 			- **archi**: chiamate effettuate in ogni direzione in un periodo di osservazione di **18 settimane**
 		- La rete può essere vista come un campionamento ragionevole delle conversazioni che avvengono all'interno di una rete sociale che rappresenta una frazione significativa della popolazione di una nazione.
 		- I dati esibiscono molte delle larghe caratteristiche strutturali delle reti sociali tipiche, incluso un ((6319c11b-bddf-4fbb-bf24-9689c9e2f021)) che conteneva l'84% degli individui nella rete.
-	- ## Generalizzazione dei concetti di legame debole e ponte locale
+	- ## Generalizzazione dei concetti di [legame debole](((646328e9-442d-4f04-ac0c-fe6650ac3e66))) e [ponte locale](((631aefdf-9178-4e44-91a5-69200e94239c)))
 		- La formulazione teorica è basata su due definizioni che impongono dicotomie rigide sulla rete:
 			- un arco è un [legame debole o forte](((646328e9-442d-4f04-ac0c-fe6650ac3e66))), e:
 				- $\forall e \in L : w(e) \in [0, +\infty]$
