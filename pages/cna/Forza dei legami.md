@@ -1,6 +1,7 @@
 tags:: cna
 
 - # Forza dei legami
+  id:: 646328e9-442d-4f04-ac0c-fe6650ac3e66
 	- Connessioni più forti rappresentano **amicizie più strette e una maggior frequenza di interazione**.
 	- Per semplicità concettuale categorizzeremo tutti i collegamenti nella rete sociale come appartenenti a due tipi
 		- **legami forti** (corrispondenti ad amicizie)
