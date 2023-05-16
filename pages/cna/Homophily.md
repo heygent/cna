@@ -25,7 +25,7 @@ tags:: cna
 			- gruppo etnico di appartenenza
 		- **caratteristiche mutabili**
 			- interessi in musica, film, ecc.
-	- ((631caa89-fa57-4e17-8710-2acb39021e26))
+	- ((6463296a-522a-474e-91b5-f2b3f50b4bf5))
 		- Ci sono diversi tratti (rappresentato da un colore) e vogliamo contare
 			- i **link intragruppo** tra nodi con lo stesso tratto.
 			- i **link intergruppo** tra nodi con tratti diversi.
