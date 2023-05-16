@@ -75,7 +75,7 @@ tags:: cna
 		- ### Friendship transitivity
 			- ((64632b9a-ef30-417a-838d-7e4e7ae2deaa))
 			- amicizie nate per ((64625526-7abe-416b-8538-8f2d05123946))
-		- ### Chiusura focale
+		- ### Focal closure
 			- ((64632bb0-bba8-4417-899d-1eff21a0bb04))
 			- $A$ è un focus (attività) e $B$ e $C$ sono individui connessi a quest'attività.
 			- Possiamo predire che $B$ e $C$ prima o poi diventeranno amici.
