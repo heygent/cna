@@ -105,7 +105,7 @@ tags:: cna
 			- **nodi**: utenti
 			- **archi**: chiamate effettuate in ogni direzione in un periodo di osservazione di **18 settimane**
 		- La rete può essere vista come un campionamento ragionevole delle conversazioni che avvengono all'interno di una rete sociale che rappresenta una frazione significativa della popolazione di una nazione.
-		- I dati esibiscono molte delle larghe caratteristiche strutturali delle reti sociali tipiche, incluso un ((6319c11b-bddf-4fbb-bf24-9689c9e2f021)) che conteneva l'84% degli individui nella rete.
+		- I dati esibiscono molte delle larghe caratteristiche strutturali delle reti sociali tipiche, incluso un ((646328e9-4cf5-403f-9379-95fb60431ebb)) che conteneva l'84% degli individui nella rete.
 	- ## Generalizzazione dei concetti di [legame debole](((646328e9-442d-4f04-ac0c-fe6650ac3e66))) e [ponte locale](((631aefdf-9178-4e44-91a5-69200e94239c)))
 		- La formulazione teorica è basata su due definizioni che impongono dicotomie rigide sulla rete:
 			- un arco è un [legame debole o forte](((646328e9-442d-4f04-ac0c-fe6650ac3e66))), e:
@@ -136,7 +136,7 @@ tags:: cna
 			- Il fatto che l'overlap aumenti con la forza dei legami è consistente con le predizioni teoriche.
 	- ## Analisi indiretta di Onnela et al.
 		- **Hanno eliminato archi** dalla rete uno alla volta, **partendo dai legami più forti** e scendendo in basso in ordine di forza dei legami.
-			- Il ((6319c11b-bddf-4fbb-bf24-9689c9e2f021)) si è ridotto consistentemente facendo questo, con la sua dimensione che scendeva gradualmente.
+			- Il ((646328e9-4cf5-403f-9379-95fb60431ebb)) si è ridotto consistentemente facendo questo, con la sua dimensione che scendeva gradualmente.
 		- Hanno poi provato a fare la stessa cosa, ma **partendo dai legami più deboli** e salendo in ordine di forza. In questo caso, hanno scoperto che:
 			- il **giant component si riduceva più rapidamente**
 			- i suoi resti si rompevano in modo **brusco e rapido** una volta rimosso un numero critico di legami deboli.
