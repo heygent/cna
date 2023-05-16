@@ -187,10 +187,11 @@ tags:: cna
 				- $< l > = \frac{\sum_{ij}l_{ij}}{N(N-1)} = \infty$
 				- Trucco matematico:
 					- $$< l > = \left(\frac{\sum_{ij}\frac{1}{l_{ij}}}{N(N-1)}\right)^{-1}$$
+		- ### Small-world effect
+			- Si può trovare una catena relativamente corta di conoscenti che collegano quasi qualunque coppia di individui nel pianeta.
+			- In altre parole, la lunghezza media dei cammini è molto breve.
 			- La APL è corta quando **cresce molto lentamente** rispetto alla dimensione della rete, ad esempio logaritmicamente:
 				- $< \mathcal{l}> \approx logN$
-		- ### Small-world effect
-			- Si può trovare una catena relativamente corta di conoscenti che collegano quasi qualunque coppia di individui nel pianeta
 	- ## Connettività
 	  id:: 64368a97-8099-48bf-b424-298fc228d1bb
 		- ### Grafo connesso
