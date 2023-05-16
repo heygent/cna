@@ -11,7 +11,7 @@
 	- [[Reti multilayer e temporali]]
 	- [[Rappresentazioni di reti]]
 	- [[Disegnare reti]]
-	- [[Cammini e distanze]]
+	- ((64368a97-14dd-4a64-95fb-cc81a0328d14))
 	- [[Connettività e componenti]]
 	- [ns1] Sec. 1.1, 1.3-1.10, 2.2, 2.3 | [ns2] Sec.[ 2.1, 2.2](https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book-ch02.pdf) | Slides: ![ns01.pdf](../assets/ns01_1662802012700_0.pdf) (39-51) - ![ns02.pdf](../assets/ns02_1662802059480_0.pdf) (1-36) | [recorded lecture ](https://unito.webex.com/recordingservice/sites/unito/recording/983150ec7c3f103abdd7005056810190/playback)
 	  id:: 6319ff74-38f8-48b1-93de-682d8f15fba1
