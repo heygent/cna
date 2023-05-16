@@ -244,9 +244,9 @@ tags:: cna
 			- Dati $G$, $G_R$ randomizzazione di $G$, il coefficiente di clustering è "alto" se:
 				- $$CC(G) > > CC(G_R)$$
 - # Rappresentazioni
-	- ## Rappresentazioni compatte
+	- ## Matrice di adiacenza
 	  id:: 646275b2-7887-4bef-83fa-dbaf2a264cd5
-		- ## Matrice di adiacenza (non orientato)
+		- ### Non orienatata
 			- ((64230b35-a956-48b0-bcb8-ff6b79cb0e5f))
 			-
 			- $$
@@ -256,10 +256,10 @@ tags:: cna
 			  1 & (i, j) \in L
 			  \end{cases}
 			  $$
-			- In grafo non orientato $a_{ij} = a_{ji}$ (la matrice è simmetrica).
+			- $a_{ij} = a_{ji}$ (la matrice è simmetrica).
 			- Il grado di un nodo può essere calcolato con:
 			- $$k_i = \sum_j a_{ij} = \sum_j a_{ji}$$
-		- ## Matrice di adiacenza (orientato)
+		- ### Orientata
 			- ((64230b84-bd6e-4fc3-969c-6e08959d2981))
 			- \begin{aligned}
 			  \begin{split}
