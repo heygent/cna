@@ -61,3 +61,13 @@ tags:: cna
 		- Ci si può aspettare che se un nodo come $A$ cerchi di trovare informazioni **veramente nuove**, queste potrebbero arrivare inaspettatamente spesso da un amico connesso da un ponte locale.
 		  id:: 631af429-3ced-4079-b376-69bbd3bf171d
 			- > I gruppi affiatati, anche se pieni di persone pronte ad aiutarsi a vicenda, sono anche quelli che sanno più o meno le stesse cose.
+- # Forza dei legami
+	- Connessioni più forti rappresentano **amicizie più strette e una maggior frequenza di interazione**.
+	- Per semplicità concettuale categorizzeremo tutti i collegamenti nella rete sociale come appartenenti a due tipi
+		- **legami forti** (corrispondenti ad amicizie)
+		- **legami deboli** (corrispondenti ai conoscenti).
+	- ![image.png](../assets/image_1662655251394_0.png){:height 354, :width 465}
+	- ## ((64625526-7abe-416b-8538-8f2d05123946)) e forza dei legami
+		- Se ricordiamo le [argomentazioni a supporto della chiusura triadica](((631a198f-9eb1-4235-9424-01ed661dbc7c))), basate su **opportunità, fiducia e incentivi**, queste agiranno più potentemente quando gli archi coinvolti sono **legami forti** piuttosto che deboli.
+		- Assunzione qualitativa:
+			- *Se un nodo A ha archi ai nodi B e C e se gli archi sono legami forti, allora è particolarmente probabile che si formi l'arco B-C*.
