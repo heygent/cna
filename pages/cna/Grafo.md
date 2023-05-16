@@ -243,7 +243,8 @@ tags:: cna
 					- tipico di reti bipartite e tree-like
 			- Dati $G$, $G_R$ randomizzazione di $G$, il coefficiente di clustering è "alto" se:
 				- $$CC(G) > > CC(G_R)$$
-- # Rappresentazioni
+- # Rappresentazione di reti
+  id:: 646275b2-aadf-4af3-a1bb-342376290004
 	- ## Matrice di adiacenza
 	  id:: 646275b2-7887-4bef-83fa-dbaf2a264cd5
 		- Rappresentazione adatta per matrici compatte.
@@ -285,6 +286,7 @@ tags:: cna
 			- ((64230ba0-d361-4e1e-8d11-c35c5ade9ffd))
 			- Nei grafi orientati, ogni arco è rappresentato due volte.
 		- ## Lista di archi
+		  id:: 646275b2-28f6-45b2-b967-282c42428b7e
 			- ### Senza pesi
 				- ((64230bbc-d085-4207-b4f2-64906fe84412))
 			- ### Con pesi

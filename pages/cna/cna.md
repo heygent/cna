@@ -29,10 +29,10 @@
 		- ((64368a97-9392-4dfc-8f6e-fc99ca2c919e))
 		- small world effect
 		- ((64625143-588e-4dc1-a991-4b27deea3a85))
-	- Rappresentazioni di reti
+	- ((646275b2-aadf-4af3-a1bb-342376290004))
 		- ((646275b2-7887-4bef-83fa-dbaf2a264cd5))
 		- ((646275b2-a596-4444-b231-f4aa39798f57))
-		- edge list
+		- ((646275b2-28f6-45b2-b967-282c42428b7e))
 - # [[Legami forti e deboli]]
 	- date:: [[2023-03-06]]
 	  slide:: ![ns03.pdf](../assets/Lecture04ns03_1679220321358_0.pdf)
