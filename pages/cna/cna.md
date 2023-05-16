@@ -50,7 +50,7 @@
 	- Modularity
 	- Assortativity
 	- Degree assortativity
-	- Affililation networks
+	- ((631cc01b-8f07-470d-9924-40500a8a9d40))
 - # [[Centralità]]
   slide:: ![ns05.pdf](../../assets/ns05_1684057975234_0.pdf)
 	- Centralità
