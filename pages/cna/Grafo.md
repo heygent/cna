@@ -171,14 +171,15 @@ tags:: cna
 			- #### Distanza
 				- lunghezza del cammino più breve tra due nodi.
 				- un nodo singleton è considerato a distanza $\infty$ da ogni altro nodo.
-		- ### APL e diametro #card
+		- ### Lunghezza media e diametro #card
 		  card-last-score:: 5
 		  card-repeats:: 1
 		  card-next-schedule:: 2022-10-24T17:30:21.918Z
 		  card-last-interval:: 4
 		  card-ease-factor:: 2.6
 		  card-last-reviewed:: 2022-10-20T17:30:21.919Z
-			- #### Average Path Length
+			- #### Lunghezza media dei cammini
+			  id:: 646328e9-959c-4cee-8058-d017e8806c35
 				- $$< l > = \frac{\sum_{ij}l_{ij}}{N(N-1)}$$
 			- #### Diametro
 			  id:: 64368a97-9392-4dfc-8f6e-fc99ca2c919e
