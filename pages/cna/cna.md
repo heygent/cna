@@ -59,7 +59,6 @@
 	- [Calculating betweenness values](((6461685e-61a0-4ca8-8e40-60cdefd48def)))
 - # [[Modelli generativi]]
   date:: [[2023-03-15]]
-  slide:: ![ns06.pdf](../../assets/ns06_1684096378817_0.pdf)
 	- Recap of real-world network properties
 	- Erdos-Renyi and Gilbert random graphs
 		- definition
@@ -81,7 +80,6 @@
 		- relation to the Erdos-Renyi model
 - # Rich get richer
   date:: [[2023-03-20]]
-  slide:: ![ns07.pdf](../assets/Lecture10ns07_1679220312388_4.pdf)
 	- the emergence of power law in real-world networks
 	- preferential attachment
 	- Barabasi-Albert model
@@ -98,13 +96,11 @@
 - # Epidemics
 	- ## Part 1
 	  date:: [[2023-03-27]]
-	  slide:: ![ns09.pdf](../../assets/ns09_1684096479483_0.pdf)
 		- Reproductive number R0
 		- compartimental models (SI, SIS, SIR)
 		- SIR epidemic percolation
 	- ## Part 2
 	  date:: [[2023-03-29]]
-	  slide:: ![ns10.pdf](../../assets/ns10_1684096534361_0.pdf)
 		- Epidemics in heterogeneous networks
 		- The role of hubs
 		- Compartimental models on networks
@@ -115,31 +111,26 @@
 - # Community detection
 	- ## Part 1
 	  date:: [[2023-04-05]]
-	  slide:: ![ns12.pdf](../../assets/ns12_1684096551537_0.pdf)
 		- Definition of communities
 		- Optimization approach (Cut, RatioCut, Modularity)
 		- Bayesian approach to community detection and stochastic block model
 	- ## Part 2
 	  date:: [[2023-04-12]]
-	  slide:: ![ns13.pdf](../../assets/ns13_1684096558663_0.pdf)
 		- Hierarchical clustering
 		- Node embeddings
 		- Spectral clustering;
 	- ## Part 3
 	  date:: [[2023-04-17]]
-	  slide:: ![ns14.pdf](../../assets/ns14_1684096576446_0.pdf)
 		- Spectral clustering and the number of communities
 		- DeepWalk algorithm
 - # Cascading behaviors
   date:: [[2023-04-19]]
-  slide:: ![ns15.pdf](../../assets/ns15_1684096590461_0.pdf)
 	- Diffusion in networks
 	- Cascades and clusters
 	- The role of weak ties
 	- Heterogeneous cascades
 - # Link analysis and web search
   date:: [[2023-04-24]]
-  slide:: ![ns16.pdf](../../assets/ns16_1684096604012_0.pdf)
 	- Page Rank algorithm
 	- Hits algorithm
 	- Spectral analysis of the two algorithms
@@ -147,7 +138,6 @@
 	-
 - # Game theory and traffic networks
   date:: [[2023-05-03]]
-  slide:: ![ns18.pdf](../../assets/ns18_1684096615827_0.pdf)
 	- Games and payoff matrix
 	- Best response strategy
 	- Nash equilibrium
