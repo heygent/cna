@@ -1,7 +1,6 @@
 - # Introduction
   date:: [[2023-02-07]]
   slide:: ![ns01.pdf](../assets/Lecture01ns01_1679220302961_0.pdf)
-  refs:: [ns1 Chapter 1](((6422e720-946a-4c05-a38c-97f2f7b238a6)))
 	- Meaning and examples of complexity
 	- networks and complexity
 	- examples of applications of network theory
