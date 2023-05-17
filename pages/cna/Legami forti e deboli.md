@@ -52,7 +52,7 @@ tags:: cna
 	- ![image.png](../assets/image_1662710320029_0.png){:height 164, :width 209}
 	- Un arco $A \rightarrow B$ è un **ponte locale** se i suoi endpoint $A$ e $B$ non hanno amici in comune.
 	- In altre parole, cancellare l'arco aumenterebbe la ((646328e9-e350-43cc-95d7-b0a09b037775)) tra A e B di un valore $> 2$.
-	- **estensione (span)** di un ponte locale
+	- ### Estensione (span) di un ponte locale
 		- distanza a cui gli endpoint si troverebbero l'uno dall'altro se il ponte fosse cancellato.
 	- Opposto concettuale a ((64625526-7abe-416b-8538-8f2d05123946))
 		- un arco è un ponte locale precisamente quando **non forma un lato** di un qualunque triangolo nel grafo
