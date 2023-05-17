@@ -169,6 +169,7 @@ tags:: cna
 				- nelle reti pesate, i pesi possono rappresentare le distanze tra due nodi adiacenti.
 				- possono essere trovati con [[BFS]]
 			- #### Distanza
+			  id:: 646328e9-e350-43cc-95d7-b0a09b037775
 				- lunghezza del cammino più breve tra due nodi.
 				- un nodo singleton è considerato a distanza $\infty$ da ogni altro nodo.
 		- ### Lunghezza media e diametro #card
