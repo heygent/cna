@@ -5,8 +5,7 @@
 	- networks and complexity
 	- examples of applications of network theory
 - # [[Grafo]]
-  date:: [[2023-03-03]]
-  slide:: ![ns02.pdf](../assets/Lecture03ns02_1679220312387_0.pdf)
+	- ((646328e9-108e-4558-ac5e-4f7915b79031))
 	- ((6416dcb6-cf08-4329-8e18-c6e6ee5a5b17))
 		- node
 		- edges
