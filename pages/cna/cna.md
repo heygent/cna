@@ -1,12 +1,10 @@
 - # Introduction
   date:: [[2023-02-07]]
-  slide:: ![ns01.pdf](../assets/Lecture01ns01_1679220302961_0.pdf)
 	- Meaning and examples of complexity
 	- networks and complexity
 	- examples of applications of network theory
 - # [[Grafo]]
   date:: [[2023-03-03]]
-  slide:: ![ns02.pdf](../assets/Lecture03ns02_1679220312387_0.pdf)
 	- ((6416dcb6-cf08-4329-8e18-c6e6ee5a5b17))
 		- node
 		- edges
@@ -38,7 +36,6 @@
 		- ((646275b2-28f6-45b2-b967-282c42428b7e))
 - # [[Legami forti e deboli]]
 	- date:: [[2023-03-06]]
-	  slide:: ![ns03.pdf](../assets/Lecture04ns03_1679220321358_0.pdf)
 	- ((646275b2-6714-42a4-ad0e-ef408992f8ec))
 	- ((64625526-7abe-416b-8538-8f2d05123946))
 	- ((64625143-588e-4dc1-a991-4b27deea3a85))
@@ -47,14 +44,12 @@
 	- ((64637645-e7fa-496f-86e6-323d38388366))
 - # [[Homophily]]
   date:: [[2023-03-08]]
-  slide:: ![ns04.pdf](../assets/Lecture06ns04_1679220329786_0.pdf)
 	- [[Homophily]]
 	- Modularity
 	- Assortativity
 	- Degree assortativity
 	- ((631cc01b-8f07-470d-9924-40500a8a9d40))
 - # [[Centralità]]
-  slide:: ![ns05.pdf](../../assets/ns05_1684057975234_0.pdf)
 	- Centralità
 	- ((64615afb-c2a1-4b0b-866d-ffb62d751cb7))
 	- ((64615285-85e9-4b2b-ad5c-7236514d5142))
