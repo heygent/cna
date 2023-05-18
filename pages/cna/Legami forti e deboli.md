@@ -9,7 +9,7 @@ slide:: ![ns03](../../assets/ns03.pdf)
   {:title [:h1 "heyhye"]
    :query [:find (pull ?b [*]) 
            :where
-  [?p :block/name "Grafo"]
+  [?p :page/name "Grafo"]
   [?b :block/parent ?p]
   ]}
   #+END_QUERY
