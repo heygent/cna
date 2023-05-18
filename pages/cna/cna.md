@@ -1,3 +1,8 @@
+- {{query (property :slide)}}
+  query-table:: true
+  query-sort-by:: slide
+  query-sort-desc:: false
+  query-properties:: [:page :date :slide]
 - # [[Introduzione]]
   {{embed ((6466019e-9648-4a9a-b4b2-24002a44bbeb))}}
 	- Meaning and examples of complexity
