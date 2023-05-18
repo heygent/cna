@@ -2,13 +2,13 @@ tags:: cna
 date:: [[2023-03-06]]
 slide:: ![ns03](../../assets/ns03.pdf)
 
-- #+BEGIN_QUERY
+- query-table:: true
+  #+BEGIN_QUERY
   {:title "Pages created between two time periods"
    :query [:find (pull ?b [*]) 
            :where
   [?p :block/name "cna"]
-           [?b :block/refs ?p]
-  [?b :block/parent]
+  [?b :block/parent ?p]
   ]}
   #+END_QUERY
 -
