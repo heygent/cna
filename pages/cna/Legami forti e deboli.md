@@ -4,13 +4,13 @@ slide:: ![ns03](../../assets/ns03.pdf)
 
 - query-sort-by:: block
   query-table:: true
-  query-sort-desc:: true
+  query-sort-desc:: false
   #+BEGIN_QUERY
   {:title [:h1 "heyhye"]
    :query [:find (pull ?b [*]) 
            :where
-  [?b :block/page ]
-  [?b :block/parent ?p]
+  [?p :block/name "Grafo"]
+  [?b :block/page ?p]
   ]}
   #+END_QUERY
 -
