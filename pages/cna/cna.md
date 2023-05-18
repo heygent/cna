@@ -1,7 +1,6 @@
-- # Libri
-	- ![nsbook1.pdf](../../assets/nsbook1.pdf): Menczer, Fortunato, Davis, A First Course in Network Science, Cambridge University Press, 2020
-	- ![nsbook2.pdf](../../assets/nsbook2.pdf): Easley and Kleinberg, Networks, Crowds, and Markets: Reasoning About a
-	   Highly Connected World, Cambridge University Press, 2010
+- ## Libri
+	- ![nsbook1](../../assets/nsbook1.pdf): Menczer, Fortunato, Davis, A First Course in Network Science, Cambridge University Press, 2020
+	- ![nsbook2](../../assets/nsbook2.pdf): Easley and Kleinberg, Networks, Crowds, and Markets: Reasoning About a Highly Connected World, Cambridge University Press, 2010
 - # [[Introduzione]]
 	- Meaning and examples of complexity
 	- networks and complexity
