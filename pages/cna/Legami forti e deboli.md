@@ -1,4 +1,5 @@
 tags:: cna
+slide:: ![ns03.pdf](../../assets/ns03.pdf)
 
 - # Connessione tra locale e globale
 	- Le reti giocano un ruolo importante nel **connettere il locale con il globale** per offrire spiegazioni su come processi semplici al livello di nodi e archi individuali possano avere **effetti a cascata su intere popolazioni.**
