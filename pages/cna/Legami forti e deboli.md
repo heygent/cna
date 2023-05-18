@@ -4,7 +4,7 @@ slide:: ![ns03](../../assets/ns03.pdf)
 
 - query-sort-by:: block
   query-table:: true
-  query-sort-desc:: false
+  query-sort-desc:: true
   #+BEGIN_QUERY
   {:title [:h1 "heyhye"]
    :query [:find (pull ?b [*]) 
