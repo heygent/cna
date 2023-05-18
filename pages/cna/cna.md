@@ -2,7 +2,7 @@
   query-sort-by:: slide
   query-sort-desc:: false
   query-properties:: [:page :slide]
-- # Introduzione
+- # [[Introduzione]]
   date:: [[2023-02-07]]
 	- Meaning and examples of complexity
 	- networks and complexity
@@ -81,7 +81,7 @@
 	- stochastic block model
 		- definition
 		- relation to the Erdos-Renyi model
-- # Rich get richer
+- # [[Rich get richer]]
   date:: [[2023-03-20]]
 	- the emergence of power law in real-world networks
 	- preferential attachment
@@ -96,7 +96,7 @@
 		- random walk model
 		- rank model
 	- rich get richer paradigm in real-world settings.
-- # Epidemics
+- # [[Epidemics]]
 	- ## Part 1
 	  date:: [[2023-03-27]]
 		- Reproductive number R0
@@ -111,7 +111,7 @@
 		- Epidemic threshold
 		- Introduction to contact networks
 		- Immunization strategies
-- # Community detection
+- # [[Community detection]]
 	- ## Part 1
 	  date:: [[2023-04-05]]
 		- Definition of communities
