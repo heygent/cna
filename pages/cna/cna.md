@@ -126,20 +126,20 @@
 	  date:: [[2023-04-17]]
 		- Spectral clustering and the number of communities
 		- DeepWalk algorithm
-- # Cascading behaviors
+- # [[Cascading behaviors]]
   date:: [[2023-04-19]]
 	- Diffusion in networks
 	- Cascades and clusters
 	- The role of weak ties
 	- Heterogeneous cascades
-- # Link analysis and web search
+- # [[Link analysis and web search]]
   date:: [[2023-04-24]]
 	- Page Rank algorithm
 	- Hits algorithm
 	- Spectral analysis of the two algorithms
 	- Random walks and page rank
 	-
-- # Game theory and traffic networks
+- # [[Game theory and traffic networks]]
   date:: [[2023-05-03]]
 	- Games and payoff matrix
 	- Best response strategy
