@@ -7,8 +7,6 @@
 	- networks and complexity
 	- examples of applications of network theory
 - # [[Grafo]]
-	- {{query (page [[Grafo]])}}
-	  query-table:: true
 	- ((6416dcb6-cf08-4329-8e18-c6e6ee5a5b17))
 		- node
 		- edges
