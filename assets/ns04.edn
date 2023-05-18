@@ -1,16 +1,4 @@
-{:highlights [{:id #uuid "631caa89-fa57-4e17-8710-2acb39021e26",
-               :page 7,
-               :position {:bounding {:x1 47,
-                                     :y1 23,
-                                     :x2 503,
-                                     :y2 305,
-                                     :width 547,
-                                     :height 307.6875},
-                          :rects (),
-                          :page 7},
-               :content {:text "[:span]", :image 1662823047625},
-               :properties {:color "green"}}
-              {:id #uuid "631cbf27-94d9-41de-8982-94f655e881a4",
+{:highlights [{:id #uuid "631cbf27-94d9-41de-8982-94f655e881a4",
                :page 15,
                :position {:bounding {:x1 14,
                                      :y1 8,
@@ -154,4 +142,4 @@
                           :page 37},
                :content {:text "[:span]", :image 1684220891080},
                :properties {:color "yellow"}}],
- :extra {:page 13}}
+ :extra {:page 7}}

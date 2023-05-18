@@ -5,12 +5,6 @@ exclude-from-graph-view:: true
 
 - [:span]
   ls-type:: annotation
-  hl-page:: 7
-  id:: 631caa89-fa57-4e17-8710-2acb39021e26
-  hl-type:: area
-  hl-stamp:: 1662823047625
-- [:span]
-  ls-type:: annotation
   hl-page:: 15
   id:: 631cbf27-94d9-41de-8982-94f655e881a4
   hl-type:: area
