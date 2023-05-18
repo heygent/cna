@@ -6,9 +6,7 @@ slide:: ![ns03](../../assets/ns03.pdf)
   {:title "Pages created between two time periods"
    :query [:find (pull ?b [*]) 
            :where
-           [?p :block/name _]
-           [?p :block/created-at ?t]
-  ]}
+           [?p :block/page ?b]]}
   #+END_QUERY
 -
 - # Connessione tra locale e globale
