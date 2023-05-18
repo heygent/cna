@@ -1,3 +1,3 @@
-file:: [ns2_1679941488766_0.pdf](../../assets/ns2_1679941488766_0.pdf)
-file-path:: ../../assets/ns2_1679941488766_0.pdf
+file:: [nsbook2.pdf](../../assets/nsbook2.pdf)
+file-path:: ../../assets/nsbook2.pdf
 exclude-from-graph-view:: true
