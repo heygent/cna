@@ -6,7 +6,7 @@
 - # [[Introduzione]]
 	- Meaning and examples of complexity
 	- networks and complexity
-	- examples of applications of network theory
+	- examples of applications of network theory [[ns01]]
 - # [[Grafo]]
 	- ((6416dcb6-cf08-4329-8e18-c6e6ee5a5b17))
 		- node
