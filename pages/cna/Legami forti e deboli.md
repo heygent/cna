@@ -2,14 +2,14 @@ tags:: cna
 date:: [[2023-03-06]]
 slide:: ![ns03](../../assets/ns03.pdf)
 
-- query-sort-by:: date
+- query-sort-by:: block
   query-table:: true
-  query-sort-desc:: false
+  query-sort-desc:: true
   #+BEGIN_QUERY
   {:title [:h1 "heyhye"]
    :query [:find (pull ?b [*]) 
            :where
-  [?p :page/name "Grafo"]
+  [?b :block/page ]
   [?b :block/parent ?p]
   ]}
   #+END_QUERY
