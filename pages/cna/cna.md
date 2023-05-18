@@ -3,10 +3,12 @@
   query-sort-desc:: false
   query-properties:: [:page :slide]
 - # Introduzione
+  date:: [[2023-02-07]]
 	- Meaning and examples of complexity
 	- networks and complexity
 	- examples of applications of network theory
 - # [[Grafo]]
+  slide:: ![ns02.pdf](../../assets/ns02.pdf)
 	- ((6416dcb6-cf08-4329-8e18-c6e6ee5a5b17))
 		- node
 		- edges

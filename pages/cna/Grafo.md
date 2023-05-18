@@ -1,5 +1,5 @@
-public:: true
 tags:: cna
+date:: [[2023-03-03]]
 slide:: ![ns02.pdf](../../assets/ns02.pdf)
 
 - # Definizioni base
