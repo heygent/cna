@@ -1,5 +1,5 @@
 file:: [ns02.pdf](../assets/ns02.pdf)
-file-path:: ../assets/ns02.pdf
+file-path:: ../../assets/ns02.pdf
 exclude-from-graph-view:: true
 
 - [:span]
