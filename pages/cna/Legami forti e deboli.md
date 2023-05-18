@@ -10,7 +10,7 @@ slide:: ![ns03](../../assets/ns03.pdf)
    :query [:find (pull ?b [*]) 
            :where
   [?p :block/name "Grafo"]
-  [?b :block/page ?p]
+  [?b :block/refs ?p]
   ]}
   #+END_QUERY
 -
