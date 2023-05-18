@@ -33,10 +33,6 @@ exclude-from-graph-view:: true
   id:: 631cc3ec-71ba-40b5-b8df-2fd1ddbd284c
   hl-type:: area
   hl-stamp:: 1662829547423
-- It can also be a bad thing. For example "echo chambers" and "groupthink" are situations where your friends are like you, diversity is killed, and you are only exposed to opinions that reinforce your pre-existing beliefs...
-  ls-type:: annotation
-  hl-page:: 21
-  id:: 6336c4b7-7906-4d4b-a542-6fb15b808400
 - [:span]
   ls-type:: annotation
   hl-page:: 7
