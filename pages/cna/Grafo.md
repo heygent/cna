@@ -59,11 +59,13 @@ tags:: cna
 	- ## Vicini
 	  id:: 64368a97-1f6c-45e5-9071-f0d6ff26a06d
 		- ((6422e876-bf06-40cf-a59b-34d694162589))
-	- ## Grado
+	- ## Grado - definizioni
 	  id:: 6422fb58-b14c-4f73-a8ce-c547d160c906
-		- numero di collegamenti (o vicini)
-			- $i \rightarrow N_i \quad k_i = |N_i|$
-			- ((64230250-19c7-4f2f-9fc8-1c2960fa093f))
+		- ### Grado
+		  id:: 6465f748-d058-47f4-82a7-4f89024e32c1
+			- numero di collegamenti (o vicini)
+				- $i \rightarrow N_i \quad k_i = |N_i|$
+				- ((64230250-19c7-4f2f-9fc8-1c2960fa093f))
 		- In grafi orientati:
 		  card-last-interval:: 4
 		  card-repeats:: 1

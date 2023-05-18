@@ -2,7 +2,7 @@ tags:: cna
 
 - # Misure di centralità
 	- Misura di importanza di un nodo
-	- {{embed ((6422fb58-b14c-4f73-a8ce-c547d160c906))}}
+	- {{embed ((6465f748-d058-47f4-82a7-4f89024e32c1))}}
 	- ## Closeness
 	  id:: 631eef52-ba3a-4806-beb0-fea4f9f0e90e
 		- idea: un nodo è più centrale quanto più **è vicino** a tutti gli altri nodi in media
