@@ -3,7 +3,6 @@
   query-sort-desc:: false
   query-properties:: [:page :slide]
 - # [[Introduzione]]
-  date:: [[2023-02-07]]
 	- Meaning and examples of complexity
 	- networks and complexity
 	- examples of applications of network theory
