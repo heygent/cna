@@ -2,6 +2,7 @@
   query-sort-by:: slide
   query-sort-desc:: false
   query-properties:: [:page :slide :date]
+- {{query }}
 - # [[Introduzione]]
 	- Meaning and examples of complexity
 	- networks and complexity
