@@ -9,7 +9,7 @@ slide:: ![ns03](../../assets/ns03.pdf)
            :where
            [?p :block/name _]
            [?p :block/created-at ?t]
-  ]]
+  ]
    :inputs [1657885810000 1658404210000]}
   #+END_QUERY
 -
