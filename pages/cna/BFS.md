@@ -1,6 +1,7 @@
 tags:: cna
 
 - # BFS
+  id:: 6465f810-2786-4ccd-9e76-5c2f6fbed28d
 	- Uno degli algoritmi più efficienti per trovare la distanza. #.ol
 		- Parti da un nodo sorgente (radice).
 		- Visita l'intera ampiezza del grafo entro una certa distanza dalla sorgente, prima di spostarti a una profondità maggiore (più distante dalla radice)
