@@ -1,4 +1,7 @@
 - {{query (page-tags cna)}}
+  query-sort-by:: slide
+  query-sort-desc:: false
+  query-properties:: [:slide :page]
 - # Introduction
   date:: [[2023-02-07]]
 	- Meaning and examples of complexity
