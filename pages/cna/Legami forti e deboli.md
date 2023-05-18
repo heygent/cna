@@ -6,7 +6,9 @@ slide:: ![ns03](../../assets/ns03.pdf)
   {:title "Pages created between two time periods"
    :query [:find (pull ?b [*]) 
            :where
-           [?p :block/page ?b]]}
+           [?p :block/page ?b]
+  [?p :page/tag "cna"]
+  ]}
   #+END_QUERY
 -
 - # Connessione tra locale e globale
