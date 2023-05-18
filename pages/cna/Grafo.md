@@ -169,7 +169,7 @@ tags:: cna
 			- #### Cammino più breve
 				- il cammino minimo tra due nodi.
 				- nelle reti pesate, i pesi possono rappresentare le distanze tra due nodi adiacenti.
-				- possono essere trovati con [[BFS]]
+				- possono essere trovati con ((6465f810-2786-4ccd-9e76-5c2f6fbed28d))
 			- #### Distanza
 			  id:: 646328e9-e350-43cc-95d7-b0a09b037775
 				- lunghezza del cammino più breve tra due nodi.
