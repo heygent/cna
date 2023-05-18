@@ -59,7 +59,6 @@
 	- ((646166f8-7fe7-4cbc-a061-f5311a8fd698))
 	- [Calculating betweenness values](((6461685e-61a0-4ca8-8e40-60cdefd48def)))
 - # [[Modelli generativi]]
-  date:: [[2023-03-15]]
 	- Recap of real-world network properties
 	- Erdos-Renyi and Gilbert random graphs
 		- definition

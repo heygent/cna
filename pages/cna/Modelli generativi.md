@@ -1,4 +1,5 @@
 tags:: cna
+date:: [[2023-03-08]]
 
 -
 - # Recap - Caratteristiche strutturali di reti nel mondo reale
