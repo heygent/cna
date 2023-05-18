@@ -8,6 +8,7 @@ slide:: ![ns03](../../assets/ns03.pdf)
            :where
   [?p :block/name "cna"]
            [?b :block/refs ?p]
+  [?b :block/parent]
   ]}
   #+END_QUERY
 -
