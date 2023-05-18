@@ -1,7 +1,5 @@
 tags:: cna
 
-- Materiale
-	- ![Lecture06ns04.pdf](../assets/Lecture06ns04_1679220329786_0.pdf)
 - # Contesto circostante
 	- **contesto circostante**
 	  id:: 631ca982-e61b-49de-8149-c2cd1801cace

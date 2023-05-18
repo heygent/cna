@@ -117,7 +117,7 @@
                           :page 21},
                :content {:text "It can also be a bad thing. For example \"echo chambers\" and \"groupthink\" are situations where your friends are like you, diversity is killed, and you are only exposed to opinions that reinforce your pre-existing beliefs..."},
                :properties {:color "yellow"}}
-             {:id #uuid "6463296a-522a-474e-91b5-f2b3f50b4bf5",
+              {:id #uuid "6463296a-522a-474e-91b5-f2b3f50b4bf5",
                :page 7,
                :position {:bounding {:x1 77.13125228881836,
                                      :y1 102.89059448242188,
@@ -212,6 +212,5 @@
                           :rects (),
                           :page 37},
                :content {:text "[:span]", :image 1684220891080},
-               :properties {:color "yellow"}} 
-              ],
- :extra {:page 2}}
+               :properties {:color "yellow"}}],
+ :extra {:page 37}}
