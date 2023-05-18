@@ -150,6 +150,7 @@
 	- Difference between Nash equilibrium and social optimum on a traffic network
 	-
 - # Libri
-	- ![ns1](../../assets/ns1_1679941479833_0.pdf): Menczer, Fortunato, Davis, A First Course in Network Science, Cambridge University Press, 2020
-	- ![ns2](../../assets/ns2_1679941488766_0.pdf): Easley and Kleinberg, Networks, Crowds, and Markets: Reasoning About a
+	- ![nsbook1.pdf](../../assets/nsbook1.pdf): Menczer, Fortunato, Davis, A First Course in Network Science, Cambridge University Press, 2020
+	- ![nsbook2.pdf](../../assets/nsbook2.pdf): Easley and Kleinberg, Networks, Crowds, and Markets: Reasoning About a
 	   Highly Connected World, Cambridge University Press, 2010
+-
