@@ -1,4 +1,4 @@
-- {{query }}
+- {{query (page-tags cna)}}
 - # Introduction
   date:: [[2023-02-07]]
 	- Meaning and examples of complexity
