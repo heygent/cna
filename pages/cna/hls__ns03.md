@@ -1,6 +1,6 @@
-file-path:: ../assets/ns03_1662805839946_0.pdf
-file:: [ns03_1662805839946_0.pdf](../assets/ns03_1662805839946_0.pdf)
-title:: hls__ns03_1662805839946_0
+file-path:: ../assets/ns03.pdf
+file:: [ns03](../assets/ns03_1662805839946_0.pdf)
+title:: hls__ns03
 exclude-from-graph-view:: true
 
 - Tie Strength and Network Structure in LargeScale Data

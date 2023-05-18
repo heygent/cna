@@ -1,0 +1,95 @@
+file-path:: ../assets/ns04.pdf
+file:: [ns04.pdf](../assets/ns04.pdf)
+title:: hls__ns04
+exclude-from-graph-view:: true
+
+- [:span]
+  ls-type:: annotation
+  hl-page:: 7
+  id:: 631caa89-fa57-4e17-8710-2acb39021e26
+  hl-type:: area
+  hl-stamp:: 1662823047625
+- [:span]
+  ls-type:: annotation
+  hl-page:: 15
+  id:: 631cbf27-94d9-41de-8982-94f655e881a4
+  hl-type:: area
+  hl-stamp:: 1662828326343
+- [:span]
+  ls-type:: annotation
+  hl-page:: 16
+  id:: 631cbf3e-8d8c-4b36-97fd-ba5e032b510c
+  hl-type:: area
+  hl-stamp:: 1662828348867
+- [:span]
+  ls-type:: annotation
+  hl-page:: 26
+  id:: 631cc2cc-823d-4bad-a443-dabd3605eab5
+  hl-type:: area
+  hl-stamp:: 1662829258705
+- [:span]
+  ls-type:: annotation
+  hl-page:: 29
+  id:: 631cc3ec-71ba-40b5-b8df-2fd1ddbd284c
+  hl-type:: area
+  hl-stamp:: 1662829547423
+- It can also be a bad thing. For example "echo chambers" and "groupthink" are situations where your friends are like you, diversity is killed, and you are only exposed to opinions that reinforce your pre-existing beliefs...
+  ls-type:: annotation
+  hl-page:: 21
+  id:: 6336c4b7-7906-4d4b-a542-6fb15b808400
+- [:span]
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: yellow
+  id:: 6463296a-522a-474e-91b5-f2b3f50b4bf5
+  hl-type:: area
+  hl-stamp:: 1684221172912
+- [:span]
+  ls-type:: annotation
+  hl-page:: 34
+  hl-color:: yellow
+  id:: 64632a86-5ed9-4a21-a210-fc4345e425d0
+  hl-type:: area
+  hl-stamp:: 1684220548487
+- [:span]
+  ls-type:: annotation
+  hl-page:: 35
+  hl-color:: yellow
+  id:: 64632af3-0948-406b-b883-1d2af50a11b2
+  hl-type:: area
+  hl-stamp:: 1684220658225
+- [:span]
+  ls-type:: annotation
+  hl-page:: 35
+  hl-color:: yellow
+  id:: 64632b62-4ad0-49f8-8a63-b89abccd0ef2
+  hl-type:: area
+  hl-stamp:: 1684222863808
+- [:span]
+  ls-type:: annotation
+  hl-page:: 35
+  hl-color:: yellow
+  id:: 64632b72-7fb6-448f-a441-d25d9b508b78
+  hl-type:: area
+  hl-stamp:: 1684220785275
+- [:span]
+  ls-type:: annotation
+  hl-page:: 37
+  hl-color:: yellow
+  id:: 64632b9a-ef30-417a-838d-7e4e7ae2deaa
+  hl-type:: area
+  hl-stamp:: 1684220822961
+- [:span]
+  ls-type:: annotation
+  hl-page:: 37
+  hl-color:: yellow
+  id:: 64632bb0-bba8-4417-899d-1eff21a0bb04
+  hl-type:: area
+  hl-stamp:: 1684220854248
+- [:span]
+  ls-type:: annotation
+  hl-page:: 37
+  hl-color:: yellow
+  id:: 64632bd6-9e4d-4f70-ab77-0e923ffcfb59
+  hl-type:: area
+  hl-stamp:: 1684220891080
