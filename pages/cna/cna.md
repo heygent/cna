@@ -1,7 +1,7 @@
 - {{query (page-tags cna)}}
   query-sort-by:: slide
   query-sort-desc:: false
-  query-properties:: [:page :slide]
+  query-properties:: [:page :slide :date]
 - # [[Introduzione]]
 	- Meaning and examples of complexity
 	- networks and complexity
@@ -37,7 +37,6 @@
 		- ((646275b2-a596-4444-b231-f4aa39798f57))
 		- ((646275b2-28f6-45b2-b967-282c42428b7e))
 - # [[Legami forti e deboli]]
-	- date:: [[2023-03-06]]
 	- ((646275b2-6714-42a4-ad0e-ef408992f8ec))
 	- ((64625526-7abe-416b-8538-8f2d05123946))
 	- ((64625143-588e-4dc1-a991-4b27deea3a85))

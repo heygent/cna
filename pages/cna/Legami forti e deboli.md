@@ -1,4 +1,5 @@
 tags:: cna
+date:: [[2023-03-06]]
 slide:: ![ns03](../../assets/ns03.pdf)
 
 - # Connessione tra locale e globale
