@@ -102,7 +102,7 @@ tags:: cna
 		- se internet non fosse connesso, sarebbe impossibile trasmettere segnali (es. email) tra router in diverse componenti.
 	- ## Robustness test
 		- verificare come la connettività della rete viene afflitta mano a mano che nodi vengono rimossi
-		- si fa il grafico della dimensione relativa $S$ del ((6319c11b-bddf-4fbb-bf24-9689c9e2f021)) come funzione della frazione di nodi rimossi.
+		- si fa il grafico della dimensione relativa $S$ del ((646328e9-4cf5-403f-9379-95fb60431ebb)) come funzione della frazione di nodi rimossi.
 		- si suppone che la rete sia inizialmente connessa
 			- un solo componente
 			- $S = 1$
