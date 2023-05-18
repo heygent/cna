@@ -2,6 +2,17 @@ tags:: cna
 date:: [[2023-03-06]]
 slide:: ![ns03](../../assets/ns03.pdf)
 
+- #+BEGIN_QUERY
+  {:title "Pages created between two time periods"
+   :query [:find (pull ?p [*]) 
+           :in $ ?start ?end
+           :where
+           [?p :block/name _]
+           [?p :block/created-at ?t]
+  ]]
+   :inputs [1657885810000 1658404210000]}
+  #+END_QUERY
+-
 - # Connessione tra locale e globale
 	- Le reti giocano un ruolo importante nel **connettere il locale con il globale** per offrire spiegazioni su come processi semplici al livello di nodi e archi individuali possano avere **effetti a cascata su intere popolazioni.**
 		- Come fluisce l'informazione in un social network?
