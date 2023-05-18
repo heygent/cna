@@ -2,11 +2,11 @@ tags:: cna
 date:: [[2023-03-06]]
 slide:: ![ns03](../../assets/ns03.pdf)
 
-- query-table:: true
-  query-sort-by:: date
+- query-sort-by:: date
+  query-table:: true
   query-sort-desc:: false
   #+BEGIN_QUERY
-  {:title "Pages created between two time periods"
+  {:title [:h1 "heyhye"]
    :query [:find (pull ?b [*]) 
            :where
   [?p :block/name "cna"]
