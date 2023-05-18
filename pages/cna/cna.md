@@ -1,13 +1,10 @@
-- {{query (page-tags cna)}}
-  query-sort-by:: slide
-  query-sort-desc:: false
-  query-properties:: [:page :slide :date]
 - # [[Introduzione]]
-	-
+  {{embed ((6466019e-9648-4a9a-b4b2-24002a44bbeb))}}
 	- Meaning and examples of complexity
 	- networks and complexity
 	- examples of applications of network theory
 - # [[Grafo]]
+  {{embed ((6465f708-1350-46f8-9482-0052fd7d3796))}}
 	- ((6416dcb6-cf08-4329-8e18-c6e6ee5a5b17))
 		- node
 		- edges
