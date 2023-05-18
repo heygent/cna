@@ -1,6 +1,6 @@
 tags:: cna
 date:: [[2023-03-03]]
-slide:: ![ns02.pdf](../../assets/ns02.pdf)
+slide:: ![ns02](../../assets/ns02.pdf)
 
 - # Definizioni base
   id:: 6416dcb6-cf08-4329-8e18-c6e6ee5a5b17
