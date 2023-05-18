@@ -1,4 +1,5 @@
 tags:: cna
+slide:: ![ns05](../assets/ns05.pdf)
 
 - # Misure di centralità
 	- Misura di importanza di un nodo
