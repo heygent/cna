@@ -2,18 +2,6 @@ tags:: cna
 date:: [[2023-03-06]]
 slide:: ![ns03](../../assets/ns03.pdf)
 
-- query-sort-by:: block
-  query-table:: true
-  query-sort-desc:: true
-  #+BEGIN_QUERY
-  {:title [:h1 "heyhye"]
-   :query [:find (pull ?b [*]) 
-           :where
-  [?p :block/name "Grafo"]
-  [?b :block/refs ?p]
-  ]}
-  #+END_QUERY
--
 - # Connessione tra locale e globale
 	- Le reti giocano un ruolo importante nel **connettere il locale con il globale** per offrire spiegazioni su come processi semplici al livello di nodi e archi individuali possano avere **effetti a cascata su intere popolazioni.**
 		- Come fluisce l'informazione in un social network?
