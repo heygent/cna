@@ -45,7 +45,6 @@
 	- ((646357c4-b064-4a5e-92aa-22bbec17f577))
 	- ((64637645-e7fa-496f-86e6-323d38388366))
 - # [[Homophily]]
-  date:: [[2023-03-08]]
 	- [[Homophily]]
 	- Modularity
 	- Assortativity
