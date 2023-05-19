@@ -1,6 +1,7 @@
 file:: [nsbook1.pdf](../../assets/book1.pdf)
 file-path:: ../../assets/nsbook1.pdf
 exclude-from-graph-view:: true
+tags:: cna
 
 - Nay eee (ucie
   ls-type:: annotation
@@ -12,3 +13,4 @@ exclude-from-graph-view:: true
   hl-page:: 54
   hl-color:: yellow
   id:: 64672afd-0fbd-499d-9a14-2a2c062919d3
+-
