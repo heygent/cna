@@ -1,6 +1,7 @@
 tags:: cna
 date:: [[2023-03-08]]
 slide:: ![ns04](../assets/ns04.pdf)
+ref:: [nsbook1 chapter 2](((64672afd-0fbd-499d-9a14-2a2c062919d3))),
 
 - # Contesto circostante
 	- **contesto circostante**

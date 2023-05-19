@@ -14,5 +14,22 @@
                                    :height 1026.6666666666667}),
                           :page 61},
                :content {:text "CHAPTER 3"},
+               :properties {:color "yellow"}}
+              {:id #uuid "64673c06-91c0-4205-b32c-15fbcc9061dd",
+               :page 95,
+               :position {:bounding {:x1 261.49688720703125,
+                                     :y1 75.4781265258789,
+                                     :x2 350.1478271484375,
+                                     :y2 92.27812957763672,
+                                     :width 616,
+                                     :height 1026.6666666666667},
+                          :rects ({:x1 261.49688720703125,
+                                   :y1 75.4781265258789,
+                                   :x2 350.1478271484375,
+                                   :y2 92.27812957763672,
+                                   :width 616,
+                                   :height 1026.6666666666667}),
+                          :page 95},
+               :content {:text "CHAPTER 4"},
                :properties {:color "yellow"}}],
- :extra {:page 66}}
+ :extra {:page 95}}
