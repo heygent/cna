@@ -1,7 +1,6 @@
 tags:: cna
 date:: [[2023-03-08]]
 slide:: ![ns04](../assets/ns04.pdf)
-refs:: ![nsbook1](../../assets/nsbook1.pdf)
 
 - # Contesto circostante
 	- **contesto circostante**
