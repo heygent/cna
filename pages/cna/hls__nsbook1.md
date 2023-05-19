@@ -1,7 +1,6 @@
 file:: [nsbook1.pdf](../../assets/book1.pdf)
 file-path:: ../../assets/nsbook1.pdf
 exclude-from-graph-view:: true
-tags:: cna
 
 - Nay eee (ucie
   ls-type:: annotation
