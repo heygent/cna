@@ -44,8 +44,8 @@ icon:: 🌐
 	- ((646275b2-d730-4377-b20c-44e761e3a1a5)) e ((631aefdf-9178-4e44-91a5-69200e94239c))
 	- ((646357c4-b064-4a5e-92aa-22bbec17f577))
 	- ((64637645-e7fa-496f-86e6-323d38388366))
-- # [[Homophily]]
-	- [[Homophily]]
+- # [[Omofilia]]
+	- [[Omofilia]]
 	- Modularity
 	- Assortativity
 	- Degree assortativity
