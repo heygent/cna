@@ -2,10 +2,8 @@ file:: [nsbook1.pdf](../../assets/book1.pdf)
 file-path:: ../../assets/nsbook1.pdf
 exclude-from-graph-view:: true
 
-- [:span]
+- Nay eee (ucie
   ls-type:: annotation
   hl-page:: 33
   hl-color:: yellow
-  id:: 6422e720-946a-4c05-a38c-97f2f7b238a6
-  hl-type:: area
-  hl-stamp:: 1680008992135
+  id:: 64672a61-bb06-4f44-ab20-1b9f4dc7b83d
