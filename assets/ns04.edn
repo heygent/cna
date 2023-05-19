@@ -108,15 +108,15 @@
                :properties {:color "yellow"}}
               {:id #uuid "64632b9a-ef30-417a-838d-7e4e7ae2deaa",
                :page 37,
-               :position {:bounding {:x1 78,
-                                     :y1 100.2001953125,
-                                     :x2 370,
-                                     :y2 252.2001953125,
-                                     :width 720,
-                                     :height 405.00199312004537},
+               :position {:bounding {:x1 66.73333333333333,
+                                     :y1 85.7268337673611,
+                                     :x2 302.65520833333335,
+                                     :y2 215.7580837673611,
+                                     :width 616,
+                                     :height 346.50170522492766},
                           :rects (),
                           :page 37},
-               :content {:text "[:span]", :image 1684220822961},
+               :content {:text "[:span]", :image 1684487879068},
                :properties {:color "yellow"}}
               {:id #uuid "64632bb0-bba8-4417-899d-1eff21a0bb04",
                :page 37,
@@ -142,4 +142,4 @@
                           :page 37},
                :content {:text "[:span]", :image 1684220891080},
                :properties {:color "yellow"}}],
- :extra {:page 11}}
+ :extra {:page 37}}
