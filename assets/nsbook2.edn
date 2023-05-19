@@ -31,17 +31,5 @@
                                    :height 1026.6666666666667}),
                           :page 95},
                :content {:text "CHAPTER 4"},
-               :properties {:color "yellow"}}
-              {:id #uuid "6467873e-f1dc-44af-97a9-ae255bda5fc9",
-               :page 96,
-               :position {:bounding {:x1 67.80000305175781,
-                                     :y1 89.6015625,
-                                     :x2 682.8000030517578,
-                                     :y2 511.6015625,
-                                     :width 748.8000000000001,
-                                     :height 1248},
-                          :rects (),
-                          :page 96},
-               :content {:text "[:span]", :image 1684506428860},
                :properties {:color "yellow"}}],
  :extra {:page 96}}
