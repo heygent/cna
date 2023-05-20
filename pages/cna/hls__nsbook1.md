@@ -12,3 +12,8 @@ exclude-from-graph-view:: true
   hl-page:: 54
   hl-color:: yellow
   id:: 64672afd-0fbd-499d-9a14-2a2c062919d3
+- nsbook1 chapter 5
+  hl-page:: 138
+  ls-type:: annotation
+  id:: 64688dce-786d-4483-96aa-0f7794277d6c
+  hl-color:: yellow

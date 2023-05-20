@@ -112,5 +112,22 @@
                                    :height 877.286446477958}),
                           :page 54},
                :content {:text "path: (n.) a sequence of arcs in a network that can be traced continuously without retracing any arc."},
+               :properties {:color "yellow"}}
+              {:id #uuid "64688dce-786d-4483-96aa-0f7794277d6c",
+               :page 138,
+               :position {:bounding {:x1 181.18126219511032,
+                                     :y1 71.8781310915947,
+                                     :x2 258.4687377810478,
+                                     :y2 85.67812651395798,
+                                     :width 394,
+                                     :height 511.31784010697555},
+                          :rects ({:x1 181.18126219511032,
+                                   :y1 71.8781310915947,
+                                   :x2 258.4687377810478,
+                                   :y2 85.67812651395798,
+                                   :width 394,
+                                   :height 511.31784010697555}),
+                          :page 138},
+               :content {:text "NA @iCreCsy"},
                :properties {:color "yellow"}}],
- :extra {:page 54}}
+ :extra {:page 138}}
