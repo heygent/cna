@@ -49,6 +49,7 @@ ref:: ((64672afd-0fbd-499d-9a14-2a2c062919d3)), ((64673c06-91c0-4205-b32c-15fbcc
 			- $$\sum_{\text{edges}(i,j)}\delta_{g_i,g_j} = \frac{1}{2} \sum_{ij} a_{ij} \delta_{g_i, g_j}$$
 				- $\delta_{g_i, g_j}$ è il ((6468a99e-a984-462c-a747-3d5e2fd3f54c)):
 					- $$\delta_{ij} = \begin{cases} 0 & \text{se } i \neq j \\ 1 & \text{se } i = j \end{cases}$$
+				- $\frac12
 		- **B**: Numero atteso di archi tra tutte le coppie di nodi dello stesso tipo:
 			- $$\frac12 \sum_{ij} \frac{k_ik_j}{2m}\delta_{g_i,g_j}$$
 				- $k_i$ è il grado del nodo $i$
