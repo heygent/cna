@@ -6,7 +6,7 @@
 :block/parent 
 {:block/uuid #uuid "64691016-fe91-4dba-9504-dbe706ea4411"}
 :block/uuid #uuid "64691033-c5c0-424a-9661-678c891c1f74"} 
-{:block/created-at 1684608608101
+{:block/created-at 1684608697719
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -23,18 +23,18 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [257.82342529296875 103.90312957763673]
+:size [257.82342529296875 103.90316772460939]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
 :id "763bb8f0-f73b-11ed-87c0-cd5d66f9b693"
 :noFill false
 :isLocked false
-:point [242.89218139648438 220.27970504760742]
+:point [408.11251831054693 -207.63751602172863]
 :parentId "64691016-fe91-4dba-9504-dbe706ea4411"
 :collapsedHeight 0
-:nonce 1684607027834}}
-:block/updated-at 1684608608101} 
+:nonce 1684607027994}}
+:block/updated-at 1684608697719} 
 {:block/content "((64691261-7fd7-429e-bf6f-142e0820e585))"
 :block/format :markdown
 :block/left 
@@ -42,7 +42,7 @@
 :block/parent 
 {:block/uuid #uuid "64691016-fe91-4dba-9504-dbe706ea4411"}
 :block/uuid #uuid "64691627-60fb-4b7c-b93e-29926560f196"} 
-{:block/created-at 1684608630346
+{:block/created-at 1684608696379
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -59,18 +59,18 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [222.25383847735475 102.89059448242189]
+:size [222.25383847735475 102.89063262939455]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
 :id "0230db30-f73f-11ed-b254-c94e8a421005"
 :noFill false
 :isLocked false
-:point [654.5295885245185 225.98617237647196]
+:point [244.87489492100286 21.367367444831274]
 :parentId "64691016-fe91-4dba-9504-dbe706ea4411"
 :collapsedHeight 0
-:nonce 1684608551280}}
-:block/updated-at 1684608630346} 
+:nonce 1684608551400}}
+:block/updated-at 1684608696379} 
 {:block/created-at 1684608593109
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -134,7 +134,8 @@
 :nonce 1
 :assets []
 :shapes-index ("763bb8f0-f73b-11ed-87c0-cd5d66f9b693" "0230db30-f73f-11ed-b254-c94e8a421005" "11fe1d22-f73f-11ed-b254-c94e8a421005")}}
-:block/updated-at 1684608630345
+:block/journal? false
+:block/updated-at 1684608697747
 :block/created-at 1684606998474
 :block/type "whiteboard"
 :block/name "modularity formula"
