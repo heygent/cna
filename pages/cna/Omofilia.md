@@ -44,8 +44,10 @@ ref:: ((64672afd-0fbd-499d-9a14-2a2c062919d3)), ((64673c06-91c0-4205-b32c-15fbcc
 	- ## Modularità
 		- Gruppo, classe, o tipo del nodo $i$
 			- $g_i = 1 \ldots N$
-		- Frazione degli archi tra nodi dello stesso tipo
+		- Frazione degli archi tra nodi dello stesso tipo:
 			- $$\sum_{\text{edges}(i,j)}\delta_{g_i,g_j} = \frac{1}{2} \sum_{ij} a_{ij} \delta_{g_i, g_j}$$
+		- Numero atteso di archi tra tutte le coppie di nodi dello stesso tipo:
+			- $$\frac12 \sum_{ij} \frac{k_ik_j}{2m}$$
 		-
 - # Meccanismi sottostanti all'omofilia
   id:: 631cb450-b46e-427f-9747-442e03094845
