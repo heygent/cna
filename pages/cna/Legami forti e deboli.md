@@ -24,10 +24,10 @@ ref:: ((64673b5d-2df8-4eae-9565-5b2a7cb6250a))
 				- di tipo **strutturale**, in base a se sia un ((631aefdf-9178-4e44-91a5-69200e94239c)) o no.
 	- La risposta trascende il contesto specifico della ricerca del lavoro, e offre un modo di pensare riguardo l'architettura delle reti sociali in modo più generale.
 	- > ((631af429-3ced-4079-b376-69bbd3bf171d))
-- # Chiusura triadica
+- # Chiusura triadica #
   id:: 64625526-7abe-416b-8538-8f2d05123946
 	- Se due persone in una rete sociale hanno un amico in comune, allora c'è una maggiore probabilità che diventino amici tra di loro in futuro.
-	  background-color:: red
+	  background-color:: yellow
 	- Il ruolo base della chiusura triadica nelle reti sociali ha motivato la formulazione di misure delle reti sociali per catturarne la prevalenza. Una di queste è il ((64625143-588e-4dc1-a991-4b27deea3a85)).
 		- Quanto più fortemente la chiusura triadica opera nel vicinato del nodo, più il coefficiente di clustering tende a essere alto.
 	- ## Motivazioni
