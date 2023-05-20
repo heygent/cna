@@ -61,9 +61,9 @@ ref:: ((64672afd-0fbd-499d-9a14-2a2c062919d3))
 	- ## Vicini
 	  id:: 64368a97-1f6c-45e5-9071-f0d6ff26a06d
 		- ((6422e876-bf06-40cf-a59b-34d694162589))
-	- ## Grado - definizioni
+	- ## Grado
 	  id:: 6422fb58-b14c-4f73-a8ce-c547d160c906
-		- ### Grado
+		- ### Grado #card
 		  id:: 6465f748-d058-47f4-82a7-4f89024e32c1
 			- numero di collegamenti (o vicini)
 				- $i \rightarrow N_i \quad k_i = |N_i|$
