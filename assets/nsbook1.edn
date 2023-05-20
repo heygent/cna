@@ -129,5 +129,22 @@
                                    :height 511.31784010697555}),
                           :page 138},
                :content {:text "NA @iCreCsy"},
+               :properties {:color "yellow"}}
+              {:id #uuid "64688e49-92e6-499c-99fd-911bb70b2729",
+               :page 190,
+               :position {:bounding {:x1 222.3937530517578,
+                                     :y1 182.60623168945312,
+                                     :x2 346.62078857421875,
+                                     :y2 195.80624389648438,
+                                     :width 510.00000000000006,
+                                     :height 661.8581179049684},
+                          :rects ({:x1 222.3937530517578,
+                                   :y1 182.60623168945312,
+                                   :x2 346.62078857421875,
+                                   :y2 195.80624389648438,
+                                   :width 510.00000000000006,
+                                   :height 661.8581179049684}),
+                          :page 190},
+               :content {:text "6.3.4 Stochastic Block Modeling"},
                :properties {:color "yellow"}}],
- :extra {:page 150}}
+ :extra {:page 190}}

@@ -17,3 +17,8 @@ exclude-from-graph-view:: true
   ls-type:: annotation
   id:: 64688dce-786d-4483-96aa-0f7794277d6c
   hl-color:: yellow
+- 6.3.4 Stochastic Block Modeling
+  ls-type:: annotation
+  hl-page:: 190
+  hl-color:: yellow
+  id:: 64688e49-92e6-499c-99fd-911bb70b2729
