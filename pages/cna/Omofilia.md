@@ -56,7 +56,8 @@ ref:: ((64672afd-0fbd-499d-9a14-2a2c062919d3)), ((64673c06-91c0-4205-b32c-15fbcc
 					- $$\delta_{ij} = \begin{cases} 0 & \text{se } i \neq j \\ 1 & \text{se } i = j \end{cases}$$
 				- $\frac12$ fa sì che gli archi non vengano contati due volte ($i,j$ e $j,i$)
 		- **B**: Numero atteso di archi tra tutte le coppie di nodi dello stesso tipo:
-			- $$\frac12 \sum_{ij} \frac{k_ik_j}{2m}\delta_{g_i,g_j}$$
+			- id:: 64691261-7fd7-429e-bf6f-142e0820e585
+			  $$\frac12 \sum_{ij} \frac{k_ik_j}{2m}\delta_{g_i,g_j}$$
 				- $k_i$ è il ((6422fb58-b14c-4f73-a8ce-c547d160c906)) del nodo $i$
 				- $2m$ è il numero totale di estremi degli archi ($m$ è il numero di archi)
 		- Modularità = **A** - **B**
