@@ -253,7 +253,7 @@ ref:: ((64672afd-0fbd-499d-9a14-2a2c062919d3))
 					- l'insieme di nodi da cui si può **raggiungere** una componente fortemente connessa $S$, ma che non possono **essere raggiunti** da $S$
 				- #### Out-component
 					- l'insieme dei nodi che possono **essere raggiunti** da una componente fortemente connessa $S$, ma da cui non è possibile **raggiungere** $S$
-	- ## Coefficiente di clustering
+	- ## Coefficiente di clustering #card
 	  id:: 64625143-588e-4dc1-a991-4b27deea3a85
 		- Nelle reti sociali è comune che una conoscenza in comune tra due persone porti i suoi due conoscenti a conoscersi.
 		- ## Coefficiente di clustering di un nodo
