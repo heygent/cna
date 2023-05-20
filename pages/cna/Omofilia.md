@@ -33,10 +33,7 @@ ref:: [nsbook1 chapter 2](((64672afd-0fbd-499d-9a14-2a2c062919d3))), [nsbook2 ch
 			- questo significa che è molto più probabile che ci sia una connessione tra due nodi simili che tra due nodi diversi.
 	- ## Misurare l'omofilia
 	  id:: 631cae09-e42e-4970-ad68-65042e72e647
-		- Tre passi:
-			- assegnare un colore casuale a ogni nodo
-			- contare il numero di archi tra colori diversi
-			- comparare il numero con la rete reali
+		-
 		- L'idea è che se abbiamo una rete creata da dati reali e vogliamo capire se un tratto è caratterizzante di quella rete, dobbiamo compararla con una rete in cui lo stesso tratto è distribuito casualmente.
 		- ((646877dc-bace-4f28-93e9-a1b4bf28afa8))
 		-
