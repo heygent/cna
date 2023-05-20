@@ -1,4 +1,5 @@
 icon:: 🌐
+alias:: Contents
 
 - ## Libri
 	- ![nsbook1](../../assets/nsbook1.pdf) Menczer, Fortunato, Davis, A First Course in Network Science, Cambridge University Press, 2020
