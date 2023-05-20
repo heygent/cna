@@ -6,7 +6,7 @@
 :block/parent 
 {:block/uuid #uuid "64691016-fe91-4dba-9504-dbe706ea4411"}
 :block/uuid #uuid "64691033-c5c0-424a-9661-678c891c1f74"} 
-{:block/created-at 1684608549313
+{:block/created-at 1684608608101
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -23,7 +23,7 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [257.82342529296875 103.90316484759923]
+:size [257.82342529296875 103.90312957763673]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -33,8 +33,8 @@
 :point [242.89218139648438 220.27970504760742]
 :parentId "64691016-fe91-4dba-9504-dbe706ea4411"
 :collapsedHeight 0
-:nonce 1684607027832}}
-:block/updated-at 1684608549313} 
+:nonce 1684607027834}}
+:block/updated-at 1684608608101} 
 {:block/content "((64691261-7fd7-429e-bf6f-142e0820e585))"
 :block/format :markdown
 :block/left 
@@ -42,7 +42,7 @@
 :block/parent 
 {:block/uuid #uuid "64691016-fe91-4dba-9504-dbe706ea4411"}
 :block/uuid #uuid "64691627-60fb-4b7c-b93e-29926560f196"} 
-{:block/created-at 1684608562919
+{:block/created-at 1684608630346
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -59,7 +59,7 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [245.44292539141725 102.89056581968867]
+:size [222.25383847735475 102.89059448242189]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -69,9 +69,10 @@
 :point [654.5295885245185 225.98617237647196]
 :parentId "64691016-fe91-4dba-9504-dbe706ea4411"
 :collapsedHeight 0
-:nonce 1684608551193}}
-:block/updated-at 1684608562919} 
-{:block/properties 
+:nonce 1684608551280}}
+:block/updated-at 1684608630346} 
+{:block/created-at 1684608593109
+:block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
@@ -83,11 +84,11 @@
 :strokeType "line"
 :strokeWidth 1
 :opacity 1
-:label ""
+:label "-"
 :id "11fe1d22-f73f-11ed-b254-c94e8a421005"
 :fontWeight 400
 :noFill true
-:point [501.72 273.89]
+:point [501.72 273.9]
 :fontSize 20
 :handles 
 {:start 
@@ -103,16 +104,16 @@
 :decorations 
 {:end "arrow"}
 :parentId "64691016-fe91-4dba-9504-dbe706ea4411"
-:nonce 1684608577553
+:nonce 1684608577556
 :italic false}}
-:block/updated-at 1684608578374})
+:block/updated-at 1684608593109})
 :pages (
 {:block/uuid #uuid "64691016-fe91-4dba-9504-dbe706ea4411"
 :block/properties 
 {:ls-type :whiteboard-page
 :logseq.tldraw.page 
 {:id "64691016-fe91-4dba-9504-dbe706ea4411"
-:name "64691016-fe91-4dba-9504-dbe706ea4411"
+:name "modularity formula"
 :bindings 
 {:11fe1d20-f73f-11ed-b254-c94e8a421005 
 {:id "11fe1d20-f73f-11ed-b254-c94e8a421005"
@@ -133,8 +134,8 @@
 :nonce 1
 :assets []
 :shapes-index ("763bb8f0-f73b-11ed-87c0-cd5d66f9b693" "0230db30-f73f-11ed-b254-c94e8a421005" "11fe1d22-f73f-11ed-b254-c94e8a421005")}}
-:block/updated-at 1684608578374
+:block/updated-at 1684608630345
 :block/created-at 1684606998474
 :block/type "whiteboard"
-:block/name "64691016-fe91-4dba-9504-dbe706ea4411"
-:block/original-name "64691016-fe91-4dba-9504-dbe706ea4411"})}
+:block/name "modularity formula"
+:block/original-name "Modularity formula"})}
