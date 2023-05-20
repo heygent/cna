@@ -50,7 +50,7 @@
 
  ;; Automatically expand block references when zooming in.
  ;; Default value: true
- :ui/auto-expand-block-refs? true
+ :ui/auto-expand-block-refs? false
 
  ;; Enable Block timestamps.
  ;; Default value: false
@@ -95,7 +95,7 @@
  ;; This option takes precedence over the local `logseq/custom.css` file.
  ;; Example usage:
  ;; :custom-css-url "@import url('https://cdn.jsdelivr.net/gh/dracula/logseq@master/custom.css');"
-:custom-css-url "@import url('https://logseq.catppuccin.com/ctp-frappe.css');"
+:custom-css-url "@import url('https://logseq.catppuccin.com/ctp-mocha.css');"
  ;; Specify a custom JS import.
  ;; This option takes precedence over the local `logseq/custom.js` file.
  ;; Example usage:
@@ -129,7 +129,7 @@
  ;; If `:sidebar` remains unset, the right sidebar will stay hidden.
  ;; Examples:
  ;; 1. Set "Changelog" as the home page and display "Contents" in the right sidebar:
- ;; :default-home {:page "Changelog", :sidebar "Contents"}
+ :default-home { :page "Grafo" :sidebar "cna" }
  ;; 2. Set "Jun 3rd, 2021" as the home page without the right sidebar:
  ;; :default-home {:page "Jun 3rd, 2021"}
  ;; 3. Set "home" as the home page and display multiple pages in the right sidebar:
@@ -292,7 +292,7 @@
  ;;  :journal?       false} ; Default value: false
 
  ;; Favorites to list on the left sidebar
- :favorites []
+ :favorites ["cna"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -315,7 +315,7 @@
 
  ;; Properties to exclude from having property pages
  ;; Example usage:
- ;; :property-pages/excludelist #{:duration :author}
+ :property-pages/excludelist #{:duration :author}
 
  ;; By default, property value separated by commas will not be treated as
  ;; page references. You can add properties to enable it.
