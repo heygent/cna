@@ -47,8 +47,8 @@ icon:: 🌐
 	- ((646357c4-b064-4a5e-92aa-22bbec17f577))
 	- ((64637645-e7fa-496f-86e6-323d38388366))
 - # [[Omofilia]]
-	- [[Omofilia]]
-	- Modularity
+	- ((6465f708-5ab9-4d1a-a685-ad4cdeb70286))
+	- ((6468a11b-78cd-4b64-9e79-96d84f382f47))
 	- Assortativity
 	- Degree assortativity
 	- ((631cc01b-8f07-470d-9924-40500a8a9d40))

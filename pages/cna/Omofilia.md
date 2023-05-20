@@ -16,6 +16,7 @@ ref:: ((64672afd-0fbd-499d-9a14-2a2c062919d3)), ((64673c06-91c0-4205-b32c-15fbcc
 		- **caratteristiche personali**
 			- le proprietà strutturali vengono collegate a caratteristiche personali (come ponti e legami deboli) e con questo otteniamo **similarità tra individui**
 - # Omofilia
+  id:: 6465f708-5ab9-4d1a-a685-ad4cdeb70286
 	- Il principio per cui tendiamo a essere simili ai nostri amici.
 		- Incontrando qualcuno casualmente al di fuori del nostro circolo sociale la probabilità è alta che questa persona sia diversa da me.
 		- Questo fa sì che i tuoi amici non siano significativi come campione casuale di una popolazione.
@@ -42,6 +43,7 @@ ref:: ((64672afd-0fbd-499d-9a14-2a2c062919d3)), ((64673c06-91c0-4205-b32c-15fbcc
 				- L'arco avrebbe un estremo "uomo" e uno "donna" con probabilità $2pq$.
 			- Se la frazione degli archi tra nodi diversi è significativamente inferiore di $2pq$, allora si ha un'indicazione di presenza di omofilia nella rete.
 	- ## Modularità
+	  id:: 6468a11b-78cd-4b64-9e79-96d84f382f47
 		- Gruppo, classe, o tipo del nodo $i$
 			- $g_i = 1 \ldots N$
 		- **A**: Frazione degli archi tra nodi dello stesso tipo:
