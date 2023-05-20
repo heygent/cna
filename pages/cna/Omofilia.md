@@ -49,7 +49,8 @@ ref:: ((64672afd-0fbd-499d-9a14-2a2c062919d3)), ((64673c06-91c0-4205-b32c-15fbcc
 			- $$\sum_{\text{edges}(i,j)}\delta_{g_i,g_j} = \frac{1}{2} \sum_{ij} a_{ij} \delta_{g_i, g_j}$$
 		- B: Numero atteso di archi tra tutte le coppie di nodi dello stesso tipo:
 			- $$\frac12 \sum_{ij} \frac{k_ik_j}{2m}\delta_{g_i,g_j}$$
-		- Modularità = ((6468a1da-2604-4279-86ca-39e28120d040))
+		- Modularità = A - B
+			- $$Q = \frac12 \sum_{ij} \left(a_{ij} - \frac{k_i k_j}{2m} \right)$$
 		-
 - # Meccanismi sottostanti all'omofilia
   id:: 631cb450-b46e-427f-9747-442e03094845
