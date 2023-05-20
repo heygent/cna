@@ -65,7 +65,7 @@ ref:: ((64672afd-0fbd-499d-9a14-2a2c062919d3)), ((64673c06-91c0-4205-b32c-15fbcc
 	- **FOCI**
 		- punti focali, indicano attività, opinioni o affiliazioni di individui
 	- **rete di affiliazione**
-		- grafo bipartito
+		- ((64368a97-1853-46f2-946d-aba0b766a52e))
 		- $$
 		  G = (U, V, E) \\
 		  \forall(u, v) \in E : u \in U \land v \in V
