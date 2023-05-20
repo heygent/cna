@@ -9,12 +9,9 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - uses: logseq/publish-spa@v0.1.0
-        with:
-          output-directory: cna
-          theme-mode: dark
       - name: add a nojekyll file # to make sure asset paths are correctly identified
-        run: touch $GITHUB_WORKSPACE/cna/.nojekyll
+        run: touch $GITHUB_WORKSPACE/www/.nojekyll
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          folder: cna
+          folder: www
