@@ -41,7 +41,6 @@ ref:: ((64672afd-0fbd-499d-9a14-2a2c062919d3)), ((64673c06-91c0-4205-b32c-15fbcc
 				- L'arco avrebbe entrambi gli estremi etichettati con "donna" con probabilità $q^2$.
 				- L'arco avrebbe un estremo "uomo" e uno "donna" con probabilità $2pq$.
 			- Se la frazione degli archi tra nodi diversi è significativamente inferiore di $2pq$, allora si ha un'indicazione di presenza di omofilia nella rete.
-			  background-color:: yellow
 	- ## Modularità
 		- Gruppo, classe, o tipo del nodo $i$
 			- $g_i = 1 \ldots N$
