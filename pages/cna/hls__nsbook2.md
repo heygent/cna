@@ -12,3 +12,8 @@ exclude-from-graph-view:: true
   hl-page:: 95
   hl-color:: yellow
   id:: 64673c06-91c0-4205-b32c-15fbcc9061dd
+- Homophily Test
+  ls-type:: annotation
+  hl-page:: 98
+  hl-color:: yellow
+  id:: 646877dc-bace-4f28-93e9-a1b4bf28afa8
