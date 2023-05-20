@@ -1,7 +1,7 @@
 tags:: cna
 date:: [[2023-03-08]]
 slide:: ![ns06](../assets/ns06.pdf)
-ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb70b2729)), 64688eb2-6a49-4f47-9016-4ec65ea20560
+ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb70b2729)), ((64688eb2-6a49-4f47-9016-4ec65ea20560))
 
 -
 - # Recap - Caratteristiche strutturali di reti nel mondo reale
