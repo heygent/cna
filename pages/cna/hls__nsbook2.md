@@ -12,10 +12,3 @@ exclude-from-graph-view:: true
   hl-page:: 95
   hl-color:: yellow
   id:: 64673c06-91c0-4205-b32c-15fbcc9061dd
-- suppose we have a network in which a fraction p of all individuals are male, and a fraction q of all individuals are female. Consider a given edge in this network. If we independently assign each node the gender male with probability $p$ and the gender female with probability q, then both ends of the edge will be male with probability $p^2$ , and both ends will be female with probability q2 . On the other hand, if the first end of the edge is male and the second end is female, or vice versa, then we have a cross-gender edge, so this happens with probability $2pq$. Therefore, the test for homophily according to gender can be summarized as follows:
-  hl-stamp:: 1684567820627
-  hl-page:: 98
-  ls-type:: annotation
-  id:: 64687706-4ac5-4411-bced-67f67e2c340d
-  hl-color:: blue
-  > Homophily Test: If the fraction of cross-gender edges is significantly less than $2pq$, then there is evidence for homophily.
