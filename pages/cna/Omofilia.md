@@ -68,7 +68,7 @@ ref:: ((64672afd-0fbd-499d-9a14-2a2c062919d3)), ((64673c06-91c0-4205-b32c-15fbcc
 		- **influenza sociale**
 		  id:: 631cbf9d-a8db-4f12-82e5-d747a71df7b5
 			- nodi connessi diventano più simili
-	- Può essere una cosa negativa. **Echo chambers** e **groupthink** sono situazioni dove i tuoi amici sono come te, la diversità è annientata, e sei esposto solo a opinioni che rinforzano le tue convinzioni preesistenti.
+	- Può essere una cosa negativa. **Echo chambers** e **groupthink** sono situazioni dove i tuoi amici sono come te, la diversità è annientata, e sei esposto solo a opinioni che rafforzano le tue convinzioni preesistenti.
 - # Reti di affiliazione
   id:: 631cc01b-8f07-470d-9924-40500a8a9d40
 	- Possiamo rappresentare anche il ((631ca982-e61b-49de-8149-c2cd1801cace)) tramite reti
