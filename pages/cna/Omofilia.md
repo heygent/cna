@@ -37,7 +37,6 @@ ref:: ((64672afd-0fbd-499d-9a14-2a2c062919d3)), ((64673c06-91c0-4205-b32c-15fbcc
 		- ((646877dc-bace-4f28-93e9-a1b4bf28afa8))
 			- Si supponga di avere una rete in cui una frazione $p$ degli individui sono uomini, e una frazione $q$ sono donne.
 			- Si consideri un arco casuale in questa rete. Se le etichette "uomo" e "donna" fossero assegnate casualmente rispettivamente con probabilità $p$ e $q$:
-			  background-color:: red
 				- L'arco avrebbe entrambi gli estremi etichettati con "uomo" con probabilità $p^2$.
 - # Meccanismi sottostanti all'omofilia
   id:: 631cb450-b46e-427f-9747-442e03094845
