@@ -48,7 +48,7 @@ ref:: ((64672afd-0fbd-499d-9a14-2a2c062919d3)), ((64673c06-91c0-4205-b32c-15fbcc
 		- ((6468aa5d-6b95-47aa-b2cf-68d6a45cc1e7))
 		- Gruppo, classe, o tipo del nodo $i$
 			- $g_i = 1 \ldots N$
-		- **A**:  archi tra nodi dello stesso tipo:
+		- **A**: Numero totale di archi tra nodi dello stesso tipo:
 		  id:: 6468a1da-2604-4279-86ca-39e28120d040
 			- id:: 6468e6fc-4229-42d3-b6c3-97afbd7ce202
 			  $$\sum_{\text{edges}(i,j)}\delta_{g_i,g_j} = \frac{1}{2} \sum_{ij} a_{ij} \delta_{g_i, g_j}$$
