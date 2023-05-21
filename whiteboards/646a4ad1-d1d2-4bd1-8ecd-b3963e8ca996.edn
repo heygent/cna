@@ -1,5 +1,5 @@
 {:blocks (
-{:block/content "## Slide\n($a_{ij$ al denominatore invece di $k_i$)\n((646a3432-dfac-4ddb-982c-a31c6cd722a2))"
+{:block/content "## Slide\n$a_{ij}$ al denominatore invece di $k_i$\n((646a3432-dfac-4ddb-982c-a31c6cd722a2))"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "646a4ad1-d1d2-4bd1-8ecd-b3963e8ca996"}
@@ -8,7 +8,7 @@
 :block/properties 
 {:heading 2}
 :block/uuid #uuid "646a4ad2-c2e2-4a71-a329-b818960c75d8"} 
-{:block/created-at 1684688197522
+{:block/created-at 1684688217427
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -25,18 +25,18 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [335.734375 112.98746585660015]
+:size [335.734375 213.9844149181663]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
 :id "fdbe8350-f7f6-11ed-b60b-abf421ae897f"
 :noFill false
 :isLocked false
-:point [8.044813458548163 413.79632660041705]
+:point [7.413322500304673 403.6815317172741]
 :parentId "646a4ad1-d1d2-4bd1-8ecd-b3963e8ca996"
 :collapsedHeight 0
-:nonce 1684687571386}}
-:block/updated-at 1684688197522} 
+:nonce 1684687571429}}
+:block/updated-at 1684688217427} 
 {:block/content "## Libro\n((646a472e-3ec0-4fd5-9fad-b8672ed19e91))"
 :block/format :markdown
 :block/left 
@@ -150,7 +150,7 @@
 :collapsedHeight 0
 :nonce 1684687696411}}
 :block/updated-at 1684688192504} 
-{:block/created-at 1684688141216
+{:block/created-at 1684688219762
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -172,14 +172,14 @@
 :fontWeight 400
 :noFill true
 :isLocked false
-:point [51.69267236549632 119.4287364154618]
+:point [33.571627476769265 111.60373975896601]
 :lineHeight 1.2
 :fontSize 20
 :parentId "646a4ad1-d1d2-4bd1-8ecd-b3963e8ca996"
-:nonce 1684687735335
+:nonce 1684687735413
 :italic false
 :text "Coefficiente di assortatività"}}
-:block/updated-at 1684688141216} 
+:block/updated-at 1684688219762} 
 {:block/content "## Libro\nid:: 646a4be6-fff3-4888-a407-2eec29549869\n((646a4bde-5169-4db5-923f-200a8e313e9e))"
 :block/format :markdown
 :block/left 
@@ -254,7 +254,36 @@
 :parentId "646a4ad1-d1d2-4bd1-8ecd-b3963e8ca996"
 :nonce 1684688018349
 :italic false}}
-:block/updated-at 1684688141216})
+:block/updated-at 1684688141216} 
+{:block/created-at 1684688250720
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 7
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [112 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "8e203960-f7f8-11ed-b60b-abf421ae897f"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [-312.1958712698403 110.6661290193039]
+:lineHeight 1.2
+:fontSize 20
+:parentId "646a4ad1-d1d2-4bd1-8ecd-b3963e8ca996"
+:nonce 1684688242801
+:italic false
+:text "Modularità"}}
+:block/updated-at 1684688250720})
 :pages (
 {:block/uuid #uuid "646a4ad1-d1d2-4bd1-8ecd-b3963e8ca996"
 :block/properties 
@@ -313,8 +342,8 @@
 :distance 4}}
 :nonce 1
 :assets []
-:shapes-index ("fdbe8350-f7f6-11ed-b60b-abf421ae897f" "1024bfa0-f7f7-11ed-b60b-abf421ae897f" "201715c2-f7f7-11ed-b60b-abf421ae897f" "481e4700-f7f7-11ed-b60b-abf421ae897f" "699b6d90-f7f7-11ed-b60b-abf421ae897f" "a22b6890-f7f7-11ed-b60b-abf421ae897f" "085d0f62-f7f8-11ed-b60b-abf421ae897f")}}
-:block/updated-at 1684688202278
+:shapes-index ("fdbe8350-f7f6-11ed-b60b-abf421ae897f" "1024bfa0-f7f7-11ed-b60b-abf421ae897f" "201715c2-f7f7-11ed-b60b-abf421ae897f" "481e4700-f7f7-11ed-b60b-abf421ae897f" "699b6d90-f7f7-11ed-b60b-abf421ae897f" "a22b6890-f7f7-11ed-b60b-abf421ae897f" "085d0f62-f7f8-11ed-b60b-abf421ae897f" "8e203960-f7f8-11ed-b60b-abf421ae897f")}}
+:block/updated-at 1684688250719
 :block/created-at 1684687569247
 :block/type "whiteboard"
 :block/name "646a4ad1-d1d2-4bd1-8ecd-b3963e8ca996"
