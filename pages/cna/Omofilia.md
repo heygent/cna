@@ -47,7 +47,8 @@ ref:: ((64672afd-0fbd-499d-9a14-2a2c062919d3)), ((64673c06-91c0-4205-b32c-15fbcc
 	  background-color:: red
 	- ## Modularità #card
 	  id:: 6468a11b-78cd-4b64-9e79-96d84f382f47
-		- $$Q = \frac1{2m} \sum_{ij} \left(a_{ij} - \frac{k_i k_j}{2m} \right) \delta_{g_i g_j}$$
+		- id:: 646a363f-b4cd-422d-9596-e37857062559
+		  $$Q = \frac1{2m} \sum_{ij} \left(a_{ij} - \frac{k_i k_j}{2m} \right) \delta_{g_i g_j}$$
 			- Misura delle connessioni tra nodi dello stesso tipo nella rete.
 				- ha valori positivi quando ci sono più archi tra nodi dello stesso tipo di quanti ce ne aspetteremmo casualmente e negativo quando ce ne sono meno.
 				- strettamente minore di 1
@@ -77,7 +78,8 @@ ref:: ((64672afd-0fbd-499d-9a14-2a2c062919d3)), ((64673c06-91c0-4205-b32c-15fbcc
 				- a seconda della dimensione dei gruppi e del grado dei nodi, il massimo valore di $Q$ può essere considerevolmente inferiore a 1
 	- ## Coefficiente di assortatività #card
 		- Normalizzazione della ((6468a11b-78cd-4b64-9e79-96d84f382f47)) rispetto al suo valore per una rete perfettamente mescolata.
-		- ((64691261-7fd7-429e-bf6f-142e0820e585))
+		- ((646a363f-b4cd-422d-9596-e37857062559))
+		- $$Q_\text{max} = \frac1{2m}\left(2m$$
 - # Meccanismi sottostanti all'omofilia
   id:: 631cb450-b46e-427f-9747-442e03094845
 	- Ci sono due meccanismi naturali per cui l'omofilia emerge:
