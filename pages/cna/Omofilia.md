@@ -90,8 +90,8 @@ ref:: ((64672afd-0fbd-499d-9a14-2a2c062919d3)), ((64673c06-91c0-4205-b32c-15fbcc
 			- $$Q_\text{max} = \frac1{2m}\left(2m - \sum_{ij} \frac{k_i k_j}{2m} \delta_{g_i g_j}\right)$$
 		- $$\frac{Q}{Q_\text{max}} = \frac{\sum_{ij} (A_{ij} - k_i k_j / 2m) \delta_{g_i g_j}}{2m - \sum_{ij}(k_i k_j / 2m) \delta_{g_i g_j}}$$
 		- Questa quantità assume valore 1 in una rete perfettamente mescolata.
-		- Per feature non categoriche, il coefficiente di assortatività è uguale a:
-			- ((646a472e-3ec0-4fd5-9fad-b8672ed19e91))
+	- ## Coefficiente di assortatività per feature non categoriche
+		- ((646a472e-3ec0-4fd5-9fad-b8672ed19e91))
 - # Meccanismi sottostanti all'omofilia
   id:: 631cb450-b46e-427f-9747-442e03094845
 	- Ci sono due meccanismi naturali per cui l'omofilia emerge:
