@@ -99,8 +99,8 @@ ref:: ((64672afd-0fbd-499d-9a14-2a2c062919d3)), ((64673c06-91c0-4205-b32c-15fbcc
 					- La media non è sui nodi, ma sugli archi ed è pesata con il grado.
 			- Covarianza di $x_i$ e $x_j$ sugli archi:
 				- $$\text{cov}(x_i,x_j) = \frac1{2m}\sum_{ij}\left(A_{ij} - \frac{k_i k_j}{2m} \right) x_i x_j$$
-			- Si normalizza sulla base di una ((646a384b-eeb7-4ccf-8642-114eda9a0676)), dove gli archi esistono solo su valori precisamente uguali di $x_i$ (molto raro in pratica):
-				-
+			- Si normalizza sulla base di una ((646a384b-eeb7-4ccf-8642-114eda9a0676)), dove gli archi esistono solo su valori precisamente uguali di $x_i$ (molto raro in pratica). Ponendo $x_i = x_j$:
+				- ((646a6ea8-8ebb-4f8f-9d8b-44051eb68879))
 			- ((646a472e-3ec0-4fd5-9fad-b8672ed19e91))
 			- È un esempio di coefficiente di correlazione di Pearson, con covarianza al numeratore e varianza al denominatore (?)
 - # Meccanismi sottostanti all'omofilia
