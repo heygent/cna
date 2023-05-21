@@ -79,6 +79,7 @@ ref:: ((64672afd-0fbd-499d-9a14-2a2c062919d3)), ((64673c06-91c0-4205-b32c-15fbcc
 	- ## Coefficiente di assortatività #card
 		- Normalizzazione della ((6468a11b-78cd-4b64-9e79-96d84f382f47)) rispetto al suo valore per una rete perfettamente mescolata.
 		- ((646a363f-b4cd-422d-9596-e37857062559))
+			- In una rete perfettamente mescolata:
 		- $$Q_\text{max} = \frac1{2m}\left(2m - \sum_{ij} \frac{k_i k_j}{2m} \delta_{g_i g_j}\right)$$
 - # Meccanismi sottostanti all'omofilia
   id:: 631cb450-b46e-427f-9747-442e03094845
