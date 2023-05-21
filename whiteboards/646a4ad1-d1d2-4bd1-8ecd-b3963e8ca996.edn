@@ -150,7 +150,7 @@
 :collapsedHeight 0
 :nonce 1684687696411}}
 :block/updated-at 1684688192504} 
-{:block/created-at 1684688219762
+{:block/created-at 1684688273621
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -172,14 +172,14 @@
 :fontWeight 400
 :noFill true
 :isLocked false
-:point [33.571627476769265 111.60373975896601]
+:point [27.910230955740815 113.06988987720229]
 :lineHeight 1.2
 :fontSize 20
 :parentId "646a4ad1-d1d2-4bd1-8ecd-b3963e8ca996"
-:nonce 1684687735413
+:nonce 1684687735455
 :italic false
 :text "Coefficiente di assortatività"}}
-:block/updated-at 1684688219762} 
+:block/updated-at 1684688273621} 
 {:block/content "## Libro\nid:: 646a4be6-fff3-4888-a407-2eec29549869\n((646a4bde-5169-4db5-923f-200a8e313e9e))"
 :block/format :markdown
 :block/left 
@@ -343,7 +343,7 @@
 :nonce 1
 :assets []
 :shapes-index ("fdbe8350-f7f6-11ed-b60b-abf421ae897f" "1024bfa0-f7f7-11ed-b60b-abf421ae897f" "201715c2-f7f7-11ed-b60b-abf421ae897f" "481e4700-f7f7-11ed-b60b-abf421ae897f" "699b6d90-f7f7-11ed-b60b-abf421ae897f" "a22b6890-f7f7-11ed-b60b-abf421ae897f" "085d0f62-f7f8-11ed-b60b-abf421ae897f" "8e203960-f7f8-11ed-b60b-abf421ae897f")}}
-:block/updated-at 1684688250719
+:block/updated-at 1684688273621
 :block/created-at 1684687569247
 :block/type "whiteboard"
 :block/name "646a4ad1-d1d2-4bd1-8ecd-b3963e8ca996"
