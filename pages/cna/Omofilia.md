@@ -51,6 +51,7 @@ ref:: ((64672afd-0fbd-499d-9a14-2a2c062919d3)), ((64673c06-91c0-4205-b32c-15fbcc
 				- ha valori positivi quando ci sono più archi tra nodi dello stesso tipo di quanti ce ne aspetteremmo casualmente e negativo quando ce ne sono meno.
 				- strettamente minore di 1
 			- ### Spiegazione
+			  collapsed:: true
 				- ((6468aa5d-6b95-47aa-b2cf-68d6a45cc1e7))
 				- Gruppo, classe, o tipo del nodo $i$
 					- $g_i = 1 \ldots N$
