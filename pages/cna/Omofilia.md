@@ -93,16 +93,17 @@ ref:: ((64672afd-0fbd-499d-9a14-2a2c062919d3)), ((64673c06-91c0-4205-b32c-15fbcc
 		- Questa quantità assume valore 1 in una rete perfettamente mescolata.
 		- ### Feature scalari
 			- #### Spiegazione
-			- Sia $x_i$ il valore di una quantità scalare di interesse per un nodo $i$ (età, reddito, ecc.)
-			  id:: 646a68e5-a507-47da-b64e-2d664bf3828b
-			- Si consideri la coppia di valori $(x_i,x_j)$ per i nodi agli estremi di ogni arco $(i, j)$ nella rete.
-			- Si definisce la media $\mu$ del valore di $x_i$ alla fine di un arco come segue:
-				- ((646a6a08-234e-4188-ba1d-4318183b2284))
-					- La media non è sui nodi, ma sugli archi ed è pesata con il grado.
-			- Covarianza di $x_i$ e $x_j$ sugli archi:
-				- $$\text{cov}(x_i,x_j) = \frac1{2m}\sum_{ij}\left(A_{ij} - \frac{k_i k_j}{2m} \right) x_i x_j$$
-			- Si normalizza sulla base di una ((646a384b-eeb7-4ccf-8642-114eda9a0676)), dove gli archi esistono solo su valori precisamente uguali di $x_i$ (molto raro in pratica). Ponendo $x_i = x_j$ la covarianza per una rete perfettamente mescolata è:
-				- ((646a6ea8-8ebb-4f8f-9d8b-44051eb68879))
+			  collapsed:: true
+				- Sia $x_i$ il valore di una quantità scalare di interesse per un nodo $i$ (età, reddito, ecc.)
+				  id:: 646a68e5-a507-47da-b64e-2d664bf3828b
+				- Si consideri la coppia di valori $(x_i,x_j)$ per i nodi agli estremi di ogni arco $(i, j)$ nella rete.
+				- Si definisce la media $\mu$ del valore di $x_i$ alla fine di un arco come segue:
+					- ((646a6a08-234e-4188-ba1d-4318183b2284))
+						- La media non è sui nodi, ma sugli archi ed è pesata con il grado.
+				- Covarianza di $x_i$ e $x_j$ sugli archi:
+					- $$\text{cov}(x_i,x_j) = \frac1{2m}\sum_{ij}\left(A_{ij} - \frac{k_i k_j}{2m} \right) x_i x_j$$
+				- Si normalizza sulla base di una ((646a384b-eeb7-4ccf-8642-114eda9a0676)), dove gli archi esistono solo su valori precisamente uguali di $x_i$ (molto raro in pratica). Ponendo $x_i = x_j$ la covarianza per una rete perfettamente mescolata è:
+					- ((646a6ea8-8ebb-4f8f-9d8b-44051eb68879))
 			- ((646a472e-3ec0-4fd5-9fad-b8672ed19e91))
 			- È un esempio di coefficiente di correlazione di Pearson, con covarianza al numeratore e varianza al denominatore (?)
 - # Meccanismi sottostanti all'omofilia
