@@ -76,7 +76,7 @@ ref:: ((64672afd-0fbd-499d-9a14-2a2c062919d3)), ((64673c06-91c0-4205-b32c-15fbcc
 					- rete in cui ogni nodo è connesso solo a nodi dello stesso tipo
 					- a seconda della dimensione dei gruppi e del grado dei nodi, il massimo valore di $Q$ può essere considerevolmente inferiore a 1
 	- ## Coefficiente di assortatività #card
-		- Per far sì che la
+		- Normalizzazione della ((6468a11b-78cd-4b64-9e79-96d84f382f47)) rispetto al suo valore per una rete perfettamente mescolata
 - # Meccanismi sottostanti all'omofilia
   id:: 631cb450-b46e-427f-9747-442e03094845
 	- Ci sono due meccanismi naturali per cui l'omofilia emerge:
