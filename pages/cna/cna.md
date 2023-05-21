@@ -52,7 +52,7 @@ alias:: Contents
 	- # [[Omofilia]]
 		- ((6465f708-5ab9-4d1a-a685-ad4cdeb70286))
 		- ((6468a11b-78cd-4b64-9e79-96d84f382f47))
-		- Assortativity
+		- ((646a34c7-d0c3-458b-a08d-6a63272ed5ef))
 		- Degree assortativity
 		- ((631cc01b-8f07-470d-9924-40500a8a9d40))
 	- # [[Centralità]]
