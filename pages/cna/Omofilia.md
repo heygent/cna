@@ -62,7 +62,7 @@ ref:: ((64672afd-0fbd-499d-9a14-2a2c062919d3)), ((64673c06-91c0-4205-b32c-15fbcc
 				- Si consideri un arco che parte da un nodo $i$, di ((6422fb58-b14c-4f73-a8ce-c547d160c906)) $k_i$
 				- Nella rete, ci sono per definizione $2m$ estremi di archi, dove $m$ è il numero di archi
 				- La probabilità che all'altro estremo dell'arco ci sia uno dei $k_j$ estremi legati al nodo $j$ è $k_j/2m$
-				- Contando
+				- Contando $k_i$ archi connessi a $i$, il numero atteso
 		- Modularità = **A** - **B** / $m$
 			- $$Q = \frac1{2m} \sum_{ij} \left(a_{ij} - \frac{k_i k_j}{2m} \right) \delta_{g_i g_j}$$
 - # Meccanismi sottostanti all'omofilia
