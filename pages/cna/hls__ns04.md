@@ -71,3 +71,10 @@ exclude-from-graph-view:: true
   id:: 64632bd6-9e4d-4f70-ab77-0e923ffcfb59
   hl-type:: area
   hl-stamp:: 1684220891080
+- [:span]
+  ls-type:: annotation
+  hl-page:: 17
+  hl-color:: red
+  id:: 646a3432-dfac-4ddb-982c-a31c6cd722a2
+  hl-type:: area
+  hl-stamp:: 1684681775898

@@ -3,6 +3,8 @@ date:: [[2023-03-08]]
 slide:: ![ns04](../assets/ns04.pdf)
 ref:: ((64672afd-0fbd-499d-9a14-2a2c062919d3)), ((64673c06-91c0-4205-b32c-15fbcc9061dd))
 
+-
+- ((646a3432-dfac-4ddb-982c-a31c6cd722a2))
 - # Contesto circostante
 	- **contesto circostante**
 	  id:: 631ca982-e61b-49de-8149-c2cd1801cace
