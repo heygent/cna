@@ -8,7 +8,7 @@
 :block/properties 
 {:heading 2}
 :block/uuid #uuid "646a4ad2-c2e2-4a71-a329-b818960c75d8"} 
-{:block/created-at 1684688217427
+{:block/created-at 1684688542676
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -25,7 +25,7 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [335.734375 213.9844149181663]
+:size [335.734375 213.98440378226834]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -35,8 +35,8 @@
 :point [7.413322500304673 403.6815317172741]
 :parentId "646a4ad1-d1d2-4bd1-8ecd-b3963e8ca996"
 :collapsedHeight 0
-:nonce 1684687571429}}
-:block/updated-at 1684688217427} 
+:nonce 1684687571431}}
+:block/updated-at 1684688542676} 
 {:block/content "## Libro\n((646a472e-3ec0-4fd5-9fad-b8672ed19e91))"
 :block/format :markdown
 :block/left 
@@ -46,7 +46,7 @@
 :block/properties 
 {:heading 2}
 :block/uuid #uuid "646a4af1-7172-40aa-bfd9-3f0f43012db3"} 
-{:block/created-at 1684688143780
+{:block/created-at 1684688542680
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -63,7 +63,7 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [331.47808837890625 185.2687363984733]
+:size [331.47808837890625 185.2687583780286]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -73,8 +73,8 @@
 :point [5.530958068452094 163.80860693268252]
 :parentId "646a4ad1-d1d2-4bd1-8ecd-b3963e8ca996"
 :collapsedHeight 0
-:nonce 1684687602690}}
-:block/updated-at 1684688143780} 
+:nonce 1684687602692}}
+:block/updated-at 1684688542680} 
 {:block/created-at 1684688141216
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -122,7 +122,7 @@
 {:id "646a4b4f-ce71-4e79-a9c4-1145c9f5e689"
 :heading 2}
 :block/uuid #uuid "646a4b4f-ce71-4e79-a9c4-1145c9f5e689"} 
-{:block/created-at 1684688192504
+{:block/created-at 1684688542714
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -138,7 +138,7 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 206.5312736286412]
+:size [400 206.5312548752484]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -148,8 +148,8 @@
 :point [-440.76231176777054 406.92807965007853]
 :parentId "646a4ad1-d1d2-4bd1-8ecd-b3963e8ca996"
 :collapsedHeight 0
-:nonce 1684687696411}}
-:block/updated-at 1684688192504} 
+:nonce 1684687696414}}
+:block/updated-at 1684688542714} 
 {:block/created-at 1684688273621
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -190,7 +190,7 @@
 {:heading 2
 :id "646a4be6-fff3-4888-a407-2eec29549869"}
 :block/uuid #uuid "646a4be6-fff3-4888-a407-2eec29549869"} 
-{:block/created-at 1684688141216
+{:block/created-at 1684688542693
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -206,7 +206,7 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 212.4000568711805]
+:size [400 212.39999553014957]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -216,8 +216,8 @@
 :point [-443.9508810210379 165.02779885726173]
 :parentId "646a4ad1-d1d2-4bd1-8ecd-b3963e8ca996"
 :collapsedHeight 0
-:nonce 1684687847835}}
-:block/updated-at 1684688141216} 
+:nonce 1684687847837}}
+:block/updated-at 1684688542693} 
 {:block/created-at 1684688141216
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -290,7 +290,7 @@
 {:ls-type :whiteboard-page
 :logseq.tldraw.page 
 {:id "646a4ad1-d1d2-4bd1-8ecd-b3963e8ca996"
-:name "646a4ad1-d1d2-4bd1-8ecd-b3963e8ca996"
+:name "omofilia formule"
 :bindings 
 {:201715c0-f7f7-11ed-b60b-abf421ae897f 
 {:id "201715c0-f7f7-11ed-b60b-abf421ae897f"
@@ -343,8 +343,8 @@
 :nonce 1
 :assets []
 :shapes-index ("fdbe8350-f7f6-11ed-b60b-abf421ae897f" "1024bfa0-f7f7-11ed-b60b-abf421ae897f" "201715c2-f7f7-11ed-b60b-abf421ae897f" "481e4700-f7f7-11ed-b60b-abf421ae897f" "699b6d90-f7f7-11ed-b60b-abf421ae897f" "a22b6890-f7f7-11ed-b60b-abf421ae897f" "085d0f62-f7f8-11ed-b60b-abf421ae897f" "8e203960-f7f8-11ed-b60b-abf421ae897f")}}
-:block/updated-at 1684688273621
+:block/updated-at 1684688542731
 :block/created-at 1684687569247
 :block/type "whiteboard"
-:block/name "646a4ad1-d1d2-4bd1-8ecd-b3963e8ca996"
-:block/original-name "646a4ad1-d1d2-4bd1-8ecd-b3963e8ca996"})}
+:block/name "omofilia formule"
+:block/original-name "Omofilia formule"})}
