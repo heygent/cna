@@ -52,7 +52,8 @@ ref:: ((64672afd-0fbd-499d-9a14-2a2c062919d3)), ((64673c06-91c0-4205-b32c-15fbcc
 			- Misura delle connessioni tra nodi dello stesso tipo nella rete.
 				- ha valori positivi quando ci sono più archi tra nodi dello stesso tipo di quanti ce ne aspetteremmo casualmente e negativo quando ce ne sono meno.
 				- strettamente minore di 1
-				- **non raggiunge il valore 1
+				- **non raggiunge il valore 1, neanche per una rete perfettamente mescolata**
+					- rete in cui ogni nodo è connesso solo a nodi dello stesso tipo.
 			- ### Spiegazione
 			  collapsed:: true
 				- ((6468aa5d-6b95-47aa-b2cf-68d6a45cc1e7))
