@@ -85,6 +85,7 @@ ref:: ((64672afd-0fbd-499d-9a14-2a2c062919d3)), ((64673c06-91c0-4205-b32c-15fbcc
 				- Tutti gli archi cadono tra nodi dello stesso tipo, quindi $\delta_{g_i g_j} = 1$ ogni volta che $a_{ij} = 1$
 				- Il primo termine nella somma diventa $2m$
 		- $$Q_\text{max} = \frac1{2m}\left(2m - \sum_{ij} \frac{k_i k_j}{2m} \delta_{g_i g_j}\right)$$
+		- $$\frac{Q}{Q_\text{max}} = $$
 - # Meccanismi sottostanti all'omofilia
   id:: 631cb450-b46e-427f-9747-442e03094845
 	- Ci sono due meccanismi naturali per cui l'omofilia emerge:
