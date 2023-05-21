@@ -104,7 +104,8 @@ ref:: ((64672afd-0fbd-499d-9a14-2a2c062919d3)), ((64673c06-91c0-4205-b32c-15fbcc
 			- ((646a472e-3ec0-4fd5-9fad-b8672ed19e91))
 			- È un esempio di coefficiente di correlazione di Pearson
 	- ## Coefficiente di assortatività per grado
-		-
+		- Si prende il grado come feature scalare di ogni nodo:
+			-
 - # Meccanismi sottostanti all'omofilia
   id:: 631cb450-b46e-427f-9747-442e03094845
 	- Ci sono due meccanismi naturali per cui l'omofilia emerge:
