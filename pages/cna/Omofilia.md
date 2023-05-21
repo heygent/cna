@@ -80,12 +80,14 @@ ref:: ((64672afd-0fbd-499d-9a14-2a2c062919d3)), ((64673c06-91c0-4205-b32c-15fbcc
 				- a seconda della dimensione dei gruppi e del grado dei nodi, il massimo valore di $Q$ può essere considerevolmente inferiore a 1
 	- ## Coefficiente di assortatività #card
 		- Normalizzazione della ((6468a11b-78cd-4b64-9e79-96d84f382f47)) rispetto al suo valore per una ((646a384b-eeb7-4ccf-8642-114eda9a0676)).
-		- ((646a363f-b4cd-422d-9596-e37857062559))
-			- In una rete perfettamente mescolata tutti gli archi cadono tra nodi dello stesso tipo
-				- $\delta_{g_i g_j} = 1$ ogni volta che $a_{ij} = 1$
-				- Il primo termine nella somma diventa $2m$
-		- $$Q_\text{max} = \frac1{2m}\left(2m - \sum_{ij} \frac{k_i k_j}{2m} \delta_{g_i g_j}\right)$$
+			- ### Spiegazione
+			  collapsed:: true
+				- In una rete perfettamente mescolata tutti gli archi cadono tra nodi dello stesso tipo
+					- $\delta_{g_i g_j} = 1$ ogni volta che $a_{ij} = 1$
+					- Il primo termine nella somma diventa $2m$
+				- $$Q_\text{max} = \frac1{2m}\left(2m - \sum_{ij} \frac{k_i k_j}{2m} \delta_{g_i g_j}\right)$$
 		- $$\frac{Q}{Q_\text{max}} = \frac{\sum_{ij} (A_{ij} - k_i k_j / 2m) \delta_{g_i g_j}}{2m - \sum_{ij}(k_i k_j / 2m) \delta_{g_i g_j}}$$
+		- ((646a363f-b4cd-422d-9596-e37857062559))
 - # Meccanismi sottostanti all'omofilia
   id:: 631cb450-b46e-427f-9747-442e03094845
 	- Ci sono due meccanismi naturali per cui l'omofilia emerge:
