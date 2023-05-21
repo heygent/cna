@@ -47,31 +47,31 @@ ref:: ((64672afd-0fbd-499d-9a14-2a2c062919d3)), ((64673c06-91c0-4205-b32c-15fbcc
 	  background-color:: red
 	- ## Modularità #card
 	  id:: 6468a11b-78cd-4b64-9e79-96d84f382f47
-		- ### Spiegazione
-		  collapsed:: true
-			- ((6468aa5d-6b95-47aa-b2cf-68d6a45cc1e7))
-			- Gruppo, classe, o tipo del nodo $i$
-				- $g_i = 1 \ldots N$
-			- **A**: Numero totale di archi tra nodi dello stesso tipo:
-			  id:: 6468a1da-2604-4279-86ca-39e28120d040
-				- id:: 6468e6fc-4229-42d3-b6c3-97afbd7ce202
-				  $$\sum_{\text{edges}(i,j)}\delta_{g_i,g_j} = \frac{1}{2} \sum_{ij} a_{ij} \delta_{g_i, g_j}$$
-					- $a$ è la ((646275b2-7887-4bef-83fa-dbaf2a264cd5))
-					- $\delta_{g_i, g_j}$ è il ((6468a99e-a984-462c-a747-3d5e2fd3f54c)):
-						- $$\delta_{ij} = \begin{cases} 0 & \text{se } i \neq j \\ 1 & \text{se } i = j \end{cases}$$
-					- $\frac12$ fa sì che gli archi non vengano contati due volte ($i,j$ e $j,i$)
-			- **B**: Numero atteso di archi tra coppie di nodi dello stesso tipo se i gruppi fossero assegnati causalmente:
-				- id:: 64691261-7fd7-429e-bf6f-142e0820e585
-				  $$\frac12 \sum_{ij} \frac{k_ik_j}{2m}\delta_{g_i,g_j}$$
-					- Si consideri un arco che parte da un nodo $i$, di ((6422fb58-b14c-4f73-a8ce-c547d160c906)) $k_i$
-					- Nella rete, ci sono per definizione $2m$ estremi di archi, dove $m$ è il numero di archi
-					- La probabilità che all'altro estremo dell'arco ci sia uno dei $k_j$ estremi legati al nodo $j$ è $k_j/2m$
-					- Contando $k_i$ archi connessi a $i$, il numero atteso di archi tra i vertici $i$ e $j$ è $k_i k_j/2m$
-			- Modularità = (**A** - **B**) / $m$
 		- $$Q = \frac1{2m} \sum_{ij} \left(a_{ij} - \frac{k_i k_j}{2m} \right) \delta_{g_i g_j}$$
 			- Misura delle connessioni tra nodi dello stesso tipo nella rete.
 				- ha valori positivi quando ci sono più archi tra nodi dello stesso tipo di quanti ce ne aspetteremmo casualmente e negativo quando ce ne sono meno.
 				- strettamente minore di 1
+				- ### Spiegazione
+				  collapsed:: true
+					- ((6468aa5d-6b95-47aa-b2cf-68d6a45cc1e7))
+					- Gruppo, classe, o tipo del nodo $i$
+						- $g_i = 1 \ldots N$
+					- **A**: Numero totale di archi tra nodi dello stesso tipo:
+					  id:: 6468a1da-2604-4279-86ca-39e28120d040
+						- id:: 6468e6fc-4229-42d3-b6c3-97afbd7ce202
+						  $$\sum_{\text{edges}(i,j)}\delta_{g_i,g_j} = \frac{1}{2} \sum_{ij} a_{ij} \delta_{g_i, g_j}$$
+							- $a$ è la ((646275b2-7887-4bef-83fa-dbaf2a264cd5))
+							- $\delta_{g_i, g_j}$ è il ((6468a99e-a984-462c-a747-3d5e2fd3f54c)):
+								- $$\delta_{ij} = \begin{cases} 0 & \text{se } i \neq j \\ 1 & \text{se } i = j \end{cases}$$
+							- $\frac12$ fa sì che gli archi non vengano contati due volte ($i,j$ e $j,i$)
+					- **B**: Numero atteso di archi tra coppie di nodi dello stesso tipo se i gruppi fossero assegnati causalmente:
+						- id:: 64691261-7fd7-429e-bf6f-142e0820e585
+						  $$\frac12 \sum_{ij} \frac{k_ik_j}{2m}\delta_{g_i,g_j}$$
+							- Si consideri un arco che parte da un nodo $i$, di ((6422fb58-b14c-4f73-a8ce-c547d160c906)) $k_i$
+							- Nella rete, ci sono per definizione $2m$ estremi di archi, dove $m$ è il numero di archi
+							- La probabilità che all'altro estremo dell'arco ci sia uno dei $k_j$ estremi legati al nodo $j$ è $k_j/2m$
+							- Contando $k_i$ archi connessi a $i$, il numero atteso di archi tra i vertici $i$ e $j$ è $k_i k_j/2m$
+					- Modularità = (**A** - **B**) / $m$
 				- **non raggiunge il valore 1, neanche per una rete perfettamente mescolata**
 					- rete in cui ogni nodo è connesso solo a nodi dello stesso tipo
 					- a seconda della dimensione dei gruppi e del grado dei nodi, il massimo valore di $Q$ può essere considerevolmente inferiore a 1
