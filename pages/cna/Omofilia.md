@@ -47,6 +47,7 @@ ref:: ((64672afd-0fbd-499d-9a14-2a2c062919d3)), ((64673c06-91c0-4205-b32c-15fbcc
 		  background-color:: red
 	- ## Modularità #card
 	  id:: 6468a11b-78cd-4b64-9e79-96d84f382f47
+	  collapsed:: true
 		- id:: 64691261-02f0-409d-901f-72beeea56c1a
 		  $$Q = \frac1{2m} \sum_{ij} \left(a_{ij} - \frac{k_i k_j}{2m} \right) \delta_{g_i g_j}$$
 			- Misura delle connessioni tra nodi dello stesso tipo nella rete.
