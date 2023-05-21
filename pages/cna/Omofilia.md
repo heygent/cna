@@ -94,7 +94,8 @@ ref:: ((64672afd-0fbd-499d-9a14-2a2c062919d3)), ((64673c06-91c0-4205-b32c-15fbcc
 		- ### Feature scalari
 			- Sia $x_i$ il valore di una quantità scalare di interesse per un nodo $i$ (età, reddito, ecc.)
 			- Si consideri la coppia di valori $(x_i,x_j)$ per i nodi agli estremi di ogni arco $(i, j)$ nella rete.
-			- Si definisce la media $\mu$
+			- Si definisce la media $\mu$ del valore di $x_i$ alla fine di un arco come segue:
+				-
 			- ((646a472e-3ec0-4fd5-9fad-b8672ed19e91))
 			- È un esempio di coefficiente di correlazione di Pearson, con covarianza al numeratore e varianza al denominatore
 - # Meccanismi sottostanti all'omofilia
