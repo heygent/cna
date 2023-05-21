@@ -8,7 +8,7 @@
 :block/properties 
 {:heading 2}
 :block/uuid #uuid "646a4ad2-c2e2-4a71-a329-b818960c75d8"} 
-{:block/created-at 1684688542676
+{:block/created-at 1684706448458
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -25,7 +25,7 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [335.734375 213.98440378226834]
+:size [335.734375 213.98437954509512]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -35,8 +35,8 @@
 :point [7.413322500304673 403.6815317172741]
 :parentId "646a4ad1-d1d2-4bd1-8ecd-b3963e8ca996"
 :collapsedHeight 0
-:nonce 1684687571431}}
-:block/updated-at 1684688542676} 
+:nonce 1684687571435}}
+:block/updated-at 1684706448458} 
 {:block/content "## Libro\n((646a472e-3ec0-4fd5-9fad-b8672ed19e91))"
 :block/format :markdown
 :block/left 
@@ -122,7 +122,7 @@
 {:id "646a4b4f-ce71-4e79-a9c4-1145c9f5e689"
 :heading 2}
 :block/uuid #uuid "646a4b4f-ce71-4e79-a9c4-1145c9f5e689"} 
-{:block/created-at 1684688542714
+{:block/created-at 1684706448481
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -138,7 +138,7 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 206.5312548752484]
+:size [400 206.53123063807516]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -148,8 +148,8 @@
 :point [-440.76231176777054 406.92807965007853]
 :parentId "646a4ad1-d1d2-4bd1-8ecd-b3963e8ca996"
 :collapsedHeight 0
-:nonce 1684687696414}}
-:block/updated-at 1684688542714} 
+:nonce 1684687696418}}
+:block/updated-at 1684706448481} 
 {:block/created-at 1684688273621
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -343,7 +343,7 @@
 :nonce 1
 :assets []
 :shapes-index ("fdbe8350-f7f6-11ed-b60b-abf421ae897f" "1024bfa0-f7f7-11ed-b60b-abf421ae897f" "201715c2-f7f7-11ed-b60b-abf421ae897f" "481e4700-f7f7-11ed-b60b-abf421ae897f" "699b6d90-f7f7-11ed-b60b-abf421ae897f" "a22b6890-f7f7-11ed-b60b-abf421ae897f" "085d0f62-f7f8-11ed-b60b-abf421ae897f" "8e203960-f7f8-11ed-b60b-abf421ae897f")}}
-:block/updated-at 1684688542731
+:block/updated-at 1684706487238
 :block/created-at 1684687569247
 :block/type "whiteboard"
 :block/name "omofilia formule"
