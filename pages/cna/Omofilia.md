@@ -59,12 +59,9 @@ ref:: ((64672afd-0fbd-499d-9a14-2a2c062919d3)), ((64673c06-91c0-4205-b32c-15fbcc
 		- **B**: Numero atteso di archi tra coppie di nodi dello stesso tipo se i gruppi fossero assegnati causalmente:
 			- id:: 64691261-7fd7-429e-bf6f-142e0820e585
 			  $$\frac12 \sum_{ij} \frac{k_ik_j}{2m}\delta_{g_i,g_j}$$
-				- Si consideri un nodo $i$, di ((6422fb58-b14c-4f73-a8ce-c547d160c906)) $k_i$
+				- Si consideri un arco che parte da un nodo $i$, di ((6422fb58-b14c-4f73-a8ce-c547d160c906)) $k_i$
 				- Nella rete, ci sono per definizione $2m$ estremi di archi, dove $m$ è il numero di archi
-				- Le probabilità che all'altro estremo di un arco in particolare ci sia uno dei $k_j$ estremi legati al nodo $j$ sono $k_j/2m$
-				- $k_i$ è il ((6422fb58-b14c-4f73-a8ce-c547d160c906)) del nodo $i$
-					- $k_i \cdot k_j$ è il numero di possibili archi che si po
-				- $m$ è il numero di archi, $2m$ è il numero totale di estremi degli archi
+				- Le probabilità che all'altro estremo dell'arco ci sia uno dei $k_j$ estremi legati al nodo $j$ sono $k_j/2m$
 				-
 		- Modularità = **A** - **B** / $m$
 			- $$Q = \frac1{2m} \sum_{ij} \left(a_{ij} - \frac{k_i k_j}{2m} \right) \delta_{g_i g_j}$$
