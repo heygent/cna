@@ -65,6 +65,7 @@ ref:: ((64672afd-0fbd-499d-9a14-2a2c062919d3)), ((64673c06-91c0-4205-b32c-15fbcc
 				- Contando $k_i$ archi connessi a $i$, il numero atteso di archi tra i vertici $i$ e $j$ è $k_i k_j/2m$
 		- Modularità = (**A** - **B**) / $m$
 			- $$Q = \frac1{2m} \sum_{ij} \left(a_{ij} - \frac{k_i k_j}{2m} \right) \delta_{g_i g_j}$$
+				- Misura di connessione
 - # Meccanismi sottostanti all'omofilia
   id:: 631cb450-b46e-427f-9747-442e03094845
 	- Ci sono due meccanismi naturali per cui l'omofilia emerge:
