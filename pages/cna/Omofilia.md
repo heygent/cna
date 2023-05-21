@@ -92,6 +92,7 @@ ref:: ((64672afd-0fbd-499d-9a14-2a2c062919d3)), ((64673c06-91c0-4205-b32c-15fbcc
 		- $$\frac{Q}{Q_\text{max}} = \frac{\sum_{ij} (A_{ij} - k_i k_j / 2m) \delta_{g_i g_j}}{2m - \sum_{ij}(k_i k_j / 2m) \delta_{g_i g_j}}$$
 		- Questa quantità assume valore 1 in una rete perfettamente mescolata.
 		- ### Feature scalari
+			- Sia $x_i$ il valore di una quantità scalare per un nodo $i$ (età, reddito, ecc.)
 			- Si consideri la coppia di valori $x_i$, $x_j$
 			-
 			- ((646a472e-3ec0-4fd5-9fad-b8672ed19e91))
