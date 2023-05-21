@@ -34,17 +34,17 @@ ref:: ((64672afd-0fbd-499d-9a14-2a2c062919d3)), ((64673c06-91c0-4205-b32c-15fbcc
 		- Strutturalmente parlando, l'idea è:
 			- se osservo che il numero di link intragruppo è molto maggiore dei link intergruppo, allora abbiamo **omofiliia**
 			- questo significa che è molto più probabile che ci sia una connessione tra due nodi simili che tra due nodi diversi.
-	- ## Misurare l'omofilia
-	  id:: 631cae09-e42e-4970-ad68-65042e72e647
-		- L'idea è che se abbiamo una rete creata da dati reali e vogliamo capire se un tratto è caratterizzante di quella rete, dobbiamo compararla con una rete in cui lo stesso tratto è distribuito casualmente.
-		- ((646877dc-bace-4f28-93e9-a1b4bf28afa8))
-		- Si supponga di avere una rete in cui una frazione $p$ degli individui sono uomini, e una frazione $q$ sono donne.
-		- Si consideri un arco casuale in questa rete. Se le etichette "uomo" e "donna" fossero assegnate casualmente rispettivamente con probabilità $p$ e $q$:
-			- L'arco avrebbe entrambi gli estremi etichettati con "uomo" con probabilità $p^2$.
-			- L'arco avrebbe entrambi gli estremi etichettati con "donna" con probabilità $q^2$.
-			- L'arco avrebbe un estremo "uomo" e uno "donna" con probabilità $2pq$.
-		- Se la frazione degli archi tra nodi diversi è significativamente inferiore di $2pq$, allora si ha un'indicazione di presenza di omofilia nella rete.
-		  background-color:: red
+- # Misure di omofilia
+  id:: 631cae09-e42e-4970-ad68-65042e72e647
+	- L'idea è che se abbiamo una rete creata da dati reali e vogliamo capire se un tratto è caratterizzante di quella rete, dobbiamo compararla con una rete in cui lo stesso tratto è distribuito casualmente.
+	- ((646877dc-bace-4f28-93e9-a1b4bf28afa8))
+	- Si supponga di avere una rete in cui una frazione $p$ degli individui sono uomini, e una frazione $q$ sono donne.
+	- Si consideri un arco casuale in questa rete. Se le etichette "uomo" e "donna" fossero assegnate casualmente rispettivamente con probabilità $p$ e $q$:
+		- L'arco avrebbe entrambi gli estremi etichettati con "uomo" con probabilità $p^2$.
+		- L'arco avrebbe entrambi gli estremi etichettati con "donna" con probabilità $q^2$.
+		- L'arco avrebbe un estremo "uomo" e uno "donna" con probabilità $2pq$.
+	- Se la frazione degli archi tra nodi diversi è significativamente inferiore di $2pq$, allora si ha un'indicazione di presenza di omofilia nella rete.
+	  background-color:: red
 	- ## Modularità #card
 	  id:: 6468a11b-78cd-4b64-9e79-96d84f382f47
 	  collapsed:: true
@@ -74,6 +74,8 @@ ref:: ((64672afd-0fbd-499d-9a14-2a2c062919d3)), ((64673c06-91c0-4205-b32c-15fbcc
 						- Contando $k_i$ archi connessi a $i$, il numero atteso di archi tra i vertici $i$ e $j$ è $k_i k_j/2m$
 				- Modularità = (**A** - **B**) / $m$
 					- ((64691261-02f0-409d-901f-72beeea56c1a))
+	- ## Coefficiente di assortatività #card
+		-
 - # Meccanismi sottostanti all'omofilia
   id:: 631cb450-b46e-427f-9747-442e03094845
 	- Ci sono due meccanismi naturali per cui l'omofilia emerge:
