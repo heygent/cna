@@ -60,8 +60,8 @@ ref:: ((64672afd-0fbd-499d-9a14-2a2c062919d3)), ((64673c06-91c0-4205-b32c-15fbcc
 			  $$\frac12 \sum_{ij} \frac{k_ik_j}{2m}\delta_{g_i,g_j}$$
 				- $k_i$ è il ((6422fb58-b14c-4f73-a8ce-c547d160c906)) del nodo $i$
 				- $2m$ è il numero totale di estremi degli archi ($m$ è il numero di archi)
-		- Modularità = **A** - **B**
-			- $$Q = \frac12 \sum_{ij} \left(a_{ij} - \frac{k_i k_j}{2m} \right) \delta_{g_i g_j}$$
+		- Modularità = **A** - **B** / $m$
+			- $$Q = \frac1{2m} \sum_{ij} \left(a_{ij} - \frac{k_i k_j}{2m} \right) \delta_{g_i g_j}$$
 - # Meccanismi sottostanti all'omofilia
   id:: 631cb450-b46e-427f-9747-442e03094845
 	- Ci sono due meccanismi naturali per cui l'omofilia emerge:
