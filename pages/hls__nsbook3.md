@@ -44,3 +44,10 @@ file-path:: ../assets/nsbook3.pdf
   id:: 646a6ea8-8ebb-4f8f-9d8b-44051eb68879
   hl-type:: area
   hl-stamp:: 1684696743198
+- [:span]
+  ls-type:: annotation
+  hl-page:: 243
+  hl-color:: yellow
+  id:: 646b3490-2f6a-46e3-a5f8-c12f77d8ab3f
+  hl-type:: area
+  hl-stamp:: 1684747412224
