@@ -283,90 +283,7 @@
 :nonce 1684688242801
 :italic false
 :text "Modularità"}}
-:block/updated-at 1684688250720} 
-{:block/created-at 1684706533395
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke "yellow"
-:index 8
-:scale [1 1]
-:scaleLevel "md"
-:fill "yellow"
-:type "highlighter"
-:points [[0 0 0.5]]
-:strokeType "line"
-:strokeWidth 2
-:opacity 0.5
-:id "1f146ed0-f823-11ed-b60b-abf421ae897f"
-:noFill true
-:point [-335.0762147364763 325.8527124748867]
-:parentId "646a4ad1-d1d2-4bd1-8ecd-b3963e8ca996"
-:nonce 1684706524735
-:isComplete true}}
-:block/updated-at 1684706533395} 
-{:block/created-at 1684706538662
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke "yellow"
-:index 9
-:scale [1 1]
-:scaleLevel "md"
-:fill "yellow"
-:type "highlighter"
-:points [[0 0 0.5]]
-:strokeType "line"
-:strokeWidth 2
-:opacity 0.5
-:id "24075ec0-f823-11ed-b60b-abf421ae897f"
-:noFill true
-:point [140.541421194927 577.9701880367833]
-:parentId "646a4ad1-d1d2-4bd1-8ecd-b3963e8ca996"
-:nonce 1684706533038
-:isComplete true}}
-:block/updated-at 1684706538662} 
-{:block/created-at 1684706549896
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke "yellow"
-:index 10
-:scale [1 1]
-:scaleLevel "md"
-:fill "yellow"
-:type "highlighter"
-:points [[0 0 0.5]]
-:strokeType "line"
-:strokeWidth 2
-:opacity 0.5
-:id "2732ae10-f823-11ed-b60b-abf421ae897f"
-:noFill true
-:point [116.5626162179309 308.0613185066008]
-:parentId "646a4ad1-d1d2-4bd1-8ecd-b3963e8ca996"
-:nonce 1684706538355
-:isComplete true}}
-:block/updated-at 1684706549896} 
-{:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke "yellow"
-:index 11
-:scale [1 1]
-:scaleLevel "md"
-:fill "yellow"
-:type "highlighter"
-:points [[0 0 0.5]]
-:strokeType "line"
-:strokeWidth 2
-:opacity 0.5
-:id "2ddfaa10-f823-11ed-b60b-abf421ae897f"
-:noFill true
-:point [-352.6144756674041 575.5764278585351]
-:parentId "646a4ad1-d1d2-4bd1-8ecd-b3963e8ca996"
-:nonce 1684706549555
-:isComplete true}}
-:block/updated-at 1684706549903})
+:block/updated-at 1684688250720})
 :pages (
 {:block/uuid #uuid "646a4ad1-d1d2-4bd1-8ecd-b3963e8ca996"
 :block/properties 
@@ -425,8 +342,8 @@
 :distance 4}}
 :nonce 1
 :assets []
-:shapes-index ("fdbe8350-f7f6-11ed-b60b-abf421ae897f" "1024bfa0-f7f7-11ed-b60b-abf421ae897f" "201715c2-f7f7-11ed-b60b-abf421ae897f" "481e4700-f7f7-11ed-b60b-abf421ae897f" "699b6d90-f7f7-11ed-b60b-abf421ae897f" "a22b6890-f7f7-11ed-b60b-abf421ae897f" "085d0f62-f7f8-11ed-b60b-abf421ae897f" "8e203960-f7f8-11ed-b60b-abf421ae897f" "1f146ed0-f823-11ed-b60b-abf421ae897f" "24075ec0-f823-11ed-b60b-abf421ae897f" "2732ae10-f823-11ed-b60b-abf421ae897f" "2ddfaa10-f823-11ed-b60b-abf421ae897f")}}
-:block/updated-at 1684706549896
+:shapes-index ("fdbe8350-f7f6-11ed-b60b-abf421ae897f" "1024bfa0-f7f7-11ed-b60b-abf421ae897f" "201715c2-f7f7-11ed-b60b-abf421ae897f" "481e4700-f7f7-11ed-b60b-abf421ae897f" "699b6d90-f7f7-11ed-b60b-abf421ae897f" "a22b6890-f7f7-11ed-b60b-abf421ae897f" "085d0f62-f7f8-11ed-b60b-abf421ae897f" "8e203960-f7f8-11ed-b60b-abf421ae897f")}}
+:block/updated-at 1684738614218
 :block/created-at 1684687569247
 :block/type "whiteboard"
 :block/name "omofilia formule"
