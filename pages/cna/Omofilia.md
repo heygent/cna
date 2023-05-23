@@ -105,6 +105,7 @@ ref:: ((64672afd-0fbd-499d-9a14-2a2c062919d3)), ((64673c06-91c0-4205-b32c-15fbcc
 			- ((646a472e-3ec0-4fd5-9fad-b8672ed19e91))
 			- È un esempio di coefficiente di correlazione di Pearson
 	- ## Coefficiente di assortatività per grado
+	  id:: 646a7190-a9b7-458f-8088-358dbb593cee
 		- Si prende il grado come feature scalare di ogni nodo:
 			- ((646b3490-2f6a-46e3-a5f8-c12f77d8ab3f))
 		- ### Struttura core-periphery
