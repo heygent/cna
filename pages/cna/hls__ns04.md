@@ -92,3 +92,8 @@ exclude-from-graph-view:: true
   id:: 646a64b7-ee69-4b0e-a7e0-0693bac0b5af
   hl-type:: area
   hl-stamp:: 1684694197880
+- Measuring assortativity by neighbors
+  ls-type:: annotation
+  hl-page:: 21
+  hl-color:: yellow
+  id:: 646cd94d-1e7a-4cbc-aa31-898531c52ead
