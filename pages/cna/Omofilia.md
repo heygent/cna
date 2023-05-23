@@ -114,12 +114,12 @@ ref:: ((64672afd-0fbd-499d-9a14-2a2c062919d3)), ((64673c06-91c0-4205-b32c-15fbcc
 			- ((646c7fdb-ab7c-49bb-8f8d-26817dd43eb6))
 			- In reti non assortative per grado, i nodi di grado alto tendono a essere connessi a nodi di grado basso, creando strutture simili a stelle.
 	- ## Degree correlation function
-	- LATER ((646cd94d-1e7a-4cbc-aa31-898531c52ead))
-	  :LOGBOOK:
-	  CLOCK: [2023-05-23 Tue 17:18:55]--[2023-05-23 Tue 17:18:56] =>  00:00:01
-	  CLOCK: [2023-05-23 Tue 17:18:59]--[2023-05-23 Tue 17:18:59] =>  00:00:00
-	  CLOCK: [2023-05-23 Tue 17:18:59]--[2023-05-23 Tue 17:19:00] =>  00:00:01
-	  :END:
+		- TODO ((646cd94d-1e7a-4cbc-aa31-898531c52ead))
+		  :LOGBOOK:
+		  CLOCK: [2023-05-23 Tue 17:18:55]--[2023-05-23 Tue 17:18:56] =>  00:00:01
+		  CLOCK: [2023-05-23 Tue 17:18:59]--[2023-05-23 Tue 17:18:59] =>  00:00:00
+		  CLOCK: [2023-05-23 Tue 17:18:59]--[2023-05-23 Tue 17:19:00] =>  00:00:01
+		  :END:
 - # Meccanismi sottostanti all'omofilia
   id:: 631cb450-b46e-427f-9747-442e03094845
 	- Ci sono due meccanismi naturali per cui l'omofilia emerge:
