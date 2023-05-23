@@ -17,5 +17,5 @@
 	- Nelle reti reali, molti cammini più brevi passano per hub.
 	- es. trasporto aereo
 		- ci possono essere molte strade tra l'aeroporto A e C (se sono piccoli), ma potrebbe essere possibile andare da A a B tramite un aeroporto C.
-	- La small-world property è tipica della maggior parte delle reti di interesse
+	- La [small-world property](((64633030-d7ea-434e-ada5-456426e9b83b))) è tipica della maggior parte delle reti di interesse
 		- se la rete ha hub, i cammini sono molto corti (**ultra-small world**).
