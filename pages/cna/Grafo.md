@@ -266,8 +266,10 @@ ref:: ((64672afd-0fbd-499d-9a14-2a2c062919d3))
 			- media dei coefficienti di clustering di tutti i nodi.
 			- $$C = \frac{\sum_{i:k_i > 1} C(i)}{N_{k > 1}}$$
 		- ## Coefficiente di clustering alto o basso
+		  id:: 64691261-efab-4f42-861d-9f03d240e6c5
 			- Osservando una rete per un certo periodo di tempo, si possono osservare diversi archi formarsi tramite la chiusura triadica, mentre altri si formano anche se i due endpoint non hanno vicini in comune.
 			- **CC alto**
+			  id:: 64691261-b16f-414b-b2de-02813fa958f2
 				- le reti sociali tendono ad avere coefficienti di clustering alti per la ((64625526-7abe-416b-8538-8f2d05123946)): ci conosciamo tramite amici in comune.
 			- **CC basso**
 				- se comparato con il CC in un grafo generato casualmente - un grafo casuale del genere deve avere lo stesso numero di nodi, e un uguale numero di archi rimescolati
