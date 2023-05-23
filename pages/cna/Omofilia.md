@@ -109,7 +109,8 @@ ref:: ((64672afd-0fbd-499d-9a14-2a2c062919d3)), ((64673c06-91c0-4205-b32c-15fbcc
 			- ((646b3490-2f6a-46e3-a5f8-c12f77d8ab3f))
 		- ### Struttura core-periphery
 			- In reti assortative per grado, dove nodi di grado alto tendono a essere connessi insieme, ci si aspetta di trovare un mucchio o **nucleo** di nodi di grado alto, circondati da una **periferia** meno densa di nodi di grado più basso
-			- In reti non assortative per grado, i nodi di grado alto tendono a essere connessi a nodi di grado basso, creando feature
+		-
+		- In reti non assortative per grado, i nodi di grado alto tendono a essere connessi a nodi di grado basso, creando strutture simili a stelle.
 - # Meccanismi sottostanti all'omofilia
   id:: 631cb450-b46e-427f-9747-442e03094845
 	- Ci sono due meccanismi naturali per cui l'omofilia emerge:
