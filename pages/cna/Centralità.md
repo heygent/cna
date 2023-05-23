@@ -49,6 +49,7 @@ slide:: ![ns05](../assets/ns05.pdf)
 		- **distribuzione heavy-tail**
 			- la variabile va da valori piccoli a grandi
 	- ## [Degree](((6422fb58-b14c-4f73-a8ce-c547d160c906))) distribution
+	  id:: 64691261-052f-498d-9deb-d401acccc910
 		- ![image.png](../assets/image_1662974968197_0.png)
 		- **heterogeneity**
 			- parametro che indica l'ampiezza della distribuzione

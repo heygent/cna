@@ -5,5 +5,6 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 
 -
 - # Caratteristiche delle reti nel mondo reale
-	- {{embed ((632050e0-bd5f-4b71-9a56-f7ac016612e2)) }}
-	- {{embed ((64691261-efab-4f42-861d-9f03d240e6c5))}}
+	- ((632050e0-bd5f-4b71-9a56-f7ac016612e2))
+	- ((64691261-efab-4f42-861d-9f03d240e6c5))
+	- ((64691261-052f-498d-9deb-d401acccc910))
