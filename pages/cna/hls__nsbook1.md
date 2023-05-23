@@ -22,3 +22,10 @@ exclude-from-graph-view:: true
   ls-type:: annotation
   id:: 64688e49-92e6-499c-99fd-911bb70b2729
   hl-color:: yellow
+- [:span]
+  ls-type:: annotation
+  hl-page:: 56
+  hl-color:: yellow
+  id:: 646c7fc0-5655-45df-8a7c-88c4049ad668
+  hl-type:: area
+  hl-stamp:: 1684832191073

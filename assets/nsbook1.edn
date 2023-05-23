@@ -146,5 +146,17 @@
                                    :height 661.8581179049684}),
                           :page 190},
                :content {:text "6.3.4 Stochastic Block Modeling"},
+               :properties {:color "yellow"}}
+              {:id #uuid "646c7fc0-5655-45df-8a7c-88c4049ad668",
+               :page 56,
+               :position {:bounding {:x1 165,
+                                     :y1 78.6015625,
+                                     :x2 388,
+                                     :y2 310.6015625,
+                                     :width 720.0000726060183,
+                                     :height 934.3880253852153},
+                          :rects (),
+                          :page 56},
+               :content {:text "[:span]", :image 1684832191073},
                :properties {:color "yellow"}}],
- :extra {:page 55}}
+ :extra {:page 56}}

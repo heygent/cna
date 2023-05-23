@@ -108,9 +108,10 @@ ref:: ((64672afd-0fbd-499d-9a14-2a2c062919d3)), ((64673c06-91c0-4205-b32c-15fbcc
 		- Si prende il grado come feature scalare di ogni nodo:
 			- ((646b3490-2f6a-46e3-a5f8-c12f77d8ab3f))
 		- ### Struttura core-periphery
+			- ((646c7fc0-5655-45df-8a7c-88c4049ad668))
 			- In reti assortative per grado, dove nodi di grado alto tendono a essere connessi insieme, ci si aspetta di trovare un mucchio o **nucleo** di nodi di grado alto, circondati da una **periferia** meno densa di nodi di grado più basso
-		-
-		- In reti non assortative per grado, i nodi di grado alto tendono a essere connessi a nodi di grado basso, creando strutture simili a stelle.
+		- ### Struttura hub-and-spoke
+			- In reti non assortative per grado, i nodi di grado alto tendono a essere connessi a nodi di grado basso, creando strutture simili a stelle.
 - # Meccanismi sottostanti all'omofilia
   id:: 631cb450-b46e-427f-9747-442e03094845
 	- Ci sono due meccanismi naturali per cui l'omofilia emerge:
