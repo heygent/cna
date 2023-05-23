@@ -113,6 +113,7 @@ ref:: ((64672afd-0fbd-499d-9a14-2a2c062919d3)), ((64673c06-91c0-4205-b32c-15fbcc
 		- ### Struttura hub-and-spoke
 			- ((646c7fdb-ab7c-49bb-8f8d-26817dd43eb6))
 			- In reti non assortative per grado, i nodi di grado alto tendono a essere connessi a nodi di grado basso, creando strutture simili a stelle.
+	- ## Degree correlation function
 - # Meccanismi sottostanti all'omofilia
   id:: 631cb450-b46e-427f-9747-442e03094845
 	- Ci sono due meccanismi naturali per cui l'omofilia emerge:
