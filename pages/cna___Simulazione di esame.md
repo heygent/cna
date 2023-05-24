@@ -55,4 +55,4 @@
 	  Which one of these would you expect to more closely follow a power-law distribution as a function of $k$? Give a brief explanation for your
 	  answer, using some of the ideas about power-law distributions.
 	-
-	-
+	- Draw a hyper-graph and its corresponding hyper-edge list representation.
