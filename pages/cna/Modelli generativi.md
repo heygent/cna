@@ -21,3 +21,4 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 			- Per ogni coppia di nodi $i$ e $j$:
 				- Genera un numero casuale $r$ tra 0 e 1
 				- Se $r \le p$ crea l'arco $(i, j)$
+	-
