@@ -41,4 +41,6 @@
 		- ((646e354d-0ac1-4806-809d-9d27ca954aa5))
 		- a) Draw the [projected](((64691261-1cc5-4b32-847b-5b8396942cb0))) graph.
 		- b) Give an example of two different affiliation networks - on the same set of people, but with different foci - so that the projected graphs from these two different affiliation networks are the same. This shows how information can be "lost" when moving from the full affiliation network to just the projected graph on the set of people.
--
+	-
+	- Suppose you have a valuable piece of information and you want that it spreads quickly on the social network you belong to. Who would you share it with to make the spreading faster and why? (choose between the two for each option)
+		-
