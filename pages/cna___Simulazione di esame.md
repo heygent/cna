@@ -74,4 +74,8 @@
 	-
 	- Consider an ER graph with $n = 5 \cdot 10^4$ nodes and average degree $k = 100$. How can you approximate its diameter?
 	-
-	- Explain why
+	- Explain why the Watts-Strogatz model is able to create networks with high clustering coefficients and small diameter.
+	-
+	- Show that any partition of a clique has negative modularity.
+	-
+	- The older nodes of a
