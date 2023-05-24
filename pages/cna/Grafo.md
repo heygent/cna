@@ -20,6 +20,7 @@ ref:: ((64672afd-0fbd-499d-9a14-2a2c062919d3))
 	- ## Cricca
 		- un sottografo completo.
 		- ((6422e8c1-c281-472a-88f2-8acd80803291))
+		- Ha $\frac{n (n-1)$ archi
 - # Tipi di grafo
   id:: 6422f672-3d23-4979-9b1e-299afce67298
 	- ## Grafo bipartito
