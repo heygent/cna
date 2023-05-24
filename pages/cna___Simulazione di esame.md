@@ -23,4 +23,11 @@
 		- What is the diameter of this graph?
 		- What property of real world graphs is well captured by this model?
 	-
-	- Consider the following graph. What is its
+	- Consider the following graph. What is its diameter?
+	  \begin{bmatrix}
+	  0 & 0 & 1 & 1 & 0 \\
+	  0 & 0 & 0 & 1 & 0 \\
+	  1 & 0 & 0 & 1 & 1 \\
+	  1 & 1 & 1 & 0 & 0 \\
+	  
+	  \end{bmatrix}
