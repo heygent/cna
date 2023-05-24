@@ -34,3 +34,4 @@
 	-
 	- Provide an example of a graph with a structurally weak tie and motivate your answer.
 	-
+	- Draw the f
