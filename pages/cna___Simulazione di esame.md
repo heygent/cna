@@ -78,4 +78,6 @@
 	-
 	- Show that any partition of a clique has negative modularity.
 	-
-	- The older nodes of a
+	- The older nodes of a Barabasi-Albert network are those with higher degree. (True/False)
+	-
+	- Does the creation of a new fast road always decrease the total travelling time? If not, provide a counter-example.
