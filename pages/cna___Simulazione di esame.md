@@ -38,5 +38,7 @@
 		- edge list: $[(a,b), (b,c), (b,d), (c,d), (d,e), (e,f), (f,a)]$
 	-
 	- Given the bipartite affiliation graph in the figure:
+		- ((646e354d-0ac1-4806-809d-9d27ca954aa5))
 		- a) Draw the projected graph.
-		- b) Give an example of two different affiliation networks — on the same set of people, but with different foci — so that the projected graphs from these two different affiliation networks are the same. This shows how information can be “lost” when moving from the full affiliation network to just the projected graph on the set of people.
+		- b) Give an example of two different affiliation networks - on the same set of people, but with different foci - so that the projected graphs from these two different affiliation networks are the same. This shows how information can be "lost" when moving from the full affiliation network to just the projected graph on the set of people.
+-
