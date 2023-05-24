@@ -34,4 +34,5 @@
 	-
 	- Provide an example of a graph with a structurally weak tie and motivate your answer.
 	-
-	- Draw the f
+	- Draw the following graph and compute the clustering coefficient of every node.
+		- $[(a,b), (b,c), (b,d), (c,d), (d,e), (e,f), (f,a)]$
