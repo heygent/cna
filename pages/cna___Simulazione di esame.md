@@ -17,4 +17,6 @@
 	-
 	- How many edges are there in a Barabasi-Albert network with 1000 nodes and $m = 5$?
 	-
-	- Consider a Cayley tree as the one shown in the picture in which each node has $k$ neighbours
+	- Consider a Cayley tree as the one shown in the picture in which each node has $k$ neighbours (called offspring). Starting from a central node, we build the tree forming $l$ offspring levels.
+		- ((646e2d78-304c-4db7-8df6-989c39dc75a2))
+		- Wha
