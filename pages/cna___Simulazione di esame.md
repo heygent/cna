@@ -1,12 +1,13 @@
 - ![Testo](../assets/cna_exam_simulation_may_2022.pdf)
 - #.ol
-	- Consider the adjacency matrix:
+	- Consider the [adjacency matrix]():
 	  \begin{bmatrix}
 	  0 & 2 & 1 & 0 \\
 	  1 & 0 & 0 & 0 \\
 	  1 & 0 & 0 & 0 \\
 	  0 & 0 & 3 & 0 \\
 	  \end{bmatrix}
+		- ((64691261-1851-497c-8b37-a18be39b2cb7))
 		- Draw the graph
 		- What type of graph is this?
 		- What can you tell about the graph connectivity?
