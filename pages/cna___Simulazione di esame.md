@@ -19,4 +19,8 @@
 	-
 	- Consider a Cayley tree as the one shown in the picture in which each node has $k$ neighbours (called offspring). Starting from a central node, we build the tree forming $l$ offspring levels.
 		- ((646e2d78-304c-4db7-8df6-989c39dc75a2))
-		- Wha
+		- What is the number of nodes as a function of $l$ and $k$?
+		- What is the diameter of this graph?
+		- What property of real world graphs is well captured by this model?
+	-
+	- Consider the following graph. What is its
