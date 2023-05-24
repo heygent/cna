@@ -13,7 +13,7 @@
 		- What is the in-out [degree](((6422fb58-b14c-4f73-a8ce-c547d160c906))) of each node?
 		- Write the [strength](((64368a97-7c8d-411c-a1ab-d08880fe1e29))) and degree of each node.
 	-
-	- Consider an ER random graph with $n$ nodes and connecting probability equal to $p$. What is the expected clustering coefficient? How does this result relate to the clustering coefficient observed in real-world networks?
+	- Consider an ER random graph with $n$ nodes and connecting probability equal to $p$. What is the expected [clustering coefficient](((64625143-588e-4dc1-a991-4b27deea3a85)))? How does this result relate to the clustering coefficient observed in real-world networks?
 	-
 	- How many edges are there in a Barabasi-Albert network with 1000 nodes and $m = 5$?
 	-
@@ -23,7 +23,7 @@
 		- What is the diameter of this graph?
 		- What property of real world graphs is well captured by this model?
 	-
-	- Consider the following graph. What is its diameter?
+	- Consider the following graph. What is its [diameter](((64368a97-9392-4dfc-8f6e-fc99ca2c919e)))?
 	  \begin{bmatrix}
 	  0 & 0 & 1 & 1 & 0 \\
 	  0 & 0 & 0 & 1 & 0 \\
