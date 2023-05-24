@@ -1,5 +1,5 @@
 - ![Testo](../assets/cna_exam_simulation_may_2022.pdf)
-- #.ol-nested
+- #.ol
 	- Consider the [adjacency matrix](((646275b2-7887-4bef-83fa-dbaf2a264cd5))):
 	  \begin{bmatrix}
 	  0 & 2 & 1 & 0 \\
@@ -68,3 +68,7 @@
 	- Consider the degree sequence $k = (1, 3, 5, 3)$:
 		- is this a reasonable input to create an unweighted graph without self-loops from the configuration model?
 		- What about the sequence $k = (1, 3, 4, 3)$
+	-
+	- Given the graph in the figure. What is/are the node/s with the highest betweenness centrality, and which ones have the highest degree centrality?
+	  ((646e3a44-2f12-495c-8097-31f72d637c5f))
+	-
