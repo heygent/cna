@@ -145,6 +145,7 @@ ref:: ((64672afd-0fbd-499d-9a14-2a2c062919d3)), ((64673c06-91c0-4205-b32c-15fbcc
 	- **rete di affiliazione sociale**
 		- rete in cui i dati sui rapporti sociali e sui FOCI vengono uniti.
 	- ## Proiezioni
+	  id:: 64691261-1cc5-4b32-847b-5b8396942cb0
 		- Metodo per complementare una rete di affiliazione con una rete sociale.
 		- ((64632af3-0948-406b-b883-1d2af50a11b2))
 			- Proiezione 1: rete di interazione tra membri delle compagnie
