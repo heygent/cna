@@ -1,17 +1,16 @@
 - ![Testo](../assets/cna_exam_simulation_may_2022.pdf)
 - #.ol
-	- Consider the [adjacency matrix]():
+	- Consider the [adjacency matrix](((646275b2-7887-4bef-83fa-dbaf2a264cd5))):
 	  \begin{bmatrix}
 	  0 & 2 & 1 & 0 \\
 	  1 & 0 & 0 & 0 \\
 	  1 & 0 & 0 & 0 \\
 	  0 & 0 & 3 & 0 \\
 	  \end{bmatrix}
-		- ((64691261-1851-497c-8b37-a18be39b2cb7))
 		- Draw the graph
 		- What type of graph is this?
 		- What can you tell about the graph connectivity?
-		- What is the in-out degree of each node?
+		- What is the in-out [degree](((6422fb58-b14c-4f73-a8ce-c547d160c906))) of each node?
 		- Write the strength and degree of each node.
 	-
 	- Consider an ER random graph with $n$ nodes and connecting probability equal to $p$. What is the expected clustering coefficient? How does this result relate to the clustering coefficient observed in real-world networks?

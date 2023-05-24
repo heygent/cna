@@ -284,7 +284,7 @@ ref:: ((64672afd-0fbd-499d-9a14-2a2c062919d3))
 		- Rappresentazione adatta per matrici compatte.
 		- Memoria richiesta da una matrice di adiacenza è proporzionale a $N^2$.
 		  id:: 64632463-ad06-42c4-9264-0668c5c2535e
-		- ### Non orienatata
+		- ### Non orientata
 			- ((64230b35-a956-48b0-bcb8-ff6b79cb0e5f))
 			-
 			- $$
