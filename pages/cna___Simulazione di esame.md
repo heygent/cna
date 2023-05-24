@@ -7,5 +7,9 @@
 	  1 & 0 & 0 & 0 \\
 	  0 & 0 & 3 & 0 \\
 	  \end{bmatrix}
-		- Disegnare il grafo
-		-
+		- Draw the graph
+		- What type of graph is this?
+		- What can you tell about the graph connectivity?
+		- What is the in-out degree of each node?
+		- Write the strength and degree of each node.
+	- Consi
