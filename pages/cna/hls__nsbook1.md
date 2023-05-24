@@ -36,9 +36,8 @@ exclude-from-graph-view:: true
   id:: 646c7fdb-ab7c-49bb-8f8d-26817dd43eb6
   hl-type:: area
   hl-stamp:: 1684832245455
-- The main difference between the two formulations is that in the version by Erd6s and Rényi the number of links of the network is fixed, whereas in the model by Gilbert it is vari
+- La differenza principale tra i due modelli è che nella variante di Erdos-Renyi, il numero di link è fisso
   ls-type:: annotation
   hl-page:: 140
   hl-color:: yellow
   id:: 646e5059-6e19-49ef-8012-3a7ed60bdf94
--
