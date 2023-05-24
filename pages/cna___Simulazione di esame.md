@@ -29,5 +29,8 @@
 	  0 & 0 & 0 & 1 & 0 \\
 	  1 & 0 & 0 & 1 & 1 \\
 	  1 & 1 & 1 & 0 & 0 \\
-	  
+	  0 & 0 & 1 & 0 & 0 \\
 	  \end{bmatrix}
+	-
+	- Provide an example of a graph with a structurally weak tie and motivate your answer.
+	-
