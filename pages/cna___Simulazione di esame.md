@@ -1,5 +1,5 @@
 - ![Testo](../assets/cna_exam_simulation_may_2022.pdf)
-- #.ol
+- #.ol-nested
 	- Consider the [adjacency matrix](((646275b2-7887-4bef-83fa-dbaf2a264cd5))):
 	  \begin{bmatrix}
 	  0 & 2 & 1 & 0 \\
@@ -43,4 +43,7 @@
 		- Give an example of two different affiliation networks - on the same set of people, but with different foci - so that the projected graphs from these two different affiliation networks are the same. This shows how information can be "lost" when moving from the full affiliation network to just the projected graph on the set of people.
 	-
 	- Suppose you have a valuable piece of information and you want that it spreads quickly on the social network you belong to. Who would you share it with to make the spreading faster and why? (choose between the two for each option)
-		- A close fre
+		- A close friend of yours or an acquaintance?
+		- A very sociable or a moderately sociable person?
+	-
+	-
