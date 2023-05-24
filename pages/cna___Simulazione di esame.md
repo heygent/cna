@@ -13,4 +13,8 @@
 		- What is the in-out degree of each node?
 		- Write the strength and degree of each node.
 	-
-	- Consider an ER random graph with $n$ nodes and connecting probability equal to $p$. What is the expected clustering coefficient? How does this result relate to the clustering coeffici
+	- Consider an ER random graph with $n$ nodes and connecting probability equal to $p$. What is the expected clustering coefficient? How does this result relate to the clustering coefficient observed in real-world networks?
+	-
+	- How many edges are there in a Barabasi-Albert network with 1000 nodes and $m = 5$?
+	-
+	- Ci
