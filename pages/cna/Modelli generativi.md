@@ -13,6 +13,7 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 		- ogni coppia di nodi è connessa con probabilità $p$
 	- Erdos-Renyi: $G(n,L)$
 		- ci sono $L$ archi casualmente piazzati
+	- La differenza principale tra i due modelli è che nella variante di Erdos-Renyi,
 	- $G(n,p)$ è equivalente a $G(n,L)$ se:
 		- $$L = \text{Bin}\left(\frac{n(n-1)}{2}, p \right)$$
 		- ## Algoritmo (Gilbert)
