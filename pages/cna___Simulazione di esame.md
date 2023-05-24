@@ -12,4 +12,5 @@
 		- What can you tell about the graph connectivity?
 		- What is the in-out degree of each node?
 		- Write the strength and degree of each node.
-	- Consi
+	-
+	- Consider an ER random graph with $n$ nodes and connecting probability equal to $p$. What is the expected clustering coefficient? How does this result relate to the clustering coeffici
