@@ -64,3 +64,7 @@
 		- Any network with N nodes and less than N edges does not contain any cycle
 	-
 	- If we consider an epidemic spreading on a graph, only the nodes in the connected component of the first infected individuals can be infected. With this in mind, if we consider an epidemic spreading on an Erdos Renyi graph below the percolation threshold, is it possible that a finite fraction of the population will get infected?
+	-
+	- Consider the degree sequence $k = (1, 3, 5, 3)$:
+		- is this a reasonable input to create an unweighted graph without self-loops from the configuration model?
+		- What about the sequence $k = (1, 3, 4, 3)$
