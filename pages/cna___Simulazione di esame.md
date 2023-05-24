@@ -17,4 +17,4 @@
 	-
 	- How many edges are there in a Barabasi-Albert network with 1000 nodes and $m = 5$?
 	-
-	- Ci
+	- Consider a Cayley tree as the one sho
