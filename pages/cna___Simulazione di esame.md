@@ -20,7 +20,7 @@
 	- Consider a Cayley tree as the one shown in the picture in which each node has $k$ neighbours (called offspring). Starting from a central node, we build the tree forming $l$ offspring levels.
 		- ((646e2d78-304c-4db7-8df6-989c39dc75a2))
 		- What is the number of nodes as a function of $l$ and $k$?
-		- What is the diameter of this graph?
+		- What is the [diameter](((64368a97-9392-4dfc-8f6e-fc99ca2c919e))) of this graph?
 		- What property of real world graphs is well captured by this model?
 	-
 	- Consider the following graph. What is its [diameter](((64368a97-9392-4dfc-8f6e-fc99ca2c919e)))?
@@ -39,6 +39,6 @@
 	-
 	- Given the bipartite affiliation graph in the figure:
 		- ((646e354d-0ac1-4806-809d-9d27ca954aa5))
-		- a) Draw the projected graph.
+		- a) Draw the [projected](((64691261-1cc5-4b32-847b-5b8396942cb0))) graph.
 		- b) Give an example of two different affiliation networks - on the same set of people, but with different foci - so that the projected graphs from these two different affiliation networks are the same. This shows how information can be "lost" when moving from the full affiliation network to just the projected graph on the set of people.
 -
