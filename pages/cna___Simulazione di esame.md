@@ -88,5 +88,5 @@
 		- ((646a363f-b4cd-422d-9596-e37857062559))
 		- Per una cricca:
 			- il grado di ogni nodo è sempre $n - 1$ ($k_i$ e $k_j$).
-			-
+			- il numero di archi $m$ è $n
 		-
