@@ -87,6 +87,7 @@
 	- ((646e3ab0-51ae-4482-9533-074f575b1ff1))
 		- ((646a363f-b4cd-422d-9596-e37857062559))
 		- Per una cricca:
+		  collapsed:: true
 			- il grado di ogni nodo è sempre $n - 1$ ($k_i$ e $k_j$).
 			- il numero di archi $m$ è $\frac{n(n-1)}2$
 		- \begin{aligned}
@@ -95,6 +96,7 @@
 		  &= \frac{1}{n(n-1)} \sum_{ij} \left(a_{ij} - \frac{n-1}n\right) \delta_{g_i g_j}
 		  \end{aligned}
 		- Si distinguono due casi:
+		  collapsed:: true
 			- $i \neq j$ e $a_{ij} = 1$
 			- $i = j$ e $a_{ij} = 0$
-		- $$= \frac1{n(n-1)} \sum_{i \neq j} 1 - \frac{n-1}$$
+		- $$= \frac1{n(n-1)} \sum_{i \neq j} 1 - \frac{n-1}{n}$$
