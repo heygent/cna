@@ -98,12 +98,12 @@
 		- Si prende il caso in cui tutti i nodi appartengono a un solo gruppo
 			- $\delta_{g_i g_j} = 1 \;\forall i, j \in N$
 			- La modularità per più gruppi sarà sempre minore o uguale al valore di modularità di questo specifico caso.
-		- $$Q_C = \frac{1}{n(n-1)} \sum_{ij} \left(a_{ij} - \frac{n-1}n\right) \cancel{\delta_{g_i g_j}}$$
+		- $$Q_C \le \frac{1}{n(n-1)} \sum_{ij} \left(a_{ij} - \frac{n-1}n\right) \cancel{\delta_{g_i g_j}}$$
 		- Si distinguono due casi:
 			- $i \neq j$ e $a_{ij} = 1$
 				- essendo una cricca, c'è sempre un arco tra due nodi diversi
 			- $i = j$ e $a_{ij} = 0$
 				- non c'è un arco tra un nodo e se stesso
 		- \begin{aligned}
-		  Q_C = \frac{1}{n(n-1)} \left[\sum_{i\neq j} \left(1 - \frac{n-1}n\right) + \sum_i - \frac{n - 1} \right]
+		  Q_C = \frac{1}{n(n-1)} \left[\sum_{i\neq j} \left(1 - \frac{n-1}n\right) + \sum_i - \frac{n - 1}{n} \right]
 		  \end{aligned}
