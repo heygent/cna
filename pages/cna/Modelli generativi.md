@@ -26,5 +26,5 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 		- TODO
 	- ## Distribuzione dei gradi
 		- Probabilità che un nodo abbia $k$ vicini.
-		- Dato che
+		- Dato che nessuno dei nodi ha un ruolo particolare in questo modello, si può considerare un qualun e chiedersi quale sia la probabilità che questo abbia 0,
 	-
