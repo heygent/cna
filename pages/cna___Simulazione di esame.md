@@ -91,6 +91,9 @@
 			- il numero di archi $m$ è $\frac{n(n-1)}2$
 		- \begin{aligned}
 		  Q_C &= \frac{1}{2m} \sum_{ij} \left(a_{ij} - \frac{(n-1)^2}{2m}\right) \delta_{g_i g_j} \\
-		  &= \frac{1}{\cancel{2}} \frac{\cancel{2}}{n(n-1)} \sum_{ij} \left(a_{ij} - \frac{(n-1)^{\cancel{2}}}{\cancel{2}} \frac{\cancel{2}}{n\cancel{(n-1)}} \right) \delta_{g_i g_j} 
+		  &= \frac{1}{\cancel{2}} \frac{\cancel{2}}{n(n-1)} \sum_{ij} \left(a_{ij} - \frac{(n-1)^{\cancel{2}}}{\cancel{2}} \frac{\cancel{2}}{n\cancel{(n-1)}} \right) \delta_{g_i g_j} \\
+		  &= \frac{1}{n(n-1)} \sum_{ij} \left(a_{ij} - \frac{n-1}n\right) \delta_{g_i g_j}
 		  \end{aligned}
-		-
+		- Si distinguono due casi:
+			- $i \neq j$ e $a_{ij} = 1$
+			- $i = j$ e $a_{ij}
