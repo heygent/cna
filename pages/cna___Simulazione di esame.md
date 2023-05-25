@@ -69,7 +69,7 @@
 		- is this a reasonable input to create an unweighted graph without self-loops from the configuration model?
 		- What about the sequence $k = (1, 3, 4, 3)$
 	-
-	- Given the graph in the figure. What is/are the node/s with the highest [betweenness](((631ef02a-be3c-49ea-adc7-d5c938f722f7))) centrality, and which ones have the highest degree centrality?
+	- Given the graph in the figure. What is/are the node/s with the highest [betweenness](((631ef02a-be3c-49ea-adc7-d5c938f722f7))) centrality, and which ones have the highest degree [centrality]([[Centralità]])?
 	  ((646e3a44-2f12-495c-8097-31f72d637c5f))
 	-
 	- Consider an [ER graph](((646e2aea-4f90-47a5-83c2-0827e9bb2db1))) with $n = 5 \cdot 10^4$ nodes and average degree $k = 100$. How can you approximate its diameter?
