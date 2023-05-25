@@ -97,5 +97,5 @@
 		  \end{aligned}
 		- Si distinguono due casi:
 			- $i \neq j$ e $a_{ij} = 1$
-			- $i = j$ e $a_{ij} = 0$
+			- $i = j$ e $a_{ij} = 0$ (non c'è un arco tra un nodo e se stesso)
 		- $$Q_C = \frac1{n(n-1)} \sum_{i \neq j} \left(1 - \frac{n-1}{n}$$
