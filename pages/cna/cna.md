@@ -66,7 +66,7 @@ alias:: Contents
 		- [Calculating betweenness values](((6461685e-61a0-4ca8-8e40-60cdefd48def)))
 	- # [[Modelli generativi]]
 		- Recap of real-world network properties
-		- Erdos-Renyi and Gilbert random graphs
+		- ((646e2aea-4f90-47a5-83c2-0827e9bb2db1))
 			- definition
 			- percolation threshold with proof
 			- degree distribution
