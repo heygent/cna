@@ -110,4 +110,4 @@
 			- Le sommatorie non hanno più termini indicizzati e possono essere sostituite con prodotti
 				- $\sum_{i\neq j} = n(n-1)$
 				- $\sum_i = n$
-		- $$\frac{1}{n(n-1)} \left[n(n-1)\left(\frac{1}n\right) \left(1 - \frac{n-1}n\right) - \sum_i \frac{n - 1}{n} \right]$$
+		- $$\frac{1}{n(n-1)} \left[n(n-1)\frac{1}n - n \frac{n - 1}{n} \right]$$
