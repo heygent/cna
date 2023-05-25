@@ -1,5 +1,5 @@
 - ![Testo](../assets/cna_exam_simulation_may_2022.pdf)
-- #.ol
+- # Domande#.ol
 	- Consider the [adjacency matrix](((646275b2-7887-4bef-83fa-dbaf2a264cd5))):
 	  \begin{bmatrix}
 	  0 & 2 & 1 & 0 \\
