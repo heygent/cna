@@ -1,5 +1,5 @@
 - ![Testo](../assets/cna_exam_simulation_may_2022.pdf)
-- # Domande#.ol
+- # Domande #.ol
 	- Consider the [adjacency matrix](((646275b2-7887-4bef-83fa-dbaf2a264cd5))):
 	  \begin{bmatrix}
 	  0 & 2 & 1 & 0 \\
@@ -77,7 +77,11 @@
 	- Explain why the Watts-Strogatz model is able to create networks with high clustering coefficients and small diameter.
 	-
 	- Show that any partition of a clique has negative [modularity](((6468a11b-78cd-4b64-9e79-96d84f382f47))).
+	  id:: 646e3ab0-51ae-4482-9533-074f575b1ff1
 	-
 	- The older nodes of a Barabasi-Albert network are those with higher degree. (True/False)
 	-
-	- Does the creation of a new fast road always decrease the total travelling time? If not, provide a counter-example.
+	- Does the creation of a new fast road always decrease the total travelling time? If not, provide a counter-example
+-
+- # Soluzioni
+	- ((646a363f-b4cd-422d-9596-e37857062559))
