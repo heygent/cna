@@ -100,4 +100,4 @@
 				- essendo una cricca, c'è sempre un arco tra due nodi diversi
 			- $i = j$ e $a_{ij} = 0$
 				- non c'è un arco tra un nodo e se stesso
-		- $$Q_C = \frac1{n(n-1)} \sum_{i \neq j} \left(1 - \frac{n-1}{n}\right)$$
+		- $$Q_C = \frac1{n(n-1)}\left[\sum_{i \neq j} \left(1 - \frac{n-1}{n}\right)\right]$$
