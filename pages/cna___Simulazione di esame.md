@@ -87,9 +87,9 @@
 	- ((646e3ab0-51ae-4482-9533-074f575b1ff1))
 		- ((646a363f-b4cd-422d-9596-e37857062559))
 		- Per una cricca:
-		  collapsed:: true
 			- il grado di ogni nodo è sempre $n - 1$ ($k_i$ e $k_j$).
 			- il numero di archi $m$ è $\frac{n(n-1)}2$
+		- Sia $Q_C$ il valore di modularit
 		- \begin{aligned}
 		  Q_C &= \frac{1}{2m} \sum_{ij} \left(a_{ij} - \frac{(n-1)^2}{2m}\right) \delta_{g_i g_j} \\
 		  &= \frac{1}{\cancel{2}} \frac{\cancel{2}}{n(n-1)} \sum_{ij} \left(a_{ij} - \frac{(n-1)^{\cancel{2}}}{\cancel{2}} \frac{\cancel{2}}{n\cancel{(n-1)}} \right) \delta_{g_i g_j} \\
@@ -111,7 +111,7 @@
 				- $\sum_{i\neq j} = n(n-1)$
 				- $\sum_i = n$
 		- \begin{aligned}
-		  &\phantom{=}\frac{1}{n(n-1)} \left[\cancel{n}(n-1)\cancel{\frac{1}n} - \cancel{n} \frac{n - 1}{\cancel{n}} \right] \\
-		  &= \frac{1}{n(n-1)} \left[(n - 1) - (n - 1)\right] \\
-		  &= 0
+		  Q_C &\le \frac{1}{n(n-1)} \left[\cancel{n}(n-1)\cancel{\frac{1}n} - \cancel{n} \frac{n - 1}{\cancel{n}} \right] \\
+		  &\le \frac{1}{n(n-1)} \left[(n - 1) - (n - 1)\right] \\
+		  &\le 0
 		  \end{aligned}
