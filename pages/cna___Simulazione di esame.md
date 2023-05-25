@@ -96,4 +96,5 @@
 		  \end{aligned}
 		- Si distinguono due casi:
 			- $i \neq j$ e $a_{ij} = 1$
-			- $i = j$ e $a_{ij}
+			- $i = j$ e $a_{ij} = 0$
+		- $$= \frac1{n(n-1)} \sum_{i \neq j} 1 - \frac{n-1}$$
