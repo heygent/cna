@@ -96,7 +96,8 @@
 		  &= \frac{1}{n(n-1)} \sum_{ij} \left(a_{ij} - \frac{n-1}n\right) \delta_{g_i g_j}
 		  \end{aligned}
 		- Si prende il caso in cui tutti i nodi appartengono a un solo gruppo
-			- $\delta_{g_i g_j} = 1
+			- $\delta_{g_i g_j} = 1 \;\forall i, j \in N$
+			-
 		- Si distinguono due casi:
 			- $i \neq j$ e $a_{ij} = 1$
 				- essendo una cricca, c'è sempre un arco tra due nodi diversi
