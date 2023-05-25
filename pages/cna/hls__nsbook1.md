@@ -41,3 +41,8 @@ exclude-from-graph-view:: true
   hl-page:: 140
   hl-color:: yellow
   id:: 646e5059-6e19-49ef-8012-3a7ed60bdf94
+- Distribution
+  ls-type:: annotation
+  hl-page:: 142
+  hl-color:: yellow
+  id:: 646f6c44-ee7a-4d35-8087-c11183dc27eb
