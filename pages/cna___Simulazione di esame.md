@@ -89,7 +89,7 @@
 		- Per una cricca:
 			- il grado di ogni nodo è sempre $n - 1$ ($k_i$ e $k_j$).
 			- il numero di archi $m$ è $\frac{n(n-1)}2$
-		- Sia $Q_C$ il valore di modularit
+		- Sia $Q_C$ la modularità di una cricca.
 		- \begin{aligned}
 		  Q_C &= \frac{1}{2m} \sum_{ij} \left(a_{ij} - \frac{(n-1)^2}{2m}\right) \delta_{g_i g_j} \\
 		  &= \frac{1}{\cancel{2}} \frac{\cancel{2}}{n(n-1)} \sum_{ij} \left(a_{ij} - \frac{(n-1)^{\cancel{2}}}{\cancel{2}} \frac{\cancel{2}}{n\cancel{(n-1)}} \right) \delta_{g_i g_j} \\
