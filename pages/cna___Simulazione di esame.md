@@ -112,5 +112,6 @@
 				- $\sum_i = n$
 		- \begin{aligned}
 		  &\phantom{=}\frac{1}{n(n-1)} \left[\cancel{n}(n-1)\cancel{\frac{1}n} - \cancel{n} \frac{n - 1}{\cancel{n}} \right] \\
-		  &= \frac{1}{n(n-1)} \left[\right]
+		  &= \frac{1}{n(n-1)} \left[(n - 1) - (n - 1)\right] \\
+		  &= 0
 		  \end{aligned}
