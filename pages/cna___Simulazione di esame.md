@@ -96,7 +96,6 @@
 		  &= \frac{1}{n(n-1)} \sum_{ij} \left(a_{ij} - \frac{n-1}n\right) \delta_{g_i g_j}
 		  \end{aligned}
 		- Si distinguono due casi:
-		  collapsed:: true
 			- $i \neq j$ e $a_{ij} = 1$
 			- $i = j$ e $a_{ij} = 0$
 		- $$= \frac1{n(n-1)} \sum_{i \neq j} 1 - \frac{n-1}{n}$$
