@@ -84,4 +84,7 @@
 	- Does the creation of a new fast road always decrease the total travelling time? If not, provide a counter-example
 -
 - # Soluzioni
-	- ((646a363f-b4cd-422d-9596-e37857062559))
+	- ((646e3ab0-51ae-4482-9533-074f575b1ff1))
+		- ((646a363f-b4cd-422d-9596-e37857062559))
+		- Per una cricca il grado dei nodi $k_i$ e $k_j$ sono fissi a $n - 1$.
+		-
