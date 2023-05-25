@@ -111,6 +111,6 @@
 				- $\sum_{i\neq j} = n(n-1)$
 				- $\sum_i = n$
 		- \begin{aligned}
-		  &\phantom{=}\frac{1}{n(n-1)} \left[n(n-1)\frac{1}n - \cancel{n} \frac{n - 1}{\cancel{n}} \right] \\
+		  &\phantom{=}\frac{1}{n(n-1)} \left[\cancel{n}(n-1)\cancel{\frac{1}n} - \cancel{n} \frac{n - 1}{\cancel{n}} \right] \\
 		  &= \frac{1}{n(n-1)} \left[\right]
 		  \end{aligned}
