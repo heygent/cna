@@ -72,11 +72,11 @@
 	- Given the graph in the figure. What is/are the node/s with the highest betweenness centrality, and which ones have the highest degree centrality?
 	  ((646e3a44-2f12-495c-8097-31f72d637c5f))
 	-
-	- Consider an ER graph with $n = 5 \cdot 10^4$ nodes and average degree $k = 100$. How can you approximate its diameter?
+	- Consider an [ER graph](((646e2aea-4f90-47a5-83c2-0827e9bb2db1))) with $n = 5 \cdot 10^4$ nodes and average degree $k = 100$. How can you approximate its diameter?
 	-
 	- Explain why the Watts-Strogatz model is able to create networks with high clustering coefficients and small diameter.
 	-
-	- Show that any partition of a clique has negative modularity.
+	- Show that any partition of a clique has negative [modularity](((6468a11b-78cd-4b64-9e79-96d84f382f47))).
 	-
 	- The older nodes of a Barabasi-Albert network are those with higher degree. (True/False)
 	-
