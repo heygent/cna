@@ -30,3 +30,4 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 		- ((646f6c44-ee7a-4d35-8087-c11183dc27eb))
 - # Configuration model
 	- Modello per costruire reti con una distribuzione di gradi predefinita.
+	-
