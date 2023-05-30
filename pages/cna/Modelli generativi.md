@@ -36,6 +36,12 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 			- La distribuzione dei gradi è generalmente **molto diversa** rispetto alle reti reali.
 	- ## Diametro
 		- Quanti nodi ci sono in media a $d$ passi da un qualunque nodo?
+		- > Question: what is the diameter of an erdos-renyi graph?
+		  > The diameter of an Erdos-Renyi graph is given by the smallest value of ℓ such that P(dij > ℓ) is zero, and it is usually found to be relatively small and should scale logarithmically with n just as the average distance does (Newman2010 pages 434-435, Newman2010 pages 255-256). In the limit of large n, the diameter increases only slowly with n, as ln n, making it relatively small in large random graphs. The expression for the diameter is given by ℓ = ln a ln c + lim ϵ→0 (1 + ϵ) ln n, where A is a constant (Newman2010 pages 434-435). The logarithmic dependence of the diameter on n offers some explanation of the small-world effect. However, the diameter is generally a less useful measure of real-world network behavior than mean distance, since it only measures the distance between one specific pair of vertices at the extreme end of the distribution of distances (Newman2010 pages 255-256).
+		  > Exercise 6 in Dall2023f pages 1-15 asks to find the diameter of a given graph, which can be calculated using the formula mentioned above. However, it is important to note that the diameter of a graph is not always smaller than the number of nodes, as Exercise 12 in Dall2023f pages 1-15 asks if the diameter of a graph is always smaller than the number of nodes. I cannot provide a definitive answer to this question without additional information.
+			- > References
+		- 1. (Newman2010): Newman, M. E. J. Networks: An Introduction. Oxford University Press, 2010.
+		- 2. (Dall2023f): Dall'Amico, Lorenzo. "Lecture 27.ns19: Exercises." Complex Networks Analysis and Visualization, NetSci, University of Torino, email: lorenzo.dallamico@unito.it, 29 May 2023.
 		-
 - # Configuration model
 	- Modello per costruire reti con una distribuzione di gradi predefinita.
