@@ -26,8 +26,8 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 		- {{video https://youtu.be/VC43S6Thwg0?t=423}}
 			- {{youtube-timestamp 423}} Emergence of the Giant Component
 	- ## Distribuzione dei gradi
-		- Probabilità che un nodo abbia $k$ vicini.
-		- Dato che nessuno dei nodi ha un ruolo particolare in questo modello, si può considerare un qualunque nodo $i$ e chiedersi quale sia la probabilità che questo abbia 0, 1, 2, ... vicini.
+		- $k_i
+		-
 		-
 		- ((646f6c44-ee7a-4d35-8087-c11183dc27eb))
 - # Configuration model
