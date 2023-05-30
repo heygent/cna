@@ -6,6 +6,7 @@ alias:: Contents
 	- ![nsbook2](../../assets/nsbook2.pdf) Easley and Kleinberg, Networks, Crowds, and Markets: Reasoning About a Highly Connected World, Cambridge University Press, 2010
 	- ![nsbook3](../assets/nsbook3.pdf) Mark Newman, Networks, Oxford University Press
 	- ![nsbook4](../assets/nsbook4.pdf) Albert-László Barabási, Network Science, Cambridge University Press
+	- ![ns19](../assets/ns19.pdf)
 - # Syllabus
   id:: 64690e6c-fb74-458e-b341-972c31fc4fa8
 	- # [[Introduzione]]
