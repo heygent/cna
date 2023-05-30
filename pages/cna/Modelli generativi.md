@@ -26,7 +26,8 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 		- {{video https://youtu.be/VC43S6Thwg0?t=423}}
 			- {{youtube-timestamp 423}} Emergence of the Giant Component
 	- ## Distribuzione dei gradi
-		- $k_i \sim \text{Binomiale}(p, N-1)$
+		- La distribuzione del grado d
+		- $k_i \sim \text{Binomiale}(N-1, p)$
 		-
 		-
 		-
