@@ -228,5 +228,17 @@
                                    :height 926.5889999999999}),
                           :page 142},
                :content {:text "Distribution"},
+               :properties {:color "yellow"}}
+              {:id #uuid "6476078f-fdc6-4633-9480-db319311ed6e",
+               :page 143,
+               :position {:bounding {:x1 149.8734359741211,
+                                     :y1 71.40625,
+                                     :x2 630.9937744140625,
+                                     :y2 361.4031677246094,
+                                     :width 720.0000726060183,
+                                     :height 934.3880253852153},
+                          :rects (),
+                          :page 143},
+               :content {:text "[:span]", :image 1685456786740},
                :properties {:color "yellow"}}],
- :extra {:page 140}}
+ :extra {:page 143}}

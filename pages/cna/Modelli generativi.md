@@ -31,8 +31,8 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 		- $$P(k) = \binom{N-1}{k} p^k (1-p)^{N-1-k}$$
 		- Per $p$ piccolo ed $N$ grande la distribuzione binomiale approssima una normale
 		- La maggior parte dei gradi sono centrati sul picco, per cui **la media è un buon descrittore della distribuzione**.
-		- $\lang k \rang = (n-1) p = d$
-		-
+		- $\lang k \rang = (N-1) \cdot p = d$
+		- ((6476078f-fdc6-4633-9480-db319311ed6e))
 		- ((646f6c44-ee7a-4d35-8087-c11183dc27eb))
 - # Configuration model
 	- Modello per costruire reti con una distribuzione di gradi predefinita.

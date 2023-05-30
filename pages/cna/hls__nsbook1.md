@@ -46,3 +46,10 @@ exclude-from-graph-view:: true
   hl-page:: 142
   hl-color:: yellow
   id:: 646f6c44-ee7a-4d35-8087-c11183dc27eb
+- [:span]
+  ls-type:: annotation
+  hl-page:: 143
+  hl-color:: yellow
+  id:: 6476078f-fdc6-4633-9480-db319311ed6e
+  hl-type:: area
+  hl-stamp:: 1685456786740
