@@ -11,8 +11,9 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 - # Grafo casuale di Erdos-Renyi
   id:: 646e2aea-4f90-47a5-83c2-0827e9bb2db1
 	- ## Sintesi
-		- Distanza tra coppie di nodi è breve (small-world property): buono
-		- Coefficiente di clustering medio molto più basso rispetto a reti reali
+		- Distanza tra coppie di nodi è breve (small-world property) (buono)
+		- Coefficiente di clustering medio molto più basso rispetto a reti reali della stessa dimensione e grado medio (male)
+		- I nodi hanno approssimativamente lo stesso grado, non ci sono hub )
 	- Gilbert: $G(n, p)$
 		- ogni coppia di nodi è connessa con probabilità $p$
 	- Erdos-Renyi: $G(n,L)$
