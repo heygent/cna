@@ -107,3 +107,5 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 	- ❌ I nodi hanno approssimativamente lo stesso grado, non esistono hub
 	- ❌ Non c'è struttura di comunità
 	- ## Definizione
+		- ((647b10c5-48a7-4334-a47e-17866b9d61db))
+-
