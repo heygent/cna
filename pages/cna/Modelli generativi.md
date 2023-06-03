@@ -36,7 +36,11 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 		- ((6476078f-fdc6-4633-9480-db319311ed6e))
 			- La distribuzione dei gradi è generalmente **molto diversa** rispetto alle reti reali.
 	- ## Diametro
-		- Quanti nodi posso raggiungere in mei
+		- Quanti nodi posso raggiungere in media con $d$ passi?
+		- Dato che tutti i nodi hanno approssimativamente lo stesso grado, si assume che abbiano lo stesso grado $k$.
+			- $d = 1$: $k$ nodi
+			- $d = 2$:  $k(k-1)$ nodi
+			-
 		- ((647af7ad-cb59-4df4-ad09-5e80c8261c78))
 		- ((647af7bd-c14a-436f-a9d1-44f14f106d9b))
 	- ## Coefficiente di Clustering
