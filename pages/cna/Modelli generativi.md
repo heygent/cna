@@ -13,12 +13,10 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 	- Per ogni modello
 - # Modello di Erdos-Renyi
   id:: 646e2aea-4f90-47a5-83c2-0827e9bb2db1
-	- ## Pro e contro
-	  id:: 647afbed-6365-450a-93e2-1f076785a053
-		- ✅ Distanza tra coppie di nodi è breve ( ((64633030-d7ea-434e-ada5-456426e9b83b)) )
-		- ❌ Coefficiente di clustering medio molto più basso rispetto a reti reali della stessa dimensione e grado medio
-		- ❌ I nodi hanno approssimativamente lo stesso grado, non ci sono hub
-		- ❌ Non esiste struttura di comunità
+	- ✅ Distanza tra coppie di nodi è breve ( ((64633030-d7ea-434e-ada5-456426e9b83b)) )
+	- ❌ Coefficiente di clustering medio molto più basso rispetto a reti reali della stessa dimensione e grado medio
+	- ❌ I nodi hanno approssimativamente lo stesso grado, non ci sono hub
+	- ❌ Non esiste struttura di comunità
 	- ## Definizione
 	  id:: 647afc73-6c56-46ae-86ed-68a9eb874e71
 		- Gilbert: $G(n, p)$
@@ -73,7 +71,7 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 			- $$C_i = p = \frac{\lang k \rang}{N-1} \sim \frac{\lang k \rang}N$$
 		- Dato che $\lang k \rang$ è solitamente piccolo, il coefficiente di clustering medio di reti casuali per valori realistici di $\lang k \rang$ ed $N$ è molto più piccolo rispetto a quello osservato in reti reali.
 - # Configuration model
-	- ## Sintesi
+	-
 		- ✅ Le distanze tra coppie di nodi sono brevi ( ((64633030-d7ea-434e-ada5-456426e9b83b)) ), ereditato dal ((646e2aea-4f90-47a5-83c2-0827e9bb2db1))
 		- ✅ È possibile usare qualunque struttura di comunità
 		- ❌ Il coefficiente di clustering è molto più basso delle reti reali della stessa dimensione e grado medio
@@ -102,4 +100,4 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 		- La casualità tuttavia rende triangoli rari, specialmente in reti grandi.
 			- ((647b0bde-4d0f-4f97-9ad4-ef60f9c15923))
 - # Modello di Watts-Strogatz
-	-
+	- #
