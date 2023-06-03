@@ -68,12 +68,11 @@ alias:: Contents
 		- Recap of real-world network properties
 		- ((646e2aea-4f90-47a5-83c2-0827e9bb2db1))
 			- ((647afbed-6365-450a-93e2-1f076785a053))
-			- definition
+			- ((647afc73-6c56-46ae-86ed-68a9eb874e71))
 			- ((646efb6f-975d-4540-be73-efe075b8fa3e))
 			- ((646f6b87-dcb3-453f-a8cb-b8b87442c6fe))
-			- connectedness transition
-			- diameter
-			- clustering coefficient)
+			- ((64760805-49ab-4d2d-83eb-9edfc0da761c))
+			- ((647af7d1-43d5-40c2-b426-e2585c96c821))
 		- Configuration model
 			- definition
 			- clustering coefficient

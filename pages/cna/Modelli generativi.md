@@ -44,6 +44,7 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 		- ((6476078f-fdc6-4633-9480-db319311ed6e))
 			- La distribuzione dei gradi è generalmente **molto diversa** rispetto alle reti reali.
 	- ## Diametro
+	  id:: 64760805-49ab-4d2d-83eb-9edfc0da761c
 		- Quanti nodi posso raggiungere in media con $d$ passi?
 		- Dato che tutti i nodi hanno approssimativamente lo stesso grado, si assume che abbiano lo stesso grado $k$.
 			- $d = 1$: $k$ nodi
@@ -61,6 +62,7 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 			- Ad esempio, $N = 7.000.000.000, k = 150$
 				- $d_\text{max} = 4.52$
 	- ## Coefficiente di Clustering
+	  id:: 647af7d1-43d5-40c2-b426-e2585c96c821
 		- Il coefficiente di clustering di un nodo $i$ può essere interpretato come la probabilità che due vicini di $i$ siano connessi:
 			- {{embed ((647af84d-79ee-4348-b2a6-e8911d7311c6))}}
 		- Qual'è la probabilità che i due vicini di un nodo siano connessi?
@@ -68,6 +70,7 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 			- $$C_i = p = \frac{\lang k \rang}{N-1} \sim \frac{\lang k \rang}N$$
 		- Dato che $\lang k \rang$ è solitamente piccolo, il coefficiente di clustering medio di reti casuali per valori realistici di $\lang k \rang$ ed $N$ è molto più piccolo rispetto a quello osservato in reti reali.
 - # Configuration model
+	-
 	- Modello per costruire reti con una distribuzione di gradi predefinita.
 - # Modello di Watts-Strogatz
 	-
