@@ -86,6 +86,7 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 			- è utile per vedere se specifiche proprietà della rete dipendono soltanto dalla distribuzione dei gradi
 				- se la proprietà è mantenuta nella configurazione randomizzata, allora la distribuzione dei gradi è il fattore principale
 		- [Versione casuale](((647b05ec-3199-41c1-a38d-9deed6ff9c3f)))
+		  collapsed:: true
 			- Assegna a ogni nodo una probabilità $p_i$
 			- Genera archi indipendentemente con probabilità:
 				- $$P(A_{ij} = 1) = p_i p_j$$
@@ -93,6 +94,7 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 				- $$\mathbb{E}[k_i] = \sum_{j \neq i} \mathbb{E}[A_{ij}] \approx p_i n \lang p \rang$$
 	- ## Coefficiente di clustering
 		- Vicini di alto grado hanno maggiore probabilità di essere connessi, per cui l'eterogeneità migliora il clustering
-		- La causalità tuttavia rende triangoli rari, specialmente in reti grandi.
+		- La casualità tuttavia rende triangoli rari, specialmente in reti grandi.
+			- ((647b0bde-4d0f-4f97-9ad4-ef60f9c15923))
 - # Modello di Watts-Strogatz
 	-
