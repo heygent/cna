@@ -71,11 +71,12 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 		- Dato che $\lang k \rang$ è solitamente piccolo, il coefficiente di clustering medio di reti casuali per valori realistici di $\lang k \rang$ ed $N$ è molto più piccolo rispetto a quello osservato in reti reali.
 - # Configuration model
 	- ## Definizione
-		- Modello per costruire reti con una distribuzione di gradi predefinita.
+		- Modello per costruire reti con una distribuzione di gradi predeterminata.
 		- **degree sequence**
 			- lista di $N$ numeri $k_1, k_2, \ldots, k_N$ dove $k_i$ è il grado del nodo $i$
 		- **principio**
 			-
+		- ((647b02e2-097e-494f-a080-38766a1bfd8a))
 			-
 - # Modello di Watts-Strogatz
 	-
