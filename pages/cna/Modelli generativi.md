@@ -73,6 +73,9 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 	- ## Definizione
 		- Modello per costruire reti con una distribuzione di gradi predefinita.
 		- **degree sequence**
-			- lista di $N$ numeri ${k_1, k_2, \ldots, k_N}$ dove $k_i$
+			- lista di $N$ numeri $k_1, k_2, \ldots, k_N$ dove $k_i$ è il grado del nodo $i$
+		- **principio**
+			-
+			-
 - # Modello di Watts-Strogatz
 	-
