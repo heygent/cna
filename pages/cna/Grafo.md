@@ -195,7 +195,7 @@ ref:: ((64672afd-0fbd-499d-9a14-2a2c062919d3))
 				- $< l > = \frac{\sum_{ij}l_{ij}}{N(N-1)} = \infty$
 				- Trucco matematico:
 					- $$< l > = \left(\frac{\sum_{ij}\frac{1}{l_{ij}}}{N(N-1)}\right)^{-1}$$
-		- ### Small-world effect
+		- ### Small-world property
 		  id:: 64633030-d7ea-434e-ada5-456426e9b83b
 			- Si può trovare una catena relativamente corta di conoscenti che collegano quasi qualunque coppia di individui nel pianeta.
 			- In altre parole, la ((646328e9-959c-4cee-8058-d017e8806c35)) è molto breve.
