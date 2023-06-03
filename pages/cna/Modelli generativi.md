@@ -50,8 +50,8 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 			  d_\text{max} &\sim \frac{log N}{log k}
 			  \end{aligned}
 			- **Il diametro della rete cresce come il logaritmo della dimensione della rete.**
-			- Ad esempio, $N = 7.000.000.000, k =
-		- ((647af7bd-c14a-436f-a9d1-44f14f106d9b))
+			- Ad esempio, $N = 7.000.000.000, k = 150$
+				- $d_\text{max} = 4.52$
 	- ## Coefficiente di Clustering
 		- Il coefficiente di clustering di un nodo $i$ può essere interpretato come la probabilità che due vicini di $i$ siano connessi:
 			- {{embed ((647af84d-79ee-4348-b2a6-e8911d7311c6))}}
