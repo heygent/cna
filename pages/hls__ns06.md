@@ -22,3 +22,8 @@ file-path:: ../assets/ns06.pdf
   id:: 647b02e2-097e-494f-a080-38766a1bfd8a
   hl-type:: area
   hl-stamp:: 1685783270617
+- The random version of the configuration model
+  ls-type:: annotation
+  hl-page:: 29
+  hl-color:: yellow
+  id:: 647b05ec-3199-41c1-a38d-9deed6ff9c3f
