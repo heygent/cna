@@ -55,12 +55,12 @@
                :page 28,
                :position {:bounding {:x1 147,
                                      :y1 150.60009765625,
-                                     :x2 326,
-                                     :y2 261.60009765625,
+                                     :x2 325.99688720703125,
+                                     :y2 262.7626037597656,
                                      :width 490.00000000000006,
                                      :height 275.62500000000006},
                           :rects (),
                           :page 28},
-               :content {:text "[:span]", :image 1685785565975},
+               :content {:text "[:span]", :image 1685785579463},
                :properties {:color "yellow"}}],
- :extra {:page 29}}
+ :extra {:page 32}}
