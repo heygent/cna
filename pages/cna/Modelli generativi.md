@@ -12,7 +12,7 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
   id:: 646e2aea-4f90-47a5-83c2-0827e9bb2db1
 	- ## Sintesi
 	  id:: 647afbed-6365-450a-93e2-1f076785a053
-		- Distanza tra coppie di nodi è breve ( ((64633030-d7ea-434e-ada5-456426e9b83b)) ) ✅
+		- ✅ Distanza tra coppie di nodi è breve ( ((64633030-d7ea-434e-ada5-456426e9b83b)) )
 		- ❌ Coefficiente di clustering medio molto più basso rispetto a reti reali della stessa dimensione e grado medio (male)
 		- ❌ I nodi hanno approssimativamente lo stesso grado, non ci sono hub (male)
 		- ❌ Non esiste struttura di comunità (male)
@@ -72,8 +72,9 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 - # Configuration model
 	- ## Sintesi
 		- I link sono messi casualmente, rispettando una distribuzione di gradi
-		- Le distanze tra coppie di nodi sono brevi ( ((64633030-d7ea-434e-ada5-456426e9b83b)) ), ereditato dal ((646e2aea-4f90-47a5-83c2-0827e9bb2db1))  ✅
-		-
+		- ✅ Le distanze tra coppie di nodi sono brevi ( ((64633030-d7ea-434e-ada5-456426e9b83b)) ), ereditato dal ((646e2aea-4f90-47a5-83c2-0827e9bb2db1))
+		- Il coefficiente di clustering è molto più basso delle reti reali della stessa dimensione e grado medio
+		- Non c'è struttura di comunità
 		-
 	- ## Definizione
 		- Modello per costruire reti con una distribuzione di gradi predeterminata.
@@ -88,7 +89,6 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 			- è utile per vedere se specifiche proprietà della rete dipendono soltanto dalla distribuzione dei gradi
 				- se la proprietà è mantenuta nella configurazione randomizzata, allora la distribuzione dei gradi è il fattore principale
 		- [Versione casuale](((647b05ec-3199-41c1-a38d-9deed6ff9c3f)))
-		  collapsed:: true
 			- Assegna a ogni nodo una probabilità $p_i$
 			- Genera archi indipendentemente con probabilità:
 				- $$P(A_{ij} = 1) = p_i p_j$$
