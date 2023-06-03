@@ -77,9 +77,8 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 		- **principio**
 			- si sceglie il grado di ogni nodo
 			- si piazza un numero di "pezzi" di arco su ogni nodo corrispondente al suo grado scelto
-			- si va a collegare coppie di pezzi di arco a caso
-			- ((647b02e2-097e-494f-a080-38766a1bfd8a))
-				-
-				-
+			- si vanno a collegare coppie di pezzi di arco a caso
+		-
+			-
 - # Modello di Watts-Strogatz
 	-
