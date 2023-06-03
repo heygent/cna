@@ -76,7 +76,7 @@ alias:: Contents
 			- ((647b0223-70de-4a69-b566-83282359e171))
 			- ((647b04ce-8cd3-4492-9c42-2bbf4933731b))
 			- relation to the Erdos-Renyi model
-		- Watts-Strogatz model
+		- ((647b01a1-62ad-4621-800e-5a4bc84eebba))
 			- definition
 			- clustering coefficient and diameter
 			- degree distribution

@@ -10,7 +10,6 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 		- ((64691261-efab-4f42-861d-9f03d240e6c5))
 		- ((64691261-052f-498d-9deb-d401acccc910))
 		- Eterogeneità
-	- Per ogni modello
 - # Modello di Erdos-Renyi
   id:: 646e2aea-4f90-47a5-83c2-0827e9bb2db1
 	- ✅ Distanza tra coppie di nodi è breve ( ((64633030-d7ea-434e-ada5-456426e9b83b)) )
@@ -101,6 +100,7 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 		- La casualità tuttavia rende triangoli rari, specialmente in reti grandi.
 			- ((647b0bde-4d0f-4f97-9ad4-ef60f9c15923))
 - # Modello di Watts-Strogatz
+  id:: 647b01a1-62ad-4621-800e-5a4bc84eebba
 	- C'è un range di valori per la probabilità di riconfigurazione $p$ per cui:
 		- ✅ distanze tra nodi sono brevi ( ((64633030-d7ea-434e-ada5-456426e9b83b)) ) e
 		- ✅ coefficiente di clustering medio è alto
