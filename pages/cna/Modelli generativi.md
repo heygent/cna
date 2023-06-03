@@ -110,5 +110,7 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 		- La casualità porta a diametri piccoli e coefficienti di clustering bassi
 		- **Soluzione**: interpolare tra un lattice regolare (clustering alto) e rete casuale (small world property)
 		- Il coefficiente di clustering del lattice è alto:
+			- i nodi interni hanno $k = 6$ vicini, di cui sei coppie sono connesse.
+			- $C = \frac{6}{6 \cdot }
 		- ((647b10c5-48a7-4334-a47e-17866b9d61db))
 -
