@@ -45,9 +45,11 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 			- $$N_d \sim k(k-1)^{d-1} \sim k^d$$
 		- Quanti passi servono per coprire l'intera rete?
 			- \begin{aligned}
-			  N &\sim k^{d_\text{max}}
-			  \log N \sim d_\text{max} \log k
+			  N &\sim k^{d_\text{max}} \\
+			  \log N &\sim d_\text{max} \log k \\
+			  d_\text{max} &\sim \frac{log N}{log k}
 			  \end{aligned}
+			- **Il diametro della rete cresce come il logari
 		- ((647af7bd-c14a-436f-a9d1-44f14f106d9b))
 	- ## Coefficiente di Clustering
 		- Il coefficiente di clustering di un nodo $i$ può essere interpretato come la probabilità che due vicini di $i$ siano connessi:
