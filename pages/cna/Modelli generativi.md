@@ -98,4 +98,6 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 		- La casualità tuttavia rende triangoli rari, specialmente in reti grandi.
 			- ((647b0bde-4d0f-4f97-9ad4-ef60f9c15923))
 - # Modello di Watts-Strogatz
-	- C'è un range di valori per la probabilità di riconfigurazione $p$
+	- C'è un range di valori per la probabilità di riconfigurazione $p$ per cui:
+		- distanze tra nodi sono brevi ( ((64633030-d7ea-434e-ada5-456426e9b83b)) ) e
+		- coefficiente di clustering medio è alto
