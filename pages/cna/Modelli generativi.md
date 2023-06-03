@@ -36,7 +36,7 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 		- ((6476078f-fdc6-4633-9480-db319311ed6e))
 			- La distribuzione dei gradi è generalmente **molto diversa** rispetto alle reti reali.
 	- ## Diametro
-		- Quanti nodi ci sono in media a $d$ passi da un qualunque nodo?
+		- ((647af7ad-cb59-4df4-ad09-5e80c8261c78))
 		-
 - # Configuration model
 	- Modello per costruire reti con una distribuzione di gradi predefinita.
