@@ -72,16 +72,16 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 - # Configuration model
 	- ## Definizione
 		- Modello per costruire reti con una distribuzione di gradi predeterminata.
-		- **degree sequence**
+		- **[degree](((6462989a-ec74-4814-ba4f-745fd640511c))) sequence**
 			- lista di $N$ numeri $k_1, k_2, \ldots, k_N$ dove $k_i$ è il grado del nodo $i$
 		- **principio**
 			- si sceglie il grado di ogni nodo
 			- si piazza un numero di "pezzi" di arco su ogni nodo corrispondente al suo grado scelto
 			- si vanno a collegare coppie di pezzi di arco a caso
 		- ### Degree-preserving randomization
-			-
-		- è utile per vedere se specifiche proprietà della rete dipendono soltanto dalla distribuzione dei gradi
-			- se la proprietà è mantenuta nella configurazione randomizzata
-			-
+			- si generano versioni randomizzate di una data rete con la stessa sequenza di gradi usando il configuration model
+			- è utile per vedere se specifiche proprietà della rete dipendono soltanto dalla distribuzione dei gradi
+				- se la proprietà è mantenuta nella configurazione randomizzata
+				-
 - # Modello di Watts-Strogatz
 	-
