@@ -82,9 +82,12 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 			- si generano versioni randomizzate di una data rete con la stessa sequenza di gradi usando il configuration model
 			- è utile per vedere se specifiche proprietà della rete dipendono soltanto dalla distribuzione dei gradi
 				- se la proprietà è mantenuta nella configurazione randomizzata, allora la distribuzione dei gradi è il fattore principale
+		- ### Versione causale
+			- Assegna a ogni nodo una probabilità $p_i$
 	- ## Coefficiente di clustering
 		- Vicini di alto grado hanno maggiore probabilità di essere connessi, per cui l'eterogeneità migliora il clustering
-		- La causalità
+		- La causalità tuttavia rende triangoli rari, specialmente in reti grandi.
+	-
 		-
 - # Modello di Watts-Strogatz
 	-
