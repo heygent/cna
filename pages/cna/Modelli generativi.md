@@ -13,14 +13,16 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 	- ## Sintesi
 		- Distanza tra coppie di nodi è breve (small-world property) (buono)
 		- Coefficiente di clustering medio molto più basso rispetto a reti reali della stessa dimensione e grado medio (male)
-		- I nodi hanno approssimativamente lo stesso grado, non ci sono hub )
-	- Gilbert: $G(n, p)$
-		- ogni coppia di nodi è connessa con probabilità $p$
-	- Erdos-Renyi: $G(n,L)$
-		- ci sono $L$ archi casualmente piazzati
-	- ((646e5059-6e19-49ef-8012-3a7ed60bdf94))
-	- $G(n,p)$ è equivalente a $G(n,L)$ se:
-		- $$L \sim \text{Binomiale}\left(\frac{n(n-1)}{2}, p \right)$$
+		- I nodi hanno approssimativamente lo stesso grado, non ci sono hub (male)
+		- Non esiste struttura di comunità (male)
+	- ## Definizione
+		- Gilbert: $G(n, p)$
+			- ogni coppia di nodi è connessa con probabilità $p$
+		- Erdos-Renyi: $G(n,L)$
+			- ci sono $L$ archi casualmente piazzati
+		- ((646e5059-6e19-49ef-8012-3a7ed60bdf94))
+		- $G(n,p)$ è equivalente a $G(n,L)$ se:
+			- $$L \sim \text{Binomiale}\left(\frac{n(n-1)}{2}, p \right)$$
 	- ## Algoritmo (Gilbert)
 		- Parti da un grafo con $N$ nodi senza link
 		- Per ogni coppia di nodi $i$ e $j$:
