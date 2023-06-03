@@ -262,6 +262,9 @@ ref:: ((64672afd-0fbd-499d-9a14-2a2c062919d3))
 			- Se $N_i$ è l'insieme dei vicini di $i$, e $\tau(i)$ è il numero di triangoli che coinvolgono $i$:
 			- $$C(i) = \frac{\tau(i)}{\tau_{\text{max}}(i)} = \frac{\tau(i)}{\binom{k_i}{2}}
 			  = \frac{2\tau(i)}{k_i(k_i - 1)} : |N_i| = k_i$$
+			- In altre parole:
+				- id:: 647af84d-79ee-4348-b2a6-e8911d7311c6
+				  $$C_i = \frac{\text{numero di coppie connesse di vicini di  }i}{\text{numero di coppie di vicini di } i}$$
 			- Il coefficiente di clustering di un nodo A può anche essere definito come la *probabilità che due amici di A selezionati casualmente siano amici tra loro*.
 		- ## Coefficiente di clustering di una rete
 			- media dei coefficienti di clustering di tutti i nodi.
