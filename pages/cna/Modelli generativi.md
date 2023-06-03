@@ -115,6 +115,6 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 				- $C = \frac{6}{(6 \cdot 5) / 2} = \frac{6}{15} = \frac25 = 0.4$
 				- La maggior parte dei nodi sono interni, per cui il coefficiente di clustering  medio della rete è vicino a 0.4
 			- ❌ Lunghezza media dei cammini più brevi lunga
-				-
+				- Arrivare da un nodo a un altro può richiedere un grande numero di passi, che cresce rapidamente con la dimensione della rete
 		- ((647b10c5-48a7-4334-a47e-17866b9d61db))
 -
