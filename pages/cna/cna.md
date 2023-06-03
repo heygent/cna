@@ -72,9 +72,9 @@ alias:: Contents
 			- ((646f6b87-dcb3-453f-a8cb-b8b87442c6fe))
 			- ((64760805-49ab-4d2d-83eb-9edfc0da761c))
 			- ((647af7d1-43d5-40c2-b426-e2585c96c821))
-		- Configuration model
+		- ((6474d86d-605b-4e46-bb17-7dc0190990f8))
 			- ((647b0223-70de-4a69-b566-83282359e171))
-			- clustering coefficient
+			- ((647b04ce-8cd3-4492-9c42-2bbf4933731b))
 			- relation to the Erdos-Renyi model
 		- Watts-Strogatz model
 			- definition
