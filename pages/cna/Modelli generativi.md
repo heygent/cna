@@ -43,7 +43,8 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 			- {{embed ((647af84d-79ee-4348-b2a6-e8911d7311c6))}}
 		- Qual'è la probabilità che i due vicini di un nodo siano connessi?
 			- Dato che i collegamenti sono piazzati indipendentemente l'uno dall'altro, è la probabilità $p$ che una coppia di nodi nel grafo sia connessa:
-			- $$C_i = p = \frac$$
+			- $$C_i = p = \frac{\lang k \rang}{N-1} \sim \frac{\lang k \rang}N$$
+		- Dato che $\lang k \rang$
 - # Configuration model
 	- Modello per costruire reti con una distribuzione di gradi predefinita.
 	-
