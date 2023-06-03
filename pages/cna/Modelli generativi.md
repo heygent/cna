@@ -39,7 +39,8 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 		- ((647af7ad-cb59-4df4-ad09-5e80c8261c78))
 		- ((647af7bd-c14a-436f-a9d1-44f14f106d9b))
 	- ## Coefficiente di Clustering
-		- Il coefficiente di clustering di un nodo $i$ pu
+		- Il coefficiente di clustering di un nodo $i$ può essere interpretato come la probabilità che due vicini di $i$ siano connessi:
+			- $$C_i = \frac{\text{numero di coppie connesse di vicini di  }i}{\nu}$$
 - # Configuration model
 	- Modello per costruire reti con una distribuzione di gradi predefinita.
 	-
