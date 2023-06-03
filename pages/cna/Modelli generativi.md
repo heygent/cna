@@ -70,7 +70,9 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 			- $$C_i = p = \frac{\lang k \rang}{N-1} \sim \frac{\lang k \rang}N$$
 		- Dato che $\lang k \rang$ è solitamente piccolo, il coefficiente di clustering medio di reti casuali per valori realistici di $\lang k \rang$ ed $N$ è molto più piccolo rispetto a quello osservato in reti reali.
 - # Configuration model
-	-
-	- Modello per costruire reti con una distribuzione di gradi predefinita.
+	- ## Definizione
+		- Modello per costruire reti con una distribuzione di gradi predefinita.
+		- **degree sequence**
+			- lista di $N$ numeri ${k_1, k_2, \ldots, k_N}$ dove $k_i$
 - # Modello di Watts-Strogatz
 	-
