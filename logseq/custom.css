@@ -7,3 +7,9 @@
   marign-right: .25em;
   font-size: large;
 }
+
+.bullet-container::before{
+  margin-left: .25em;
+  marign-right: .25em;
+  content: "🏴‍☠️"
+}
