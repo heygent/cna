@@ -8,7 +8,8 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 	- ((632050e0-bd5f-4b71-9a56-f7ac016612e2))
 	- ((64691261-efab-4f42-861d-9f03d240e6c5))
 	- ((64691261-052f-498d-9deb-d401acccc910))
-- # Grafo casuale di Erdos-Renyi
+	- Eterogeneità
+- # Modello di Erdos-Renyi
   id:: 646e2aea-4f90-47a5-83c2-0827e9bb2db1
 	- ## Sintesi
 	  id:: 647afbed-6365-450a-93e2-1f076785a053
@@ -71,9 +72,8 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 		- Dato che $\lang k \rang$ è solitamente piccolo, il coefficiente di clustering medio di reti casuali per valori realistici di $\lang k \rang$ ed $N$ è molto più piccolo rispetto a quello osservato in reti reali.
 - # Configuration model
 	- ## Sintesi
-		- I link sono messi casualmente, rispettando una distribuzione di gradi
 		- ✅ Le distanze tra coppie di nodi sono brevi ( ((64633030-d7ea-434e-ada5-456426e9b83b)) ), ereditato dal ((646e2aea-4f90-47a5-83c2-0827e9bb2db1))
-		- È
+		- ✅ È possibile usare qualunque struttura di comunità
 		- ❌ Il coefficiente di clustering è molto più basso delle reti reali della stessa dimensione e grado medio
 		- ❌ Non c'è struttura di comunità
 		-
