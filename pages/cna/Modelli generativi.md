@@ -128,8 +128,8 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 			- In base al valore di $p$:
 				- Se $p = 0$ nessun link viene ricollegato: nessun cambiamento
 				- Per un range piccolo di valori di $p$ (vengono ricollegati pochi collegamenti):
-					- coefficiente di clustering resta approssimativamente lo stesso
-					- le distanze diminuiscono considerevolmente grazie a scorciatoie
+					- ((647b04ce-8cd3-4492-9c42-2bbf4933731b)) resta approssimativamente lo stesso
+					- le distanze diminuiscono considerevolmente grazie a scorciatoie ((64633030-d7ea-434e-ada5-456426e9b83b))
 				- Se $p = 1$, tutti i link vengono ricollegati: la rete diventa una rete casuale
 		- ## Distribuzione dei gradi
 		  id:: 647c3ae2-116d-411d-ac5c-5ace120cf885
