@@ -145,6 +145,8 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 				- La distribuzione dei gradi ha un picco dato che la maggior parte dei nodi ha lo stesso grado. **Non ci sono hub.**
 				- Il modello di Watts-Strogatz fallisce nel riprodurre le distribuzioni di grado ampie osservate in molte reti reali.
 	- ## Stochastic block model
+		- Molte reti hanno una struttura di comunità: ci sono gruppi di nodi più strettamente connessi tra di loro che con gli altri.
+		- Come generare una rete con comunità?
 		- Si supponga di avere due comunità.
 			- Ogni nodo ha etichetta $l = 1$ o $l = 2$.
 			- Ogni arco è generato in modo casuale e indipendente con le seguenti probabilità:
@@ -153,4 +155,4 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 				  p_\text{out} & \text{se } l_i \neq l_j
 				  \end{cases}
 				  $$
-		-
+		- Impostando $p
