@@ -122,5 +122,5 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 				- A ring lattice with n=10 and k=4.
 		- Ogni link è ricollegato casualmente in base a una probabilità $p$:
 			- ((647c3a24-8214-41bc-9830-856b45720509))
-			- Il numero atteso di link ricollegati è $pL = \frac{pNk
+			- Il numero atteso di link ricollegati è $pL = pNk/2$
 -
