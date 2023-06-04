@@ -140,7 +140,6 @@ alias:: Contents
 		- Hits algorithm
 		- Spectral analysis of the two algorithms
 		- Random walks and page rank
-		-
 	- # [[Game theory and traffic networks]]
 	  date:: [[2023-05-03]]
 		- Games and payoff matrix
