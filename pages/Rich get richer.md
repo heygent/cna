@@ -62,11 +62,12 @@ slide:: ![ns07](../assets/ns07.pdf)
 			- Nelle reti reali questi possono anche essere eliminati
 		- Dato che ogni nodo è collegato a nodi più vecchi, **la rete consiste di una singola componente connessa.** Molte reti reali hanno componenti multiple.
 - # Estensioni del modello di Barabasi-Albert
-	- ## Attractiveness model
-		- **Pitfall del preferential attachment**
-			- che succede se il nodo non ha vicini (grado zero)?
-			- non arriverà mai ad avere connessioni con altri nodi
+	- ## Pitfall del preferential attachment
+		- che succede se il nodo non ha vicini (grado zero)?
+		- non arriverà mai ad avere connessioni con altri nodi
 		- non è un problema per la condizione iniziale standard: il sottografo iniziale è completo, per cui ogni nodo ha grado non-zero
 		- Se la rete fosse diretta e la probabilità di link fosse proporzionale all'in-degree?
 			- male, dato che ogni nuovo nodo ha in-degree zero, per cui non verrebbe mai connesso ad altri nodi
-	-
+	- ## Attractiveness model
+		- ### Procedura
+			- I
