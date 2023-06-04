@@ -185,4 +185,5 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 		- Dato il preferential attachment, i nodi più connessi hanno possibilità più alte di acquisire nuovi link, il che dà loro un vantaggio sempre più grande sugli altri nodi in futuro.
 		- È così che si vengono a formare gli hub.
 		- Questo fenomeno **dipende strattamente dal preferential attachment**: la sola crescita dei nodi iniziali più connessi non porta da sola alla formazione di hub.
-		-
+	- ## Non-linear preferential attachment
+		- Il modello di Barabasi-Albert usa un preferential attachment lineare: la probabilità di connessione
