@@ -9,4 +9,6 @@ slide:: ![ns07](../assets/ns07.pdf)
 	- molte poche persone raggiungono popolarità globale
 - Questo fenomeno è intrinseco alla popolarità in sé?
 -
--
+- # Power laws
+	- La frazione di pagine web che hanno $k$ in-link è:
+		- $f(k) \approx \frac1{k^c} = k^{-c}$
