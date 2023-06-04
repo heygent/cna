@@ -99,4 +99,7 @@ slide:: ![ns07](../assets/ns07.pdf)
 			- Il modello BA non genera molti triangoli
 			- Per chiudere triangoli è necessario impostare un link tra due vicini di un nodo, mentre nel modello BA i link sono piazzati in base al grado, a prescindere di se i futuri vicini avranno vicini in comune
 			- Soluzione: introdurre un meccanismo per la chiusura triadica nel modello
-	-
+	- ## Random walk model
+		- ### Procedura
+			- Si inizia con un gruppo $m_0$ di nodi, solitamente completamente connessi (cricca)
+			- A ogni n
