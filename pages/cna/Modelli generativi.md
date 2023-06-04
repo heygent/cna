@@ -202,4 +202,6 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 				- Uno dei nodi sarà connesso a una frazione di tutti gli altri nodi
 			- Per $\alpha > 2$ un singolo nodo potrebbe essere connesso a tutti gli altri nodi (**winner-takes-all effect**), con tutti gli altri nodi che restano di grado basso.
 			- #### Conclusione
-				- Il preferential attachment non lineare fallisce nel generare hub. Il
+				- Il preferential attachment non lineare fallisce nel generare hub. Il preferential attachment lineare è il migliore.
+				- Il problema è che un attachment strettamente proporzionale sembra poco realistico
+			-
