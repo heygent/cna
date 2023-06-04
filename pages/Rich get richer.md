@@ -63,13 +63,13 @@ slide:: ![ns07](../assets/ns07.pdf)
 		- **I nodi e i link sono solo aggiunti**
 			- Nelle reti reali questi possono anche essere eliminati
 		- Dato che ogni nodo è collegato a nodi più vecchi, **la rete consiste di una singola componente connessa.** Molte reti reali hanno componenti multiple.
-- # Estensioni del modello di Barabasi-Albert
-	- ## Pitfall del preferential attachment
+	- ## Difetto del preferential attachment
 		- che succede se il nodo non ha vicini (grado zero)?
 		- non arriverà mai ad avere connessioni con altri nodi
 		- non è un problema per la condizione iniziale standard: il sottografo iniziale è completo, per cui ogni nodo ha grado non-zero
 		- Se la rete fosse diretta e la probabilità di link fosse proporzionale all'in-degree?
 			- male, dato che ogni nuovo nodo ha in-degree zero, per cui non verrebbe mai connesso ad altri nodi
+- # Estensioni del modello di Barabasi-Albert
 	- ## Attractiveness model
 		- ### Procedura
 			- {{embed ((647d06a9-e3e7-4e47-be61-32bcbfb3211c))}}
@@ -77,4 +77,6 @@ slide:: ![ns07](../assets/ns07.pdf)
 				- $$P(i \leftrightarrow j) = \frac{A + k_j}{\sum_l (A + k_l)}$$
 		- Per $A = 0$ si torna al Barabasi-Albert
 		- Per ogni valore di $A$ si ottengono reti con distribuzione di grado heavy-tail
-		- Il pattern della distribuzione **cambia con** $A$, per cui è possibile fare match con distribuzioni di reti reali, a differenza del
+		- Il pattern della distribuzione **cambia con** $A$, per cui è possibile fare match con distribuzioni di reti reali, a differenza del modello BA
+		- ### Difetto del Fitness Model
+			-
