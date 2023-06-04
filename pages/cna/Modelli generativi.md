@@ -122,7 +122,7 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 				- A ring lattice with n=10 and k=4.
 		- Ogni link è ricollegato casualmente in base a una probabilità $p$:
 			- Se $p = 0$ nessun link viene ricollegato: nessun cambiamento
-			- Se $p$ è piccolo, vengono ricollegati pochi collegamenti:
+			- Per un range piccolo di valori di $p$ (vengono ricollegati pochi collegamenti):
 				- coefficiente di clustering resta approssimativamente lo stesso
 				- le distanze diminuiscono considerevolmente grazie a scorciatoie
 			- Se $p = 1$, tutti i link vengono ricollegati: la rete diventa una rete casuale
