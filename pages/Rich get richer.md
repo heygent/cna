@@ -65,3 +65,6 @@ slide:: ![ns07](../assets/ns07.pdf)
 	- ## Attractiveness model
 		- **Pitfall del preferential attachment**
 			- che succede se il nodo non ha vicini (grado zero)?
+			- non arriverà mai ad avere connessioni con altri nodi
+		- non è un problema per la condizione iniziale standard: il sottografo iniziale è completo, per cui ogni nodo ha grado non-zero
+		- Se la rete fosse diretta e
