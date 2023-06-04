@@ -150,6 +150,7 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 	- ✅ Distanze tra coppie di nodi brevi
 	- ❌ I nodi hanno approssimativamente lo stesso grado, non ci sono hub.
 		- ✅ Si può creare un mix con il configuration model e ottenere il *degree-corrected stochastic block model*
+	- Il ((647b04ce-8cd3-4492-9c42-2bbf4933731b)) è molto più basso rispetto a quello di reti con le stesse dimensioni e grado medio
 	- ✅ Crea una struttura di comunità
 	- ## Definizione
 	  id:: 647cd666-fcda-47e1-b5ef-05ba636654d5
