@@ -97,4 +97,6 @@ slide:: ![ns07](../assets/ns07.pdf)
 			- I nodi con fitness grande possono acquisire un grado alto anche se introdotti tardi nel sistema.
 		- ### Difetto
 			- Il modello BA non genera molti triangoli
-			- Per chiudere triangoli è necessario impostare un link tra due nodi vicini, mentre nel modello BA i link sono
+			- Per chiudere triangoli è necessario impostare un link tra due vicini di un nodo, mentre nel modello BA i link sono piazzati in base al grado, a prescindere di se i futuri vicini avranno vicini in comune
+			- Soluzione: introdurre un meccanismo per la chiusura triadica nel modello
+	-
