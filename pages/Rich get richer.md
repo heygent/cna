@@ -88,4 +88,8 @@ slide:: ![ns07](../assets/ns07.pdf)
 			- {{embed ((647d06a9-e3e7-4e47-be61-32bcbfb3211c))}}
 			- Proporzionale al prodotto del grado $k_j$ con una fitness $\eta_j$, che indica l'appeal intrinseco di $j$:
 				- $$P(i \leftrightarrow j) = \frac{\eta_j k_j}{\sum_l \eta_l  k_l}$$
-	- I valori di fitness sono estratti da una distribuzione $\rho(\eta)$ e assegnati a ogni nuovo nodo
+		- I valori di fitness sono estratti da una distribuzione $\rho(\eta)$ e assegnati a ogni nuovo nodo
+			- Il fitness è un **fattore** nella probabilità di link, non un addendo
+			- Il fitness è caratteristico di ogni nodo e non è costante
+		- ### Risultati
+			-
