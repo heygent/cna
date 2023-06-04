@@ -92,5 +92,6 @@ slide:: ![ns07](../assets/ns07.pdf)
 			- Il fitness è un **fattore** nella probabilità di link, non un addendo
 			- Il fitness è caratteristico di ogni nodo e non è costante
 		- ### Risultati
-			- Se la distribuzione $\rho(\eta)$ ha supporto finito, ovvero il fitness è distribuito su un range finito di valori, la distribuzione dei gradi della rete è heavy-tailed
-			- Se la distribuzione $\rho(\eta))$ ha supporto infinito, ovvero il fitness è distribuito su un range infinito di valori, il nodo con il fitness più grande attrae tutti il
+			- Se la distribuzione $\rho(\eta)$ ha supporto **finito**, ovvero il fitness è distribuito su un range finito di valori, la distribuzione dei gradi della rete è heavy-tailed
+			- Se la distribuzione $\rho(\eta))$ ha supporto **infinito**, ovvero il fitness è distribuito su un range infinito di valori, il nodo con il fitness più grande attrae tutti i link (**monopolio**)
+			- I nodi con fitness grande possono acquisire un grado alto
