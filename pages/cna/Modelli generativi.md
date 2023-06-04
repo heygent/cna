@@ -14,7 +14,7 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
   id:: 646e2aea-4f90-47a5-83c2-0827e9bb2db1
   icon:: A
 	- ✅ Distanza tra coppie di nodi è breve ( ((64633030-d7ea-434e-ada5-456426e9b83b)) )
-	- ❌ Coefficiente di clustering medio molto più basso rispetto a reti reali della stessa dimensione e grado medio
+	- ❌ ((647b04ce-8cd3-4492-9c42-2bbf4933731b)) medio molto più basso rispetto a reti reali della stessa dimensione e grado medio
 	- ❌ I nodi hanno approssimativamente lo stesso grado, non ci sono hub
 	- ❌ Non esiste struttura di comunità
 	- ## Definizione
@@ -64,7 +64,7 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 				- $d_\text{max} = 4.52$
 	- ## Coefficiente di Clustering
 	  id:: 647af7d1-43d5-40c2-b426-e2585c96c821
-		- Il coefficiente di clustering di un nodo $i$ può essere interpretato come la probabilità che due vicini di $i$ siano connessi:
+		- Il ((647b04ce-8cd3-4492-9c42-2bbf4933731b)) di un nodo $i$ può essere interpretato come la probabilità che due vicini di $i$ siano connessi:
 			- {{embed ((647af84d-79ee-4348-b2a6-e8911d7311c6))}}
 		- Qual'è la probabilità che i due vicini di un nodo siano connessi?
 			- Dato che i collegamenti sono piazzati indipendentemente l'uno dall'altro, è la probabilità $p$ che una coppia di nodi nel grafo sia connessa:
@@ -150,7 +150,7 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 	- ✅ Distanze tra coppie di nodi brevi
 	- ❌ I nodi hanno approssimativamente lo stesso grado, non ci sono hub.
 		- ✅ Si può creare un mix con il configuration model e ottenere il *degree-corrected stochastic block model*
-	- Il ((647b04ce-8cd3-4492-9c42-2bbf4933731b)) è molto più basso rispetto a quello di reti con le stesse dimensioni e grado medio
+	- ❌ Il ((647b04ce-8cd3-4492-9c42-2bbf4933731b)) è molto più basso rispetto a quello di reti con le stesse dimensioni e grado medio.
 	- ✅ Crea una struttura di comunità
 	- ## Definizione
 	  id:: 647cd666-fcda-47e1-b5ef-05ba636654d5
