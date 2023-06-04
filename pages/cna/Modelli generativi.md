@@ -206,4 +206,7 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 				- Il problema è che un attachment strettamente proporzionale sembra poco realistico
 	- ## Limiti del preferential attachment
 		- Dà un pattern fisso per le distribuzioni di grado: la curva è la stessa per qualunque scelta di parametri del modello. Le distribuzioni di grado nel mondo reale posso decadere più velocemente o lentamente.
-		-
+		- **Gli hub sono i nodi più vecchi**
+			- i nuovi nodi non possono oltrepassare il proprio grado.
+		- **Non crea molti triangoli**
+			- Il coefficiente di clustering medio è molto più basso rispetto
