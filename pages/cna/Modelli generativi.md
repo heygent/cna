@@ -141,4 +141,5 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 			- $$\mathbb{E}[\bar{k}] = k$$
 			- $$\text{Var}[\bar{k}] \approx \frac{k p(2 - p)}2$$
 			- ((647c99cd-88c7-4523-84d4-ecb4d8922d4a))
-				- La distribuzione dei gradi ha un picco dato che la maggior parte dei nodi ha lo stesso grado.
+				- La distribuzione dei gradi ha un picco dato che la maggior parte dei nodi ha lo stesso grado. **Non ci sono hub.**
+				- Il modello di Watts-Strogatz fallisce nel riprodurre le distribuzioni di grado ampie osservate in molte reti reali.
