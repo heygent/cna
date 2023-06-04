@@ -109,4 +109,7 @@ slide:: ![ns07](../assets/ns07.pdf)
 			- Dal secondo link in poi:
 				- Con probabilità $p$ il link viene impostato a un vicino di $j$, scelto casualmente
 				- Con probabilità $1 - p$ il link viene impostato a un nodo scelto casualmente
-		-
+		- ### Risultati
+			- La distribuzione dei gradi è heavy-tailed
+			- Il coefficiente di clustering medio è molto più alto in reti BA (più sono grandi, maggiore la probabilità $p$ di chiusura triadica)
+			- Quando la probabilità di chiusura triadica
