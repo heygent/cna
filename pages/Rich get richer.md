@@ -24,10 +24,12 @@ slide:: ![ns07](../assets/ns07.pdf)
 			- La nostra conoscenza di internet ha un bias verso le pagine popolari, che sono altamente connesse,  per cui è più probabile che il nostro sito punti a pagine che sono state molto linkate.
 			- Gli scienziati sono più familiari con paper molto citati (che sono spesso i più importanti), per cui tendono a citare più questi di altri
 	- ## Procedura
-		- Si inizia con un gruppo $m_0$ di nodi, solitamente completamente connessi (cricca)
-		  id:: 647cfbd6-8906-46b7-9986-891e3e7368dd
-		- A ogni passo si aggiunge un nodo $i$ al sistema, e vengono impostati $m$ link ad alcuni dei nodi più vecchi ($m \le m_0$)
-		  id:: 647cfbef-c315-437b-acbc-94a766e7ae70
+		- ### Fase iniziale
+		  id:: 647d06a9-e3e7-4e47-be61-32bcbfb3211c
+			- Si inizia con un gruppo $m_0$ di nodi, solitamente completamente connessi (cricca)
+			  id:: 647cfbd6-8906-46b7-9986-891e3e7368dd
+			- A ogni passo si aggiunge un nodo $i$ al sistema, e vengono impostati $m$ link ad alcuni dei nodi più vecchi ($m \le m_0$)
+			  id:: 647cfbef-c315-437b-acbc-94a766e7ae70
 		- La probabilità che il nuovo nodo $i$ scelga un nodo più vecchio $j$ come vicino è proporzionale al grado $k_j$ di $j$:
 			- $$P(i \leftrightarrow j) = \frac{k_j}{\sum_l k_l}$$
 		- La procedura termina quando si raggiungono $N$ nodi
@@ -39,8 +41,7 @@ slide:: ![ns07](../assets/ns07.pdf)
 		- Il modello di Barabasi-Albert usa un preferential attachment lineare: la probabilità di connessione è proporzionale al grado
 		- È possibile creare modelli con preferential attachment non lineare.
 		- ### Procedura
-			- {{embed ((647cfbd6-8906-46b7-9986-891e3e7368dd))}}
-			- {{embed ((647cfbef-c315-437b-acbc-94a766e7ae70))}}
+			- {{embed ((647d06a9-e3e7-4e47-be61-32bcbfb3211c))}}
 			- La probabilità che il nuovo nodo $i$ scelga un nodo più vecchio $j$ come vicino è proporzionale **a una potenza** $\alpha$ del grado $k_j$ di $j$:
 				- $$P(i \leftrightarrow j) = \frac{k_j^\alpha}{\sum_l k_l^\alpha}$$
 		- Al variare di $\alpha$:
@@ -70,4 +71,5 @@ slide:: ![ns07](../assets/ns07.pdf)
 			- male, dato che ogni nuovo nodo ha in-degree zero, per cui non verrebbe mai connesso ad altri nodi
 	- ## Attractiveness model
 		- ### Procedura
-			- I
+			- {{embed ((647d06a9-e3e7-4e47-be61-32bcbfb3211c))}}
+			-
