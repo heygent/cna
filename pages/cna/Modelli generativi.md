@@ -186,4 +186,6 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 		- È così che si vengono a formare gli hub.
 		- Questo fenomeno **dipende strattamente dal preferential attachment**: la sola crescita dei nodi iniziali più connessi non porta da sola alla formazione di hub.
 	- ## Non-linear preferential attachment
-		- Il modello di Barabasi-Albert usa un preferential attachment lineare: la probabilità di connessione
+		- Il modello di Barabasi-Albert usa un preferential attachment lineare: la probabilità di connessione è proporzionale al grado
+		- È possibile creare modelli con preferential attachment non lineare.
+		-
