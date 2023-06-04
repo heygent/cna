@@ -179,4 +179,6 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 		- Si inizia con un gruppo $m_0$ di nodi, solitamente completamente connessi (cricca)
 		- A ogni passo si aggiunge un nodo $i$ al sistema, e vengono impostati $m$ link ad alcuni dei nodi più vecchi ($m \le m_0$)
 		- La probabilità che il nuovo nodo $i$ scelga un nodo più vecchio $j$ come vicino è proporzionale al grado $k_j$ di $j$:
-			- $$\Pi (i \leftrightarrow j) = \frac{k_j}$$
+			- $$P(i \leftrightarrow j) = \frac{k_j}{\sum_l k_l}$$
+		- La procedura termina quando si raggiungono $N$ nodi
+	- ## Rich-
