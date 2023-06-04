@@ -74,7 +74,7 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
   id:: 6474d86d-605b-4e46-bb17-7dc0190990f8
 	- ✅ Le distanze tra coppie di nodi sono brevi ( ((64633030-d7ea-434e-ada5-456426e9b83b)) ), ereditato dal ((646e2aea-4f90-47a5-83c2-0827e9bb2db1))
 	- ✅ È possibile usare qualunque distribuzione di gradi
-	- ❌ Il coefficiente di clustering è molto più basso delle reti reali della stessa dimensione e grado medio
+	- ❌ Il ((647b04ce-8cd3-4492-9c42-2bbf4933731b)) è molto più basso delle reti reali della stessa dimensione e grado medio
 	- ❌ Non c'è struttura di comunità
 	- ## Definizione
 	  id:: 647b0223-70de-4a69-b566-83282359e171
@@ -104,7 +104,7 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
   id:: 647b01a1-62ad-4621-800e-5a4bc84eebba
 	- C'è un range di valori per la probabilità di riconfigurazione $p$ per cui:
 		- ✅ distanze tra nodi sono brevi ( ((64633030-d7ea-434e-ada5-456426e9b83b)) ) e
-		- ✅ coefficiente di clustering medio è alto
+		- ✅ ((647b04ce-8cd3-4492-9c42-2bbf4933731b)) medio è alto
 	- ❌ I nodi hanno approssimativamente lo stesso grado, non esistono hub
 	- ❌ Non c'è struttura di comunità
 	- ## Definizione
