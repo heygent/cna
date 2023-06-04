@@ -112,4 +112,5 @@ slide:: ![ns07](../assets/ns07.pdf)
 		- ### Risultati
 			- La distribuzione dei gradi è heavy-tailed
 			- Il coefficiente di clustering medio è molto più alto in reti BA (più sono grandi, maggiore la probabilità $p$ di chiusura triadica)
-			- Quando la probabilità di chiusura triadica
+			- Quando la probabilità di chiusura triadica $p$ è abbastanza grande da formare molti triangoli $(p - 1)$ la rete ha **struttura di comunità**
+				-
