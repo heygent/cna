@@ -78,8 +78,10 @@ slide:: ![ns07](../assets/ns07.pdf)
 		- Per $A = 0$ si torna al Barabasi-Albert
 		- Per ogni valore di $A$ si ottengono reti con distribuzione di grado heavy-tail
 		- Il pattern della distribuzione **cambia con** $A$, per cui è possibile fare match con distribuzioni di reti reali, a differenza del modello BA
-		- ### Difetto del Fitness Model
+		- ### Difetto dell'Attractiveness Model
 			- Gli hub sono i nodi più vecchi, il che è irrealistico.
 				- Nella rete, nuove pagine possono superare le vecchie (es. Google)
 				- Nella scienza, nuovi paper possono avere più successo di (molti) vecchi paper
-			-
+			- **Ragione**: ogni nodo ha il suo appeal individuale
+	- ## Fitness Model
+		-
