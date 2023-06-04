@@ -102,9 +102,7 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 			- ((647b0bde-4d0f-4f97-9ad4-ef60f9c15923))
 - # Modello di Watts-Strogatz
   id:: 647b01a1-62ad-4621-800e-5a4bc84eebba
-	- C'è un range di valori per la probabilità di riconfigurazione $p$ per cui:
-		- ✅ distanze tra nodi sono brevi ( ((64633030-d7ea-434e-ada5-456426e9b83b)) ) e
-		- ✅ ((647b04ce-8cd3-4492-9c42-2bbf4933731b)) medio è alto
+	- {{embed ((647c9707-eeaf-40ba-883a-8cb9372d3f8e))}}
 	- ❌ I nodi hanno approssimativamente lo stesso grado, non esistono hub
 	- ❌ Non c'è struttura di comunità
 	- ## Definizione
@@ -128,8 +126,9 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 			- In base al valore di $p$:
 				- Se $p = 0$ nessun link viene ricollegato: nessun cambiamento
 				- Per un range piccolo di valori di $p$ (vengono ricollegati pochi collegamenti):
-					- ((647b04ce-8cd3-4492-9c42-2bbf4933731b)) resta approssimativamente lo stesso
-					- le distanze diminuiscono considerevolmente grazie a scorciatoie ((64633030-d7ea-434e-ada5-456426e9b83b))
+				  id:: 647c9707-eeaf-40ba-883a-8cb9372d3f8e
+					- ✅  ((647b04ce-8cd3-4492-9c42-2bbf4933731b)) resta approssimativamente lo stesso
+					- ✅  le distanze diminuiscono considerevolmente grazie a scorciatoie ( ((64633030-d7ea-434e-ada5-456426e9b83b)) )
 				- Se $p = 1$, tutti i link vengono ricollegati: la rete diventa una rete casuale
 		- ## Distribuzione dei gradi
 		  id:: 647c3ae2-116d-411d-ac5c-5ace120cf885
