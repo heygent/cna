@@ -119,5 +119,8 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 				- Arrivare da un nodo a un altro può richiedere un grande numero di passi, che cresce rapidamente con la dimensione della rete
 			- ((647b10c5-48a7-4334-a47e-17866b9d61db))
 		- Alla base del modello c'è un lattice ad anello, formato da $N$ nodi e di grado $k$ pari
-		- ((647c3a24-8214-41bc-9830-856b45720509))
-			-
+			- !["Figure 5.1: A ring lattice with n=10 and k=4."](https://runestone.academy/ns/books/published/complex/_images/thinkcomplexity2007.png)
+				- A ring lattice with n=10 and k=4.
+		-
+			- ((647c3a24-8214-41bc-9830-856b45720509))
+				-
