@@ -124,7 +124,7 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 			- Se $p = 0$ nessun link viene ricollegato: nessun cambiamento
 			- Se $p$ è piccolo, vengono ricollegati pochi collegamenti:
 				- coefficiente di clustering resta approssimativamente lo stesso
-				-
+				- le distanze diminuiscono considerevolmente grazie a scorciatoie
 			-
 		- Il numero atteso di link ricollegati è $pL = pNk/2$
 		-
