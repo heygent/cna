@@ -197,4 +197,6 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 				- $$P(i \leftrightarrow j) = \frac{k_j^\alpha}{\sum_l k_l^\alpha}$$
 		- Al variare di $\alpha$:
 			- Se $\alpha = 1$ si ottiene il linear preferential attachment
-			- Se $\alpha < 1$, la probabilità dei link non cresce sufficientemente con il grado, per cui il vantaggio dei nodi con grado alto è minore. Per cui, **la distribuzione dei gradi non è
+			- Se $\alpha < 1$, la probabilità dei link non cresce sufficientemente con il grado, per cui il vantaggio dei nodi con grado alto è minore. Per cui, **la distribuzione dei gradi non è heavy-tail e gli hub spariscono**
+			- Se $\alpha > 1$, i nodi di grado elevato accumulano link molto più velocemente rispetto ai nodi di grado inferiore.
+				-
