@@ -16,50 +16,67 @@ slide:: ![ns07](../assets/ns07.pdf)
 - # Modello di Barabasi-Albert
 	- Le reti reali sono dinamiche e si evolvono nel tempo, in base alle circostanze.
 	- Procedura generale:
+	  collapsed:: true
 		- Arriva un nuovo nodo con un certo numero di ceppi di arco, che indicano il numero di futuri vicini del nodo (grado)
 		- Gli archi vengono connessi ad alcuni dei vecchi nodi, secondo qualche regola.
 	- ## Preferential attachment
+	  collapsed:: true
 		- I nodi preferiscono collegamenti a nodi più connessi
 		- Esempio:
+		  collapsed:: true
 			- La nostra conoscenza di internet ha un bias verso le pagine popolari, che sono altamente connesse,  per cui è più probabile che il nostro sito punti a pagine che sono state molto linkate.
 			- Gli scienziati sono più familiari con paper molto citati (che sono spesso i più importanti), per cui tendono a citare più questi di altri
 	- ## Procedura
+	  collapsed:: true
 		- ### Fase iniziale
 		  id:: 647d06a9-e3e7-4e47-be61-32bcbfb3211c
+		  collapsed:: true
 			- Si inizia con un gruppo $m_0$ di nodi, solitamente completamente connessi (cricca)
 			  id:: 647cfbd6-8906-46b7-9986-891e3e7368dd
 			- A ogni passo si aggiunge un nodo $i$ al sistema, e vengono impostati $m$ link ad alcuni dei nodi più vecchi ($m \le m_0$)
 			  id:: 647cfbef-c315-437b-acbc-94a766e7ae70
-		- La probabilità che il nuovo nodo $i$ scelga un nodo più vecchio $j$ come vicino è proporzionale al grado $k_j$ di $j$:
-			- $$P(i \leftrightarrow j) = \frac{k_j}{\sum_l k_l}$$
+		- **Probabilità che il nuovo nodo $i$ scelga un nodo più vecchio $j$ come vicino:**
+		- proporzionale al grado $k_j$ di $j$:
+		- $$P(i \leftrightarrow j) = \frac{k_j}{\sum_l k_l}$$
 		- La procedura termina quando si raggiungono $N$ nodi
 	- ## Rich-gets-richer
+	  collapsed:: true
 		- Dato il preferential attachment, i nodi più connessi hanno possibilità più alte di acquisire nuovi link, il che dà loro un vantaggio sempre più grande sugli altri nodi in futuro.
 		- È così che si vengono a formare gli hub.
 		- Questo fenomeno **dipende strattamente dal preferential attachment**: la sola crescita dei nodi iniziali più connessi non porta da sola alla formazione di hub.
 	- ## Non-linear preferential attachment
+	  collapsed:: true
 		- Il modello di Barabasi-Albert usa un preferential attachment lineare: la probabilità di connessione è proporzionale al grado
 		- È possibile creare modelli con preferential attachment non lineare.
 		- ### Procedura
+		  collapsed:: true
 			- {{embed ((647d06a9-e3e7-4e47-be61-32bcbfb3211c))}}
 			- La probabilità che il nuovo nodo $i$ scelga un nodo più vecchio $j$ come vicino è proporzionale **a una potenza** $\alpha$ del grado $k_j$ di $j$:
+			  collapsed:: true
 				- $$P(i \leftrightarrow j) = \frac{k_j^\alpha}{\sum_l k_l^\alpha}$$
 		- Al variare di $\alpha$:
+		  collapsed:: true
 			- Se $\alpha = 1$ si ottiene il linear preferential attachment
 			- Se $\alpha < 1$, la probabilità dei link non cresce sufficientemente con il grado, per cui il vantaggio dei nodi con grado alto è minore. Per cui, **la distribuzione dei gradi non è heavy-tail e gli hub spariscono**
 			- Se $\alpha > 1$, i nodi di grado elevato accumulano link molto più velocemente rispetto ai nodi di grado inferiore.
+			  collapsed:: true
 				- Uno dei nodi sarà connesso a una frazione di tutti gli altri nodi
 			- Per $\alpha > 2$ un singolo nodo potrebbe essere connesso a tutti gli altri nodi (**winner-takes-all effect**), con tutti gli altri nodi che restano di grado basso.
 			- #### Conclusione
+			  collapsed:: true
 				- Il preferential attachment non lineare fallisce nel generare hub. Il preferential attachment lineare è il migliore.
 				- Il problema è che un attachment strettamente proporzionale sembra poco realistico
 	- ## Limiti del preferential attachment
+	  collapsed:: true
 		- Dà un pattern fisso per le distribuzioni di grado: la curva è la stessa per qualunque scelta di parametri del modello. Le distribuzioni di grado nel mondo reale posso decadere più velocemente o lentamente.
 		- **Gli hub sono i nodi più vecchi**
+		  collapsed:: true
 			- i nuovi nodi non possono oltrepassare il proprio grado.
 		- **Non crea molti triangoli**
+		  collapsed:: true
 			- Il coefficiente di clustering medio è molto più basso rispetto a quello di molte reti reali.
 		- **I nodi e i link sono solo aggiunti**
+		  collapsed:: true
 			- Nelle reti reali questi possono anche essere eliminati
 		- Dato che ogni nodo è collegato a nodi più vecchi, **la rete consiste di una singola componente connessa.** Molte reti reali hanno componenti multiple.
 - # Estensioni del modello di Barabasi-Albert
