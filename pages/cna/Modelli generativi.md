@@ -146,4 +146,8 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 				- Il modello di Watts-Strogatz fallisce nel riprodurre le distribuzioni di grado ampie osservate in molte reti reali.
 	- ## Stochastic block model
 		- Si supponga di avere due comunità.
-			- Ogni nodo ha etichetta $l = 1$ o $l = 2$. Ogni arco è g
+			- Ogni nodo ha etichetta $l = 1$ o $l = 2$.
+			- Ogni arco è generato in modo casuale e indipendente con le seguenti probabilità:
+				- $$P(A_{ij} = 1) = \begin{cases}
+				  p_\text{in} & \text{}
+				  $$
