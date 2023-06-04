@@ -30,9 +30,9 @@ slide:: ![ns07](../assets/ns07.pdf)
 			  id:: 647cfbd6-8906-46b7-9986-891e3e7368dd
 			- A ogni passo si aggiunge un nodo $i$ al sistema, e vengono impostati $m$ link ad alcuni dei nodi più vecchi ($m \le m_0$)
 			  id:: 647cfbef-c315-437b-acbc-94a766e7ae70
-			- Probabilità che il nuovo nodo $i$ scelga un nodo più vecchio $j$ come vicino:
-		- proporzionale al grado $k_j$ di $j$:
-		- $$P(i \leftrightarrow j) = \frac{k_j}{\sum_l k_l}$$
+		- Probabilità che il nuovo nodo $i$ scelga un nodo più vecchio $j$ come vicino:
+			- proporzionale al grado $k_j$ di $j$:
+				- $$P(i \leftrightarrow j) = \frac{k_j}{\sum_l k_l}$$
 		- La procedura termina quando si raggiungono $N$ nodi
 	- ## Rich-gets-richer
 		- Dato il preferential attachment, i nodi più connessi hanno possibilità più alte di acquisire nuovi link, il che dà loro un vantaggio sempre più grande sugli altri nodi in futuro.
@@ -43,8 +43,9 @@ slide:: ![ns07](../assets/ns07.pdf)
 		- È possibile creare modelli con preferential attachment non lineare.
 		- ### Procedura
 			- {{embed ((647d06a9-e3e7-4e47-be61-32bcbfb3211c))}}
-			- Proporzionale **a una potenza** $\alpha$ del grado $k_j$ di $j$:
-				- $$P(i \leftrightarrow j) = \frac{k_j^\alpha}{\sum_l k_l^\alpha}$$
+			- Probabilità che il nuovo nodo $i$ scelga un nodo più vecchio $j$ come vicino:
+				- Proporzionale **a una potenza** $\alpha$ del grado $k_j$ di $j$:
+					- $$P(i \leftrightarrow j) = \frac{k_j^\alpha}{\sum_l k_l^\alpha}$$
 		- Al variare di $\alpha$:
 			- Se $\alpha = 1$ si ottiene il linear preferential attachment
 			- Se $\alpha < 1$, la probabilità dei link non cresce sufficientemente con il grado, per cui il vantaggio dei nodi con grado alto è minore. Per cui, **la distribuzione dei gradi non è heavy-tail e gli hub spariscono**
