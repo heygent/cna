@@ -168,4 +168,7 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 - # Modello di Barabasi-Albert
 	- Le reti reali sono dinamiche e si evolvono nel tempo, in base alle circostanze.
 	- Procedura generale:
-		- Arriva un nuovo nodo con un certo numero di ceppi di arco, che indicano il numero di futuri vicini del nodo ()
+		- Arriva un nuovo nodo con un certo numero di ceppi di arco, che indicano il numero di futuri vicini del nodo (grado)
+		- Gli archi vengono connessi ad alcuni dei vecchi nodi, secondo qualche regola.
+	- ## Preferential attachment
+		-
