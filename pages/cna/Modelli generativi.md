@@ -196,4 +196,5 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 			- La probabilità che il nuovo nodo $i$ scelga un nodo più vecchio $j$ come vicino è proporzionale **a una potenza** $\alpha$ del grado $k_j$ di $j$:
 				- $$P(i \leftrightarrow j) = \frac{k_j^\alpha}{\sum_l k_l^\alpha}$$
 		- Al variare di $\alpha$:
-			- Se $\alpha = 1$ si ottiene il linear prefer
+			- Se $\alpha = 1$ si ottiene il linear preferential attachment
+			- Se $\alpha < 1$, la probabilità dei link non cresce sufficientemente con il grado, per cui il vantaggio dei nodi con grado alto è minore. Per cui, **la distribuzione dei gradi non è
