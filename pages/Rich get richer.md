@@ -61,4 +61,7 @@ slide:: ![ns07](../assets/ns07.pdf)
 		- **I nodi e i link sono solo aggiunti**
 			- Nelle reti reali questi possono anche essere eliminati
 		- Dato che ogni nodo è collegato a nodi più vecchi, **la rete consiste di una singola componente connessa.** Molte reti reali hanno componenti multiple.
--
+- # Estensioni del modello di Barabasi-Albert
+	- ## Attractiveness model
+		- **Pitfall del preferential attachment**
+			- che succede se il nodo non ha vicini (grado zero)?
