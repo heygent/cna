@@ -136,6 +136,6 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 				- $$\bar{k} = k - k_\text{out} + k_\text{in}$$
 				- \begin{aligned}
 				  k_\text{out} &\sim \text{Bin}\left(\frac{k}2, p \right) \\
-				  k_\text{in} &\sim \text{Bin}\left(\frac{(n-1)k}2, p \right) \\
+				  k_\text{in} &\sim \text{Bin}\left(\frac{(n-1)k}2, \frac{p}{n-1} \right) \\
 				  \end{aligned}
 				-
