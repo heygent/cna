@@ -10,7 +10,7 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 		- ((64691261-efab-4f42-861d-9f03d240e6c5))
 		- ((64691261-052f-498d-9deb-d401acccc910))
 		- Eterogeneità
-- # Modello di Erdos-Renyi
+- # Modello di Erdos-Renyi #card
   id:: 646e2aea-4f90-47a5-83c2-0827e9bb2db1
 	- ✅ Distanza tra coppie di nodi è breve ( ((64633030-d7ea-434e-ada5-456426e9b83b)) )
 	- ❌ Coefficiente di clustering medio molto più basso rispetto a reti reali della stessa dimensione e grado medio
