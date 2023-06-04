@@ -209,4 +209,7 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 		- **Gli hub sono i nodi più vecchi**
 			- i nuovi nodi non possono oltrepassare il proprio grado.
 		- **Non crea molti triangoli**
-			- Il coefficiente di clustering medio è molto più basso rispetto
+			- Il coefficiente di clustering medio è molto più basso rispetto a quello di molte reti reali.
+		- **I nodi e i link sono solo aggiunti**
+			- Nelle reti reali questi possono anche essere eliminati
+		- Dato che ogni nodo è collegato a nodi più vecchi, **la rete consiste di un singolo componente conness
