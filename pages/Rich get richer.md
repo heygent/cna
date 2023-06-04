@@ -73,4 +73,5 @@ slide:: ![ns07](../assets/ns07.pdf)
 	- ## Attractiveness model
 		- ### Procedura
 			- {{embed ((647d06a9-e3e7-4e47-be61-32bcbfb3211c))}}
-			-
+			- Proporzionale alla somma del grado $k_j$ di $j$ e di una attrattività $A$, che indica un appeal intrinseco:
+				-
