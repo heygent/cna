@@ -84,6 +84,8 @@ slide:: ![ns07](../assets/ns07.pdf)
 				- Nella scienza, nuovi paper possono avere più successo di (molti) vecchi paper
 			- **Ragione**: ogni nodo ha il suo appeal individuale
 	- ## Fitness Model
+		- ### Procedura
 		- {{embed ((647d06a9-e3e7-4e47-be61-32bcbfb3211c))}}
 		- Proporzionale al prodotto del grado $k_j$ con una fitness $\eta_j$, che indica l'appeal intrinseco di $j$:
 			- $$P(i \leftrightarrow j) = \frac{\eta_j k_j}{\sum_l \eta_l  k_l}$$
+			-
