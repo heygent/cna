@@ -12,3 +12,4 @@ slide:: ![ns07](../assets/ns07.pdf)
 - # Power laws
 	- La frazione di pagine web che hanno $k$ in-link è:
 		- $f(k) \approx \frac1{k^c} = k^{-c}$
+		-
