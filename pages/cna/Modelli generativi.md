@@ -200,5 +200,6 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 			- Se $\alpha < 1$, la probabilità dei link non cresce sufficientemente con il grado, per cui il vantaggio dei nodi con grado alto è minore. Per cui, **la distribuzione dei gradi non è heavy-tail e gli hub spariscono**
 			- Se $\alpha > 1$, i nodi di grado elevato accumulano link molto più velocemente rispetto ai nodi di grado inferiore.
 				- Uno dei nodi sarà connesso a una frazione di tutti gli altri nodi
-			- Per $\alpha > 2$ un singolo nodo potrebbe essere connesso a tutti gli altri nodi (**winner-takes-all effect**).
-			-
+			- Per $\alpha > 2$ un singolo nodo potrebbe essere connesso a tutti gli altri nodi (**winner-takes-all effect**), con tutti gli altri nodi che restano di grado basso.
+			- #### Conclusione
+				- Il preferential attachment non lineare fallisce nel generare hub. Il
