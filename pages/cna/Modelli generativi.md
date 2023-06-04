@@ -117,15 +117,17 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 				- La maggior parte dei nodi sono interni, per cui il coefficiente di clustering  medio della rete è vicino a 0.4
 			- ❌ Lunghezza media dei cammini più brevi lunga
 				- Arrivare da un nodo a un altro può richiedere un grande numero di passi, che cresce rapidamente con la dimensione della rete
-		- Alla base del modello c'è un lattice ad anello, formato da $N$ nodi e di grado $k$ pari
+		- Alla base del modello c'è un lattice ad anello, formato da $N$ nodi e di grado $k$ pari.
+			- Ogni link è ricollegato casualmente in base a una probabilità $p$.
+			- Il numero atteso di link ricollegati è $pL = pNk/2$
 			- !["Figure 5.1: A ring lattice with n=10 and k=4."](https://runestone.academy/ns/books/published/complex/_images/thinkcomplexity2007.png)
 				- A ring lattice with n=10 and k=4.
-		-
-		- Ogni link è ricollegato casualmente in base a una probabilità $p$:
-			- Se $p = 0$ nessun link viene ricollegato: nessun cambiamento
-			- Per un range piccolo di valori di $p$ (vengono ricollegati pochi collegamenti):
-				- coefficiente di clustering resta approssimativamente lo stesso
-				- le distanze diminuiscono considerevolmente grazie a scorciatoie
-			- Se $p = 1$, tutti i link vengono ricollegati: la rete diventa una rete casuale
-		- Il numero atteso di link ricollegati è $pL = pNk/2$
+		- ## Coefficiente di clustering e diametro
+		  id:: 647c9827-815b-4e96-a802-90f2ccfb5c2d
+			- In base al valore di $p$:
+				- Se $p = 0$ nessun link viene ricollegato: nessun cambiamento
+				- Per un range piccolo di valori di $p$ (vengono ricollegati pochi collegamenti):
+					- coefficiente di clustering resta approssimativamente lo stesso
+					- le distanze diminuiscono considerevolmente grazie a scorciatoie
+				- Se $p = 1$, tutti i link vengono ricollegati: la rete diventa una rete casuale
 		-

@@ -79,6 +79,7 @@ alias:: Contents
 		- ((647b01a1-62ad-4621-800e-5a4bc84eebba))
 			- definition
 			- clustering coefficient and diameter
+			- ((647c9827-815b-4e96-a802-90f2ccfb5c2d))
 			- degree distribution
 		- stochastic block model
 			- definition
