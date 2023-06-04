@@ -108,6 +108,7 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 	- ❌ I nodi hanno approssimativamente lo stesso grado, non esistono hub
 	- ❌ Non c'è struttura di comunità
 	- ## Definizione
+	  id:: 647b0f9f-5bfb-490e-bae9-4ba93b52bfa3
 		- La casualità porta a diametri piccoli e coefficienti di clustering bassi
 		- **Soluzione**: interpolare tra un lattice regolare (clustering alto) e rete casuale (small world property)
 		- Un lattice ha:
@@ -130,4 +131,7 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 					- coefficiente di clustering resta approssimativamente lo stesso
 					- le distanze diminuiscono considerevolmente grazie a scorciatoie
 				- Se $p = 1$, tutti i link vengono ricollegati: la rete diventa una rete casuale
-		-
+		- ## Distribuzione dei gradi
+			- Dopo il reshuffling:
+				- $$\bar{k} = k - k_{\text}$$
+				-
