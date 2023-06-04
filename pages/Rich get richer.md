@@ -106,4 +106,7 @@ slide:: ![ns07](../assets/ns07.pdf)
 		- ### Procedura
 			- {{embed ((647d06a9-e3e7-4e47-be61-32bcbfb3211c))}}
 			- Il primo link usa come target un nodo $j$ scelto casualmente
-			- Dal secondo link in poi
+			- Dal secondo link in poi:
+				- Con probabilità $p$ il link viene impostato a un vicino di $j$, scelto casualmente
+				- Con probabilità $1 - p$ il link viene impostato a un nodo scelto casualmente
+		-
