@@ -34,3 +34,10 @@ file-path:: ../assets/ns06.pdf
   id:: 647c3a24-8214-41bc-9830-856b45720509
   hl-type:: area
   hl-stamp:: 1685862946320
+- [:span]
+  ls-type:: annotation
+  hl-page:: 37
+  hl-color:: yellow
+  id:: 647c99cd-88c7-4523-84d4-ecb4d8922d4a
+  hl-type:: area
+  hl-stamp:: 1685887436034
