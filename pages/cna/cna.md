@@ -79,7 +79,7 @@ alias:: Contents
 		- ((647b01a1-62ad-4621-800e-5a4bc84eebba))
 			- ((647b0f9f-5bfb-490e-bae9-4ba93b52bfa3))
 			- ((647c9827-815b-4e96-a802-90f2ccfb5c2d))
-			- degree distribution
+			- ((647c3ae2-116d-411d-ac5c-5ace120cf885))
 		- stochastic block model
 			- definition
 			- relation to the Erdos-Renyi model
