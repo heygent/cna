@@ -74,8 +74,9 @@ slide:: ![ns07](../assets/ns07.pdf)
 	- ## Attractiveness model
 		- ### Procedura
 			- {{embed ((647d06a9-e3e7-4e47-be61-32bcbfb3211c))}}
-			- Proporzionale alla somma del grado $k_j$ di $j$ e di una attrattività $A$, che indica un appeal intrinseco:
-				- $$P(i \leftrightarrow j) = \frac{A + k_j}{\sum_l (A + k_l)}$$
+			- Probabilità che il nuovo nodo $i$ scelga un nodo più vecchio $j$ come vicino:
+				- Proporzionale alla somma del grado $k_j$ di $j$ e di una attrattività $A$, che indica un appeal intrinseco:
+					- $$P(i \leftrightarrow j) = \frac{A + k_j}{\sum_l (A + k_l)}$$
 		- Per $A = 0$ si torna al Barabasi-Albert
 		- Per ogni valore di $A$ si ottengono reti con distribuzione di grado heavy-tail
 		- Il pattern della distribuzione **cambia con** $A$, per cui è possibile fare match con distribuzioni di reti reali, a differenza del modello BA
@@ -87,8 +88,9 @@ slide:: ![ns07](../assets/ns07.pdf)
 	- ## Fitness Model
 		- ### Procedura
 			- {{embed ((647d06a9-e3e7-4e47-be61-32bcbfb3211c))}}
-			- Proporzionale al prodotto del grado $k_j$ con una fitness $\eta_j$, che indica l'appeal intrinseco di $j$:
-				- $$P(i \leftrightarrow j) = \frac{\eta_j k_j}{\sum_l \eta_l  k_l}$$
+			- Probabilità che il nuovo nodo $i$ scelga un nodo più vecchio $j$ come vicino:
+				- Proporzionale al prodotto del grado $k_j$ con una fitness $\eta_j$, che indica l'appeal intrinseco di $j$:
+					- $$P(i \leftrightarrow j) = \frac{\eta_j k_j}{\sum_l \eta_l  k_l}$$
 		- I valori di fitness sono estratti da una distribuzione $\rho(\eta)$ e assegnati a ogni nuovo nodo
 			- Il fitness è un **fattore** nella probabilità di link, non un addendo
 			- Il fitness è caratteristico di ogni nodo e non è costante
@@ -102,5 +104,4 @@ slide:: ![ns07](../assets/ns07.pdf)
 			- Soluzione: introdurre un meccanismo per la chiusura triadica nel modello
 	- ## Random walk model
 		- ### Procedura
-			- Si inizia con un gruppo $m_0$ di nodi, solitamente completamente connessi (cricca)
-			- A ogni n
+			- ((647d06a9-e3e7-4e47-be61-32bcbfb3211c))
