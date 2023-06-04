@@ -67,4 +67,6 @@ slide:: ![ns07](../assets/ns07.pdf)
 			- che succede se il nodo non ha vicini (grado zero)?
 			- non arriverà mai ad avere connessioni con altri nodi
 		- non è un problema per la condizione iniziale standard: il sottografo iniziale è completo, per cui ogni nodo ha grado non-zero
-		- Se la rete fosse diretta e
+		- Se la rete fosse diretta e la probabilità di link fosse proporzionale all'in-degree?
+			- male, dato che ogni nuovo nodo ha in-degree zero, per cui non verrebbe mai connesso ad altri nodi
+	-
