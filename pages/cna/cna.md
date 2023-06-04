@@ -80,8 +80,8 @@ alias:: Contents
 			- ((647b0f9f-5bfb-490e-bae9-4ba93b52bfa3))
 			- ((647c9827-815b-4e96-a802-90f2ccfb5c2d))
 			- ((647c3ae2-116d-411d-ac5c-5ace120cf885))
-		- stochastic block model
-			- definition
+		- ((647cd305-bbf7-4ec6-912c-8e2d2e9203f8))
+			- ((647cd666-fcda-47e1-b5ef-05ba636654d5))
 			- relation to the Erdos-Renyi model
 	- # [[Rich get richer]]
 	  date:: [[2023-03-20]]

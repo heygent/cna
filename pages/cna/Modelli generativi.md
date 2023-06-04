@@ -145,12 +145,14 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 				- La distribuzione dei gradi ha un picco dato che la maggior parte dei nodi ha lo stesso grado. **Non ci sono hub.**
 				- Il modello di Watts-Strogatz fallisce nel riprodurre le distribuzioni di grado ampie osservate in molte reti reali.
 - # Stochastic block model
+  id:: 647cd305-bbf7-4ec6-912c-8e2d2e9203f8
 	- Eredita la maggior parte delle sue proprietà dal modello di Erdos-Renyi
 	- ✅ Distanze tra coppie di nodi brevi
 	- ❌ I nodi hanno approssimativamente lo stesso grado, non ci sono hub.
 		- ✅ Si può creare un mix con il configuration model e ottenere il *degree-corrected stochastic block model*
 	- ✅ Crea una struttura di comunità
 	- ## Definizione
+	  id:: 647cd666-fcda-47e1-b5ef-05ba636654d5
 		- Molte reti hanno una struttura di comunità: ci sono gruppi di nodi più strettamente connessi tra di loro che con gli altri.
 		- Come generare una rete con comunità?
 			- Si supponga di avere due comunità.
