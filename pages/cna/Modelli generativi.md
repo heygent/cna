@@ -120,6 +120,7 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 		- Alla base del modello c'è un lattice ad anello, formato da $N$ nodi e di grado $k$ pari
 			- !["Figure 5.1: A ring lattice with n=10 and k=4."](https://runestone.academy/ns/books/published/complex/_images/thinkcomplexity2007.png)
 				- A ring lattice with n=10 and k=4.
+		-
 		- Ogni link è ricollegato casualmente in base a una probabilità $p$:
 			- Se $p = 0$ nessun link viene ricollegato: nessun cambiamento
 			- Per un range piccolo di valori di $p$ (vengono ricollegati pochi collegamenti):
