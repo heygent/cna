@@ -52,8 +52,10 @@ slide:: ![ns05](../assets/ns05.pdf)
 	  id:: 64691261-052f-498d-9deb-d401acccc910
 		- ![image.png](../assets/image_1662974968197_0.png)
 		- **heterogeneity**
+		  id:: 64691261-099a-48a0-8e18-6c69cbbc6205
 			- parametro che indica l'ampiezza della distribuzione
-			- $$\mathcal{k} = \frac{\lang k^2 \rang}{\lang k \rang^2}$$
+			- id:: 64691261-1e0f-41cb-997a-d6770c171459
+			  $$\mathcal{k} = \frac{\lang k^2 \rang}{\lang k \rang^2}$$
 			- {{embed ((631eee28-2fed-4f1c-a38b-9e0156115091))}}
 			- $$\lang k^2 \rang = \frac{\sum_i k_i^2}{N}$$
 			- se la maggior parte dei gradi hanno lo stesso valore, ad esempio $k_0$:
