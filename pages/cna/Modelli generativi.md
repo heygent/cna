@@ -193,4 +193,5 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 		- ### Procedura
 			- {{embed ((647cfbd6-8906-46b7-9986-891e3e7368dd))}}
 			- {{embed ((647cfbef-c315-437b-acbc-94a766e7ae70))}}
-			- La probabilità che il nuovo nodo $i$ scelga un nodo più vecchio $j$ come vicino è proporzionale **a una potenza $\alphaal grado $k_j$ di $j$:
+			- La probabilità che il nuovo nodo $i$ scelga un nodo più vecchio $j$ come vicino è proporzionale **a una potenza** $\alpha$ del grado $k_j$ di $j$:
+				- $$P(i \leftrightarrow j) = \frac{k_j^\alpha}{\sum_l k_l^\alpha}$$
