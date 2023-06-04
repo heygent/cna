@@ -171,4 +171,6 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 		- Arriva un nuovo nodo con un certo numero di ceppi di arco, che indicano il numero di futuri vicini del nodo (grado)
 		- Gli archi vengono connessi ad alcuni dei vecchi nodi, secondo qualche regola.
 	- ## Preferential attachment
-		-
+		- I nodi preferiscono collegamenti a nodi più connessi
+		- Esempio:
+			- La nostra conoscenza di internet ha un bias verso le pagine popolari, che sono altamente connesse,  per cui è più probabile che il nostro sito punti a pagine che sono state molto
