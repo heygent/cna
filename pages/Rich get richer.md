@@ -76,4 +76,5 @@ slide:: ![ns07](../assets/ns07.pdf)
 			- Proporzionale alla somma del grado $k_j$ di $j$ e di una attrattività $A$, che indica un appeal intrinseco:
 				- $$P(i \leftrightarrow j) = \frac{A + k_j}{\sum_l (A + k_l)}$$
 		- Per $A = 0$ si torna al Barabasi-Albert
-		- Per ogni
+		- Per ogni valore di $A$ si ottengono reti con distribuzione di grado heavy-tail
+		- Il pattern della distribuzione **cambia con** $A$, per cui è possibile fare match con distribuzioni di reti reali, a differenza del
