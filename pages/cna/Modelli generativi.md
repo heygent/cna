@@ -133,5 +133,6 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 				- Se $p = 1$, tutti i link vengono ricollegati: la rete diventa una rete casuale
 		- ## Distribuzione dei gradi
 			- Dopo il reshuffling:
-				- $$\bar{k} = k - k_{\text}$$
+				- $$\bar{k} = k - k_\text{out} + k_\text{in}$$
+				- $$k_\text{out} \sim \text{Bin}\left(\frac{k}2$$
 				-
