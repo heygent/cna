@@ -74,23 +74,23 @@ slide:: ![ns07](../assets/ns07.pdf)
 		- non è un problema per la condizione iniziale standard: il sottografo iniziale è completo, per cui ogni nodo ha grado non-zero
 		- Se la rete fosse diretta e la probabilità di link fosse proporzionale all'in-degree?
 			- male, dato che ogni nuovo nodo ha in-degree zero, per cui non verrebbe mai connesso ad altri nodi
-- # Estensioni del modello di Barabasi-Albert
-	- ## Attractiveness model
-	  id:: 647d0650-7584-48e2-aa73-2d718f44621e
-		- ### Procedura
-			- {{embed ((647d06a9-e3e7-4e47-be61-32bcbfb3211c))}}
-			- Probabilità che il nuovo nodo $i$ scelga un nodo più vecchio $j$ come vicino:
-				- Proporzionale alla somma del grado $k_j$ di $j$ e di una attrattività $A$, che indica un appeal intrinseco:
-					- $$P(i \leftrightarrow j) = \frac{A + k_j}{\sum_l (A + k_l)}$$
-		- Per $A = 0$ si torna al Barabasi-Albert
-		- Per ogni valore di $A$ si ottengono reti con distribuzione di grado heavy-tail
-		- Il pattern della distribuzione **cambia con** $A$, per cui è possibile fare match con distribuzioni di reti reali, a differenza del modello BA
-		- ### Difetto dell'Attractiveness Model
-			- Gli hub sono i nodi più vecchi, il che è irrealistico.
-				- Nella rete, nuove pagine possono superare le vecchie (es. Google)
-				- Nella scienza, nuovi paper possono avere più successo di (molti) vecchi paper
-			- **Ragione**: ogni nodo ha il suo appeal individuale
+- # Attractiveness model
+  id:: 647d0650-7584-48e2-aa73-2d718f44621e
+	- ### Procedura
+		- {{embed ((647d06a9-e3e7-4e47-be61-32bcbfb3211c))}}
+		- Probabilità che il nuovo nodo $i$ scelga un nodo più vecchio $j$ come vicino:
+			- Proporzionale alla somma del grado $k_j$ di $j$ e di una attrattività $A$, che indica un appeal intrinseco:
+				- $$P(i \leftrightarrow j) = \frac{A + k_j}{\sum_l (A + k_l)}$$
+	- Per $A = 0$ si torna al Barabasi-Albert
+	- Per ogni valore di $A$ si ottengono reti con distribuzione di grado heavy-tail
+	- Il pattern della distribuzione **cambia con** $A$, per cui è possibile fare match con distribuzioni di reti reali, a differenza del modello BA
+	- ### Difetto dell'Attractiveness Model
+		- Gli hub sono i nodi più vecchi, il che è irrealistico.
+			- Nella rete, nuove pagine possono superare le vecchie (es. Google)
+			- Nella scienza, nuovi paper possono avere più successo di (molti) vecchi paper
+		- **Ragione**: ogni nodo ha il suo appeal individuale
 	- ## Fitness Model
+	  id:: 647d0895-5ac7-4b3a-91a6-77245a1205c8
 		- ### Procedura
 			- {{embed ((647d06a9-e3e7-4e47-be61-32bcbfb3211c))}}
 			- Probabilità che il nuovo nodo $i$ scelga un nodo più vecchio $j$ come vicino:
@@ -107,24 +107,24 @@ slide:: ![ns07](../assets/ns07.pdf)
 			- Il modello BA non genera molti triangoli
 			- Per chiudere triangoli è necessario impostare un link tra due vicini di un nodo, mentre nel modello BA i link sono piazzati in base al grado, a prescindere di se i futuri vicini avranno vicini in comune
 			- Soluzione: introdurre un meccanismo per la chiusura triadica nel modello
-	- ## Random walk model
-		- ### Procedura
-			- {{embed ((647d06a9-e3e7-4e47-be61-32bcbfb3211c))}}
-			- Il primo link usa come target un nodo $j$ scelto casualmente
-			- Dal secondo link in poi:
-				- Con probabilità $p$ il link viene impostato a un vicino di $j$, scelto casualmente
-				- Con probabilità $1 - p$ il link viene impostato a un nodo scelto casualmente
-		- ### Risultati
-			- La distribuzione dei gradi è heavy-tailed
-			- Il coefficiente di clustering medio è molto più alto in reti BA (più sono grandi, maggiore la probabilità $p$ di chiusura triadica)
-			- Quando la probabilità di chiusura triadica $p$ è abbastanza grande da formare molti triangoli $(p - 1)$ la rete ha **struttura di comunità**
-				- composta da gruppi coesi di nodi, vagamenti connessi tra di loro
-		- ### Conclusioni
-			- Se i link sono messi casualmente come sembra, come fa il modello a generare hub?
-				- Scegliere un nodo casuale e un vicino casuale equivale a scegliere un link casuale
-				- La probabilità che gli estremi di un link scelto a caso abbiano un certo grado è **proporzionale al grado**.
-			- Il meccanismo di chiusura triadica del modello random walk induce effettivamente il preferential attchment.
-			- Il preferential attachment può essere indotto da semplici meccanismi basati su scelte casuali. Non è necessario richiedere il grado del nodo, né una stretta espressione della probabilità del link
+- # Random walk model
+	- ### Procedura
+		- {{embed ((647d06a9-e3e7-4e47-be61-32bcbfb3211c))}}
+		- Il primo link usa come target un nodo $j$ scelto casualmente
+		- Dal secondo link in poi:
+			- Con probabilità $p$ il link viene impostato a un vicino di $j$, scelto casualmente
+			- Con probabilità $1 - p$ il link viene impostato a un nodo scelto casualmente
+	- ### Risultati
+		- La distribuzione dei gradi è heavy-tailed
+		- Il coefficiente di clustering medio è molto più alto in reti BA (più sono grandi, maggiore la probabilità $p$ di chiusura triadica)
+		- Quando la probabilità di chiusura triadica $p$ è abbastanza grande da formare molti triangoli $(p - 1)$ la rete ha **struttura di comunità**
+			- composta da gruppi coesi di nodi, vagamenti connessi tra di loro
+	- ### Conclusioni
+		- Se i link sono messi casualmente come sembra, come fa il modello a generare hub?
+			- Scegliere un nodo casuale e un vicino casuale equivale a scegliere un link casuale
+			- La probabilità che gli estremi di un link scelto a caso abbiano un certo grado è **proporzionale al grado**.
+		- Il meccanismo di chiusura triadica del modello random walk induce effettivamente il preferential attchment.
+		- Il preferential attachment può essere indotto da semplici meccanismi basati su scelte casuali. Non è necessario richiedere il grado del nodo, né una stretta espressione della probabilità del link
 - # Rank model
 	- ## Difetto del preferential attachment
 		- Il modello BA implica che i nodi abbiano una percezione di quanto siano importanti gli altri nodi, ovvero di quanto sia grande il loro grado

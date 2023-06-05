@@ -98,7 +98,7 @@ alias:: Contents
 		- notions of the generalizations of the preferential attachment
 			- non-linear PA
 			- ((647d0650-7584-48e2-aa73-2d718f44621e))
-			- fitness model
+			- ((647d0895-5ac7-4b3a-91a6-77245a1205c8))
 			- random walk model
 			- rank model
 		- rich get richer paradigm in real-world settings.
