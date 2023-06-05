@@ -21,11 +21,13 @@ slide:: ![ns07](../assets/ns07.pdf)
 		- La nostra conoscenza di internet ha un bias verso le pagine popolari, che sono altamente connesse,  per cui è più probabile che il nostro sito punti a pagine che sono state molto linkate.
 		- Gli scienziati sono più familiari con paper molto citati (che sono spesso i più importanti), per cui tendono a citare più questi di altri
 - # Modello di Barabasi-Albert
+  id:: 647cd5f7-a502-4356-b841-b2ddd48fbf93
 	- Le reti reali sono dinamiche e si evolvono nel tempo, in base alle circostanze.
 	- Procedura generale:
 		- Arriva un nuovo nodo con un certo numero di ceppi di arco, che indicano il numero di futuri vicini del nodo (grado)
 		- Gli archi vengono connessi ad alcuni dei vecchi nodi, secondo qualche regola.
 	- ## Procedura
+	  id:: 647cfb3a-fa0e-4240-b2c9-607bd7b9a41d
 		- ### Fase iniziale
 		  id:: 647d06a9-e3e7-4e47-be61-32bcbfb3211c
 			- Si inizia con un gruppo $m_0$ di nodi, solitamente completamente connessi (cricca)
@@ -74,6 +76,7 @@ slide:: ![ns07](../assets/ns07.pdf)
 			- male, dato che ogni nuovo nodo ha in-degree zero, per cui non verrebbe mai connesso ad altri nodi
 - # Estensioni del modello di Barabasi-Albert
 	- ## Attractiveness model
+	  id:: 647d0650-7584-48e2-aa73-2d718f44621e
 		- ### Procedura
 			- {{embed ((647d06a9-e3e7-4e47-be61-32bcbfb3211c))}}
 			- Probabilità che il nuovo nodo $i$ scelga un nodo più vecchio $j$ come vicino:

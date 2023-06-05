@@ -91,13 +91,13 @@ alias:: Contents
 	  date:: [[2023-03-20]]
 		- the emergence of power law in real-world networks
 		- ((647cfa91-3c31-4b4b-ba93-3c9ebf8b81b4))
-		- Barabasi-Albert model
-			- definition
+		- ((647cd5f7-a502-4356-b841-b2ddd48fbf93))
+			- ((647cfb3a-fa0e-4240-b2c9-607bd7b9a41d))
 			- degree distribution with proof
 			- clustering coefficient and diameter
 		- notions of the generalizations of the preferential attachment
 			- non-linear PA
-			- attractivness model
+			- ((647d0650-7584-48e2-aa73-2d718f44621e))
 			- fitness model
 			- random walk model
 			- rank model
