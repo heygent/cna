@@ -158,4 +158,6 @@ slide:: ![ns07](../assets/ns07.pdf)
 				- Come funzione $j$ quanti elementi hanno popolarità almeno $k$?
 			- Concentrarsi sulla "coda lunga"
 				- Quando si muovono volumi di vendite di molti prodotti di nicchia, è necessario comparare se ci sia significativamente più area sotto la parte sinistra della curva (hits) o la destra (prodotti di nicchia)
-		- La legge di Zipf si riferisce alla dimensione $k$ come all'occorrenza id
+		- La legge di Zipf si riferisce alla dimensione $k$ come all'occorrenza di un evento relativamente al suo rango $j$
+			- Dice che la dimensione della $j$-esima occorrenza più grande dell'evento è inversamente proporzionale al suo rango
+			- $k \approx j^{-b}$
