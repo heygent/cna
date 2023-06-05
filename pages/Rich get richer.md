@@ -123,5 +123,8 @@ slide:: ![ns07](../assets/ns07.pdf)
 - # Rank model
 	- ## Difetto del preferential attachment
 		- Il modello BA implica che i nodi abbiano una percezione di quanto siano importanti gli altri nodi, ovvero di quanto sia grande il loro grado
-		- **Obiezione**:
+		- **Obiezione**: nel mondo reale non c'è una percezione simile del valore assoluto delle cose: è molto più semplice percepire un valore relativo
+		- Soluzione: Rankning
+	- ## Procedura
+		- I nodi ricevono un rank ba
 	-
