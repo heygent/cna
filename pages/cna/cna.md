@@ -99,8 +99,8 @@ alias:: Contents
 			- non-linear PA
 			- ((647d0650-7584-48e2-aa73-2d718f44621e))
 			- ((647d0895-5ac7-4b3a-91a6-77245a1205c8))
-			- random walk model
-			- rank model
+			- ((647d0cef-047f-48db-b506-eab886c638fa))
+			- ((647d8d62-cac1-4382-a7d0-49d31be1ce24))
 		- rich get richer paradigm in real-world settings.
 	- # [[Epidemics]]
 		- ## Part 1

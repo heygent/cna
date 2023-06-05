@@ -108,6 +108,7 @@ slide:: ![ns07](../assets/ns07.pdf)
 			- Per chiudere triangoli è necessario impostare un link tra due vicini di un nodo, mentre nel modello BA i link sono piazzati in base al grado, a prescindere di se i futuri vicini avranno vicini in comune
 			- Soluzione: introdurre un meccanismo per la chiusura triadica nel modello
 - # Random walk model
+  id:: 647d0cef-047f-48db-b506-eab886c638fa
 	- ### Procedura
 		- {{embed ((647d06a9-e3e7-4e47-be61-32bcbfb3211c))}}
 		- Il primo link usa come target un nodo $j$ scelto casualmente
@@ -126,6 +127,7 @@ slide:: ![ns07](../assets/ns07.pdf)
 		- Il meccanismo di chiusura triadica del modello random walk induce effettivamente il preferential attchment.
 		- Il preferential attachment può essere indotto da semplici meccanismi basati su scelte casuali. Non è necessario richiedere il grado del nodo, né una stretta espressione della probabilità del link
 - # Rank model
+  id:: 647d8d62-cac1-4382-a7d0-49d31be1ce24
 	- ## Difetto del preferential attachment
 		- Il modello BA implica che i nodi abbiano una percezione di quanto siano importanti gli altri nodi, ovvero di quanto sia grande il loro grado
 		- **Obiezione**: nel mondo reale non c'è una percezione simile del valore assoluto delle cose: è molto più semplice percepire un valore relativo
