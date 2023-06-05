@@ -133,4 +133,4 @@ slide:: ![ns07](../assets/ns07.pdf)
 				- $$P(i \leftrightarrow j) = \frac{R_j^{-\alpha}}{\sum_l R_l^{-\alpha}}$$
 	- ## Risultato
 		- I nodi di rango elevato (con valori **bassi** di $R$) hanno probabilità alta di essere connessi, molto più alta rispetto a nodi di rango basso.
-		- Il modello genera reti con hub, per **qualunque valore
+		- Il modello genera reti con hub, per **qualunque valore** dell'esponente $\alpha$ e **qualunque proprietà** usata per il rango dei nodi.
