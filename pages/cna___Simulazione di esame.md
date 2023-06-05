@@ -66,7 +66,8 @@
 	- If we consider an epidemic spreading on a graph, only the nodes in the connected component of the first infected individuals can be infected. With this in mind, if we consider an epidemic spreading on an Erdos Renyi graph below the percolation threshold, is it possible that a finite fraction of the population will get infected?
 	-
 	- Consider the degree sequence $k = (1, 3, 5, 3)$:
-		- is this a reasonable input to create an unweighted graph without self-loops from the configuration model?
+		- is this a reasonable input to create an unweighted graph without self-loops from the [configuration model](((6474d86d-605b-4e46-bb17-7dc0190990f8)))
+		  id:: 646e3a0b-d956-4a97-ac19-83d75f55852d
 		- What about the sequence $k = (1, 3, 4, 3)$
 	-
 	- Given the graph in the figure. What is/are the node/s with the highest [betweenness](((631ef02a-be3c-49ea-adc7-d5c938f722f7))) centrality, and which ones have the highest degree [centrality]([[Centralità]])?
