@@ -121,5 +121,7 @@ slide:: ![ns07](../assets/ns07.pdf)
 			- Il meccanismo di chiusura triadica del modello random walk induce effettivamente il preferential attchment.
 			- Il preferential attachment può essere indotto da semplici meccanismi basati su scelte casuali. Non è necessario richiedere il grado del nodo, né una stretta espressione della probabilità del link
 - # Rank model
-	-
+	- ## Difetto del preferential attachment
+		- Il modello BA implica che i nodi abbiano una percezione di quanto siano importanti gli altri nodi, ovvero di quanto sia grande il loro grado
+		- **Obiezione**:
 	-
