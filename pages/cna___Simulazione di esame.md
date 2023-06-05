@@ -74,12 +74,12 @@
 	-
 	- Consider an [ER graph](((646e2aea-4f90-47a5-83c2-0827e9bb2db1))) with $n = 5 \cdot 10^4$ nodes and average degree $k = 100$. How can you approximate its diameter?
 	-
-	- Explain why the Watts-Strogatz model is able to create networks with high clustering coefficients and small diameter.
+	- Explain why the [Watts-Strogatz model](((647b01a1-62ad-4621-800e-5a4bc84eebba))) is able to create networks with high clustering coefficients and small diameter.
 	-
 	- Show that any partition of a clique has negative [modularity](((6468a11b-78cd-4b64-9e79-96d84f382f47))).
 	  id:: 646e3ab0-51ae-4482-9533-074f575b1ff1
 	-
-	- The older nodes of a Barabasi-Albert network are those with higher degree. (True/False)
+	- The older nodes of a [Barabasi-Albert](((647dc23a-87eb-4e74-ba9e-a655ca3c963e))) network are those with higher degree. (True/False)
 	-
 	- Does the creation of a new fast road always decrease the total travelling time? If not, provide a counter-example
 -

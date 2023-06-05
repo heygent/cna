@@ -77,6 +77,7 @@ alias:: Contents
 			- ((64760805-49ab-4d2d-83eb-9edfc0da761c))
 			- ((647af7d1-43d5-40c2-b426-e2585c96c821))
 		- ((6474d86d-605b-4e46-bb17-7dc0190990f8))
+		  id:: 647b1006-caa1-4d58-a049-c897168fabf6
 			- ((647b0223-70de-4a69-b566-83282359e171))
 			- ((647b04ce-8cd3-4492-9c42-2bbf4933731b))
 			- relation to the Erdos-Renyi model
@@ -92,6 +93,7 @@ alias:: Contents
 		- the emergence of power law in real-world networks
 		- ((647cfa91-3c31-4b4b-ba93-3c9ebf8b81b4))
 		- ((647cd5f7-a502-4356-b841-b2ddd48fbf93))
+		  id:: 647dc23a-87eb-4e74-ba9e-a655ca3c963e
 			- ((647cfb3a-fa0e-4240-b2c9-607bd7b9a41d))
 			- degree distribution with proof
 			- clustering coefficient and diameter
