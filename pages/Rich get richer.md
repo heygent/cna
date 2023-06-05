@@ -130,5 +130,6 @@ slide:: ![ns07](../assets/ns07.pdf)
 		- {{embed ((647d06a9-e3e7-4e47-be61-32bcbfb3211c))}}
 		- Probabilità che il nuovo nodo $i$ scelga un nodo più vecchio $j$ come vicino:
 			- Proporzionale a una potenza del rango di $j$:
-				- $$P(i \leftrightarrow j) = \frac{R_j^{-\alpha}}{\sum_l (A + k_l)}$$
-	-
+				- $$P(i \leftrightarrow j) = \frac{R_j^{-\alpha}}{\sum_l R_l^{-\alpha}}$$
+	- ## Risultato
+	- I
