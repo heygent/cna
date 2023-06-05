@@ -11,7 +11,7 @@ slide:: ![ns07](../assets/ns07.pdf)
 -
 - # Power laws
 	- La frazione di pagine web che hanno $k$ in-link è:
-		- $f(k) \approx \frac1{k^c} = k^{-c}$
+		- $$f(k) \approx \frac1{k^c} = k^{-c}$$
 		-
 - # Modello di Barabasi-Albert
 	- Le reti reali sono dinamiche e si evolvono nel tempo, in base alle circostanze.
