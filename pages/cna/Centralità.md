@@ -1,7 +1,7 @@
 tags:: cna
 slide:: ![ns05](../assets/ns05.pdf)
 
-- # Misure di centralità
+- # Centralità
 	- Misura di importanza di un nodo
 	- {{embed ((6465f748-d058-47f4-82a7-4f89024e32c1))}}
 	- ## Closeness
