@@ -163,4 +163,6 @@ slide:: ![ns07](../assets/ns07.pdf)
 			- $k \approx j^{-b}$, con $b$ solitamente vicino a 1
 	- ## Legge di Pareto
 		- Pareto era interessato alla distribuzione di redditi
-		- Invece di chiedersi quale fosse il $j$-esimo reddito pi\
+		- Invece di chiedersi quale fosse il $j$-esimo reddito più grande, si è focalizzato su quante persone avessero un reddito più grande di $j$
+		- La legge di Pareto è una distribuzione di probabilità cumulativa:
+			- $$P(K > k) \approx k^{-\gamma}$$
