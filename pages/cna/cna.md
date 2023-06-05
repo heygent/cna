@@ -1,11 +1,6 @@
 icon:: 🌐
 alias:: Contents
 
-- ## Libri
-	- ![nsbook1](../../assets/nsbook1.pdf) Menczer, Fortunato, Davis, A First Course in Network Science, Cambridge University Press, 2020
-	- ![nsbook2](../../assets/nsbook2.pdf) Easley and Kleinberg, Networks, Crowds, and Markets: Reasoning About a Highly Connected World, Cambridge University Press, 2010
-	- ![nsbook3](../assets/nsbook3.pdf) Mark Newman, Networks, Oxford University Press
-	- ![nsbook4](../assets/nsbook4.pdf) Albert-László Barabási, Network Science, Cambridge University Press
 - # Syllabus
   id:: 64690e6c-fb74-458e-b341-972c31fc4fa8
 	- # [[Introduzione]]
@@ -150,3 +145,8 @@ alias:: Contents
 		- Pareto optimum
 		- Traffic at equilibrium
 		- Difference between Nash equilibrium and social optimum on a traffic network
+- ## Libri
+	- ![nsbook1](../../assets/nsbook1.pdf) Menczer, Fortunato, Davis, A First Course in Network Science, Cambridge University Press, 2020
+	- ![nsbook2](../../assets/nsbook2.pdf) Easley and Kleinberg, Networks, Crowds, and Markets: Reasoning About a Highly Connected World, Cambridge University Press, 2010
+	- ![nsbook3](../assets/nsbook3.pdf) Mark Newman, Networks, Oxford University Press
+	- ![nsbook4](../assets/nsbook4.pdf) Albert-László Barabási, Network Science, Cambridge University Press
