@@ -149,3 +149,5 @@ slide:: ![ns07](../assets/ns07.pdf)
 	- Se si possono scommettere soldi su nicchie o hit, che cosa faresti?
 	- Idea di Chris Anderson:
 		- non concentrarsi su hit, ma provare a stimare le vendite di tutte le nicchie
+		- ((647d964d-7565-409c-ab57-9c9331663e72))
+			- Lo stereotipo dei media business si concentr
