@@ -9,7 +9,6 @@ alias:: Contents
 - # Syllabus
   id:: 64690e6c-fb74-458e-b341-972c31fc4fa8
 	- # [[Introduzione]]
-	  collapsed:: true
 		- Meaning and examples of complexity
 		- networks and complexity
 		- examples of applications of network theory
@@ -53,14 +52,12 @@ alias:: Contents
 		- ((646357c4-b064-4a5e-92aa-22bbec17f577))
 		- ((64637645-e7fa-496f-86e6-323d38388366))
 	- # [[Omofilia]]
-	  collapsed:: true
 		- ((6465f708-5ab9-4d1a-a685-ad4cdeb70286))
 		- ((6468a11b-78cd-4b64-9e79-96d84f382f47))
 		- ((646a34c7-d0c3-458b-a08d-6a63272ed5ef))
 		- ((646a7190-a9b7-458f-8088-358dbb593cee))
 		- ((631cc01b-8f07-470d-9924-40500a8a9d40))
 	- # [[Centralità]]
-	  collapsed:: true
 		- Centralità
 		- ((64615afb-c2a1-4b0b-866d-ffb62d751cb7))
 		- ((64615285-85e9-4b2b-ad5c-7236514d5142))
