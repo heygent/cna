@@ -152,4 +152,7 @@ slide:: ![ns07](../assets/ns07.pdf)
 		- ((647d964d-7565-409c-ab57-9c9331663e72))
 			- Come funzione di $k$, quale frazione di elementi hanno popolarità esattamente $k$?
 		- ((647d969a-d3ad-4ea5-b911-f086b67eabd0))
-			-
+			- Invertendo gli assi:
+				- Come funzione $j$ quanti elementi hanno popolarità almeno $k$?
+			- Concentrarsi sulla "coda lunga"
+				- Quando si muovono volumi di vendite
