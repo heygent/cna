@@ -136,4 +136,6 @@ slide:: ![ns07](../assets/ns07.pdf)
 		- Il modello genera reti con hub, per **qualunque valore** dell'esponente $\alpha$ e **qualunque proprietà** usata per il rango dei nodi.
 - # Imprevidibilità dell'effetto Rich-Get-Richer
 	- Le leggi di potenza sono prodotte da effetti di feedback
-	- Le fasi iniziali del processo che
+	- Le fasi iniziali del processo che danno vita alla popolarità di un nodo sono relativamente fragili
+	- Concentrandosi sul mercato culturale, si può predire la popolarità di una canzone, film, ecc. ?
+	- Ci si possono aspettare fluttuazioni iniziali
