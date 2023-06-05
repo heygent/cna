@@ -1,3 +1,5 @@
+@import url('https://logseq.catppuccin.com/ctp-mocha.css');
+
 .tag[data-ref="card"]{
   font-size: 0px;
 }
