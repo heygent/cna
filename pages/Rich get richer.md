@@ -14,16 +14,17 @@ slide:: ![ns07](../assets/ns07.pdf)
 		- id:: 647cf8b4-16b7-45f0-9ec8-f0a8166ba847
 		  $$f(k) \approx \frac1{k^c} = k^{-c}$$
 		-
+- ## Preferential attachment
+  id:: 647cfa91-3c31-4b4b-ba93-3c9ebf8b81b4
+	- I nodi preferiscono collegamenti a nodi più connessi
+	- Esempio:
+		- La nostra conoscenza di internet ha un bias verso le pagine popolari, che sono altamente connesse,  per cui è più probabile che il nostro sito punti a pagine che sono state molto linkate.
+		- Gli scienziati sono più familiari con paper molto citati (che sono spesso i più importanti), per cui tendono a citare più questi di altri
 - # Modello di Barabasi-Albert
 	- Le reti reali sono dinamiche e si evolvono nel tempo, in base alle circostanze.
 	- Procedura generale:
 		- Arriva un nuovo nodo con un certo numero di ceppi di arco, che indicano il numero di futuri vicini del nodo (grado)
 		- Gli archi vengono connessi ad alcuni dei vecchi nodi, secondo qualche regola.
-	- ## Preferential attachment
-		- I nodi preferiscono collegamenti a nodi più connessi
-		- Esempio:
-			- La nostra conoscenza di internet ha un bias verso le pagine popolari, che sono altamente connesse,  per cui è più probabile che il nostro sito punti a pagine che sono state molto linkate.
-			- Gli scienziati sono più familiari con paper molto citati (che sono spesso i più importanti), per cui tendono a citare più questi di altri
 	- ## Procedura
 		- ### Fase iniziale
 		  id:: 647d06a9-e3e7-4e47-be61-32bcbfb3211c

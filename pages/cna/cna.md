@@ -69,7 +69,6 @@ alias:: Contents
 		- ((646166f8-7fe7-4cbc-a061-f5311a8fd698))
 		- [Calculating betweenness values](((6461685e-61a0-4ca8-8e40-60cdefd48def)))
 	- # [[Modelli generativi]]
-	  collapsed:: true
 		- Recap of real-world network properties
 		- ((646e2aea-4f90-47a5-83c2-0827e9bb2db1))
 			- ((647afc73-6c56-46ae-86ed-68a9eb874e71))
@@ -90,9 +89,8 @@ alias:: Contents
 			- relation to the Erdos-Renyi model
 	- # [[Rich get richer]]
 	  date:: [[2023-03-20]]
-	  collapsed:: true
 		- the emergence of power law in real-world networks
-		- preferential attachment
+		- ((647cfa91-3c31-4b4b-ba93-3c9ebf8b81b4))
 		- Barabasi-Albert model
 			- definition
 			- degree distribution with proof
