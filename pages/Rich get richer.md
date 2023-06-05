@@ -119,5 +119,7 @@ slide:: ![ns07](../assets/ns07.pdf)
 				- Scegliere un nodo casuale e un vicino casuale equivale a scegliere un link casuale
 				- La probabilità che gli estremi di un link scelto a caso abbiano un certo grado è **proporzionale al grado**.
 			- Il meccanismo di chiusura triadica del modello random walk induce effettivamente il preferential attchment.
-			- Il preferential attachment può essere indotto da semplici meccanismo basati su scelte casuali. Non è necessario richiedere il grado del nodo, né una stretta espressione della probabilità del link
-			-
+			- Il preferential attachment può essere indotto da semplici meccanismi basati su scelte casuali. Non è necessario richiedere il grado del nodo, né una stretta espressione della probabilità del link
+- # Rank model
+	-
+	-
