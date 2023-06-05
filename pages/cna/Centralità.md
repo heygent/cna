@@ -2,6 +2,7 @@ tags:: cna
 slide:: ![ns05](../assets/ns05.pdf)
 
 - # Centralità
+  id:: 64691261-104d-4802-88b4-3341d365716b
 	- Misura di importanza di un nodo
 	- {{embed ((6465f748-d058-47f4-82a7-4f89024e32c1))}}
 	- ## Closeness
