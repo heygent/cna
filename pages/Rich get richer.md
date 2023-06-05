@@ -160,4 +160,7 @@ slide:: ![ns07](../assets/ns07.pdf)
 				- Quando si muovono volumi di vendite di molti prodotti di nicchia, è necessario comparare se ci sia significativamente più area sotto la parte sinistra della curva (hits) o la destra (prodotti di nicchia)
 		- La legge di Zipf si riferisce alla dimensione $k$ come all'occorrenza di un evento relativamente al suo rango $j$
 			- Dice che la dimensione della $j$-esima occorrenza più grande dell'evento è inversamente proporzionale al suo rango
-			- $k \approx j^{-b}$
+			- $k \approx j^{-b}$, con $b$ solitamente vicino a 1
+	- ## Legge di Pareto
+		- Pareto era interessato alla distribuzione di redditi
+		- Invece di chiedersi quale fosse il
