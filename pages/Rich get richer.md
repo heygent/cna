@@ -160,16 +160,17 @@ slide:: ![ns07](../assets/ns07.pdf)
 				- Quando si muovono volumi di vendite di molti prodotti di nicchia, è necessario comparare se ci sia significativamente più area sotto la parte sinistra della curva (hits) o la destra (prodotti di nicchia)
 		- La legge di Zipf si riferisce alla dimensione $k$ come all'occorrenza di un evento relativamente al suo rango $j$
 			- Dice che la dimensione della $j$-esima occorrenza più grande dell'evento è inversamente proporzionale al suo rango
-			- $k \approx j^{-b}$
-			  id:: 647d97c0-5489-42b6-be0c-93279c34b5e2
+			- id:: 647d97c0-5489-42b6-be0c-93279c34b5e2
+			  $$k \approx j^{-b}$$
 				- con $b$ solitamente vicino a 1
 	- ## Legge di Pareto
 		- Pareto era interessato alla distribuzione di redditi
 		- Invece di chiedersi quale fosse il $j$-esimo reddito più grande, si è focalizzato su quante persone avessero un reddito più grande di $j$
 		- La legge di Pareto è una distribuzione di probabilità cumulativa:
-			- $$P(K > k) \approx k^{-\gamma}$$
+			- id:: 647d9871-14e3-40da-a0b1-250c71ca719f
+			  $$P(K > k) \approx k^{-\gamma}$$
 	- ## Tre leggi simili
 		- Zipf
-			- $$k \approx j^{-b}$$
+			- ((647d97c0-5489-42b6-be0c-93279c34b5e2))
 		- Pareto
-			-
+			- ((647d9871-14e3-40da-a0b1-250c71ca719f))
