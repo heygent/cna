@@ -126,5 +126,6 @@ slide:: ![ns07](../assets/ns07.pdf)
 		- **Obiezione**: nel mondo reale non c'è una percezione simile del valore assoluto delle cose: è molto più semplice percepire un valore relativo
 		- Soluzione: Rankning
 	- ## Procedura
-		- I nodi ricevono un rank ba
+		- I nodi ricevono un rank in base a una proprietà di interesse (es. età, grado). Il rango del nodo $i$ è $R_i$
+		-
 	-
