@@ -163,4 +163,4 @@ slide:: ![ns07](../assets/ns07.pdf)
 			- $k \approx j^{-b}$, con $b$ solitamente vicino a 1
 	- ## Legge di Pareto
 		- Pareto era interessato alla distribuzione di redditi
-		- Invece di chiedersi quale fosse il
+		- Invece di chiedersi quale fosse il $j$-esimo reddito pi\
