@@ -1,3 +1,3 @@
-slide:: ![ns09](../assets/ns09.pdf)
+slide:: ![ns09](../assets/ns09.pdf), ![ns10](../assets/ns10.pdf)
 
 -
