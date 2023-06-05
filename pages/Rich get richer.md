@@ -138,4 +138,8 @@ slide:: ![ns07](../assets/ns07.pdf)
 	- Le leggi di potenza sono prodotte da effetti di feedback
 	- Le fasi iniziali del processo che danno vita alla popolarità di un nodo sono relativamente fragili
 	- Concentrandosi sul mercato culturale, si può predire la popolarità di una canzone, film, ecc. ?
-	- Ci si possono aspettare fluttuazioni iniziali
+	- Ci si possono aspettare fluttuazioni iniziali: questo porta a imprevedibilità
+	- ## Predire l'emergenza di hub
+		- Si può predire che una legge di potenza emerga dopo un po', e si può quindi predire che ci saranno hub
+		- Ma quali hub?
+		- Predire il successo di un individuo non è come predire che
