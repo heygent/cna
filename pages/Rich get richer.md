@@ -135,4 +135,5 @@ slide:: ![ns07](../assets/ns07.pdf)
 		- I nodi di rango elevato (con valori **bassi** di $R$) hanno probabilità alta di essere connessi, molto più alta rispetto a nodi di rango basso.
 		- Il modello genera reti con hub, per **qualunque valore** dell'esponente $\alpha$ e **qualunque proprietà** usata per il rango dei nodi.
 - # Imprevidibilità dell'effetto Rich-Get-Richer
--
+	- Le leggi di potenza sono prodotte da effetti di feedback
+	- Le fasi iniziali del processo che
