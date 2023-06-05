@@ -9,10 +9,12 @@ alias:: Contents
 - # Syllabus
   id:: 64690e6c-fb74-458e-b341-972c31fc4fa8
 	- # [[Introduzione]]
+	  collapsed:: true
 		- Meaning and examples of complexity
 		- networks and complexity
 		- examples of applications of network theory
 	- # [[Grafo]]
+	  collapsed:: true
 		- ((6416dcb6-cf08-4329-8e18-c6e6ee5a5b17))
 			- node
 			- edges
@@ -44,6 +46,7 @@ alias:: Contents
 			- ((646275b2-a596-4444-b231-f4aa39798f57))
 			- ((646275b2-28f6-45b2-b967-282c42428b7e))
 	- # [[Legami forti e deboli]]
+	  collapsed:: true
 		- ((646275b2-6714-42a4-ad0e-ef408992f8ec))
 		- ((64625526-7abe-416b-8538-8f2d05123946))
 		- ((64625143-588e-4dc1-a991-4b27deea3a85))
@@ -51,12 +54,14 @@ alias:: Contents
 		- ((646357c4-b064-4a5e-92aa-22bbec17f577))
 		- ((64637645-e7fa-496f-86e6-323d38388366))
 	- # [[Omofilia]]
+	  collapsed:: true
 		- ((6465f708-5ab9-4d1a-a685-ad4cdeb70286))
 		- ((6468a11b-78cd-4b64-9e79-96d84f382f47))
 		- ((646a34c7-d0c3-458b-a08d-6a63272ed5ef))
 		- ((646a7190-a9b7-458f-8088-358dbb593cee))
 		- ((631cc01b-8f07-470d-9924-40500a8a9d40))
 	- # [[Centralità]]
+	  collapsed:: true
 		- Centralità
 		- ((64615afb-c2a1-4b0b-866d-ffb62d751cb7))
 		- ((64615285-85e9-4b2b-ad5c-7236514d5142))
@@ -65,6 +70,7 @@ alias:: Contents
 		- ((646166f8-7fe7-4cbc-a061-f5311a8fd698))
 		- [Calculating betweenness values](((6461685e-61a0-4ca8-8e40-60cdefd48def)))
 	- # [[Modelli generativi]]
+	  collapsed:: true
 		- Recap of real-world network properties
 		- ((646e2aea-4f90-47a5-83c2-0827e9bb2db1))
 			- ((647afc73-6c56-46ae-86ed-68a9eb874e71))
@@ -85,6 +91,7 @@ alias:: Contents
 			- relation to the Erdos-Renyi model
 	- # [[Rich get richer]]
 	  date:: [[2023-03-20]]
+	  collapsed:: true
 		- the emergence of power law in real-world networks
 		- preferential attachment
 		- Barabasi-Albert model
