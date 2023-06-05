@@ -177,4 +177,5 @@ slide:: ![ns07](../assets/ns07.pdf)
 			- ((647d9871-14e3-40da-a0b1-250c71ca719f))
 		- Power law
 			- ((647cf8b4-16b7-45f0-9ec8-f0a8166ba847))
-		- È possibile dimostrare che $c
+		- È possibile dimostrare che $c = 1 + \gamma$ e che $\gamma = \frac1b$
+		-
