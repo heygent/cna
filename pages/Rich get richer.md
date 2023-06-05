@@ -114,6 +114,8 @@ slide:: ![ns07](../assets/ns07.pdf)
 			- Il coefficiente di clustering medio è molto più alto in reti BA (più sono grandi, maggiore la probabilità $p$ di chiusura triadica)
 			- Quando la probabilità di chiusura triadica $p$ è abbastanza grande da formare molti triangoli $(p - 1)$ la rete ha **struttura di comunità**
 				- composta da gruppi coesi di nodi, vagamenti connessi tra di loro
+		-
 		- Se i link sono messi casualmente come sembra, come fa il modello a generare hub?
 			- Scegliere un nodo casuale e un vicino casuale equivale a scegliere un link casuale
-			-
+			- La probabilità che gli estremi di un link scelto a caso abbiano un certo grado è **proporzionale al grado**.
+		- L
