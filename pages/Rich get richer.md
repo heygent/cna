@@ -145,4 +145,7 @@ slide:: ![ns07](../assets/ns07.pdf)
 		- Predire il successo di un individuo non è come predire che qualche individuo avrà successo globale
 - # Long tail
 	- La popolarità può essere caratterizzata da leggi di potenza
-	- Questo significa che un piccolo insien
+	- Questo significa che un piccolo insieme di elementi è enormemente popolare
+	- Se si possono scommettere soldi su nicchie o hit, che cosa faresti?
+	- Idea di Chris Anderson:
+		- non concentrarsi su hit, ma provare a stimare le vendite di tutte le nicchie
