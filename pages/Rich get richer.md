@@ -150,4 +150,6 @@ slide:: ![ns07](../assets/ns07.pdf)
 	- Idea di Chris Anderson:
 		- non concentrarsi su hit, ma provare a stimare le vendite di tutte le nicchie
 		- ((647d964d-7565-409c-ab57-9c9331663e72))
-			- Lo stereotipo dei media business si concentr
+			- Come funzione di $k$, quale frazione di elementi hanno popolarità esattamente $k$?
+		- ((647d969a-d3ad-4ea5-b911-f086b67eabd0))
+			-

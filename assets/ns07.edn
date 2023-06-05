@@ -9,5 +9,17 @@
                           :rects (),
                           :page 61},
                :content {:text "[:span]", :image 1685952075846},
+               :properties {:color "yellow"}}
+              {:id #uuid "647d969a-d3ad-4ea5-b911-f086b67eabd0",
+               :page 62,
+               :position {:bounding {:x1 346,
+                                     :y1 147,
+                                     :x2 729,
+                                     :y2 343,
+                                     :width 846.0000000000001,
+                                     :height 475.87500000000006},
+                          :rects (),
+                          :page 62},
+               :content {:text "[:span]", :image 1685952153361},
                :properties {:color "yellow"}}],
- :extra {:page 61}}
+ :extra {:page 62}}
