@@ -142,4 +142,7 @@ slide:: ![ns07](../assets/ns07.pdf)
 	- ## Predire l'emergenza di hub
 		- Si può predire che una legge di potenza emerga dopo un po', e si può quindi predire che ci saranno hub
 		- Ma quali hub?
-		- Predire il successo di un individuo non è come predire che
+		- Predire il successo di un individuo non è come predire che qualche individuo avrà successo globale
+- # Long tail
+	- La popolarità può essere caratterizzata da leggi di potenza
+	- Questo significa che un piccolo insien
