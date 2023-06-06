@@ -8,4 +8,7 @@ slide:: ![ns12](../assets/ns12.pdf)
 		- Trovare link mancanti (?)
 	- ### Alta coesione
 		- Le comunità hanno molti link interni, per cui i loro nodi sono connessi assieme
+	- ### Alta separazione
+		- Le comunità sono connesse tra loro da pochi link
+	- Per trovare comunità è necessario innanzitutto definirle **formalmente**
 	-
