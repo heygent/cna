@@ -40,5 +40,6 @@ ref:: ((647f4e7e-1970-4e54-868d-b71b13d6c98c))
 		- NP-completo
 			- nel caso peggiore, è necessario provare tutte le possibili configurazioni ($q^n$) e vedere quale sia la migliore.
 		- Favorisce configurazioni in cui le comunità hanno approssimativamente la stessa dimensione.
-	- ## [Modularity](((647f5020-f73c-49a6-ab9b-ffe2e13466bb)))
+	- ## ((647f5020-f73c-49a6-ab9b-ffe2e13466bb))
+	- ## ((647f50b7-c4cf-46db-b61b-2282aa08cebe))
 		-

@@ -34,3 +34,8 @@ file-path:: ../assets/ns12.pdf
   hl-page:: 25
   hl-color:: yellow
   id:: 647f5020-f73c-49a6-ab9b-ffe2e13466bb
+- Bayesian approach
+  ls-type:: annotation
+  hl-page:: 35
+  hl-color:: yellow
+  id:: 647f50b7-c4cf-46db-b61b-2282aa08cebe

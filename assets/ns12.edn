@@ -62,5 +62,22 @@
                                    :height 405}),
                           :page 25},
                :content {:text "modularity"},
+               :properties {:color "yellow"}}
+              {:id #uuid "647f50b7-c4cf-46db-b61b-2282aa08cebe",
+               :page 35,
+               :position {:bounding {:x1 232.10626220703125,
+                                     :y1 182.82186889648438,
+                                     :x2 487.8926086425781,
+                                     :y2 224.82186889648438,
+                                     :width 720,
+                                     :height 405},
+                          :rects ({:x1 232.10626220703125,
+                                   :y1 182.82186889648438,
+                                   :x2 487.8926086425781,
+                                   :y2 224.82186889648438,
+                                   :width 720,
+                                   :height 405}),
+                          :page 35},
+               :content {:text "Bayesian approach"},
                :properties {:color "yellow"}}],
- :extra {:page 42}}
+ :extra {:page 34}}
