@@ -38,5 +38,6 @@ slide:: ![ns12](../assets/ns12.pdf)
 				- rcut = $\frac12 \left[ \frac18 + \frac11\right] = \frac9{16}$
 		- NP-completo
 			- nel caso peggiore, è necessario provare tutte le possibili configurazioni ($q^n$) e vedere quale sia la migliore.
-			- inoltre, il ratio
+		- Favorisce configurazioni in cui le comunità hanno approssimativamente la stessa dimensione.
+	-
 		-
