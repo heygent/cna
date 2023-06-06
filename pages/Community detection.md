@@ -18,4 +18,5 @@ slide:: ![ns12](../assets/ns12.pdf)
 	- In questo caso, la funzione costo definisce il concetto di comunità, per cui ciò deve essere fatto attentamente.
 	- ## Cut
 		- Siano $N_1, N_2, \ldots, N_1$ una partizione nota in $q$ comunità. Ogni nodo del grafo appartiene a uno e solo uno di questi insiemi.
-		- Si definisce il cut del grafo comeil
+		- Si definisce il cut del grafo come il numero di archi che cadono tra nodi in comunità distinte.
+		- $$\text{cut}(N_1, \ldots, N_1) = \frac12 \sum_{a=1}^1 $$
