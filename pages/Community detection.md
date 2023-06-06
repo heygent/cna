@@ -13,4 +13,5 @@ slide:: ![ns12](../assets/ns12.pdf)
 	- Per trovare comunità è necessario innanzitutto definirle **formalmente**
 	- Ci sono molti modi per farlo, nessuno dei quali è considerato necessariamente il migliore
 	- Si considerano sono le comunità non sovrapposte su grafi non diretti e non pesati, per cercare di capire la forza e i limiti di ogni approccio.
--
+- ## Funzione di ottimizzazione del costo
+	- È possibile definire una funzione costo che dica quanto sia buona una partizione di nodi e che faccia
