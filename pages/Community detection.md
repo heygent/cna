@@ -21,7 +21,7 @@ slide:: ![ns12](../assets/ns12.pdf)
 		- Si definisce il cut del grafo come il numero di archi che cadono tra nodi in comunità distinte.
 		- $$\text{cut}(N_1, \ldots, N_q) = \frac12 \sum_{a=1}^q \sum_{i \in N_a} \sum_{b \neq a} \sum_{j \in N_b} A_{ij}$$
 		- Risolvibile in tempo polinomiale
-		- Questa definizione non efficiente nel creare partizioni significative, dato che tende a isolare singoli nodi dal resto della rete.
+		- Non efficiente nel creare partizioni significative, dato che tende a isolare singoli nodi dal resto della rete.
 		  collapsed:: true
 			- ((647f3c89-521a-475f-830c-2a298f419189))
 				- Partizione desiderabile, cut = 2
@@ -30,7 +30,8 @@ slide:: ![ns12](../assets/ns12.pdf)
 	- ## Ratio cut
 		- Si conta il numero medio di connessioni che ogni nodo ha con nodi in altre comunità. Questo definisce il ratio cut:
 			- $$\text{Rcut}(N_1, \ldots, N_q) = \frac12 \sum_{a=1}^q \frac1{|N_a|} \sum_{i \in N_a} \sum_{b \neq a} \sum_{j \in N_b} A_{ij}$$
-		- Questa definizione è più conveniente.
+		- N
+		- Questa definizione è più efficace.
 		  collapsed:: true
 			- ((647f3d6c-ebfe-4878-943d-26ebc3d2303e))
 				- rcut = $\frac12 \left[ \frac25 + \frac24 \right] = \frac9{20}$
