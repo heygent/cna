@@ -71,8 +71,3 @@ file-path:: ../assets/nsbook3.pdf
   hl-page:: 384
   hl-color:: yellow
   id:: 647f4e7e-1970-4e54-868d-b71b13d6c98c
-- In 
-  ls-type:: annotation
-  hl-page:: 384
-  hl-color:: yellow
-  id:: 647f4e83-0f8e-478a-9f8c-f277afdbb1a1

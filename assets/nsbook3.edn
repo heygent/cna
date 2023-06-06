@@ -205,22 +205,5 @@
                                    :height 1110.6049833333332}),
                           :page 384},
                :content {:text "C OMMUNITY DETECTION"},
-               :properties {:color "yellow"}}
-              {:id #uuid "647f4e83-0f8e-478a-9f8c-f277afdbb1a1",
-               :page 384,
-               :position {:bounding {:x1 61.29375076293945,
-                                     :y1 164.50312042236328,
-                                     :x2 81.1333236694336,
-                                     :y2 183.70313262939453,
-                                     :width 904.9133999999999,
-                                     :height 1110.6049833333332},
-                          :rects ({:x1 61.29375076293945,
-                                   :y1 164.50312042236328,
-                                   :x2 81.1333236694336,
-                                   :y2 183.70313262939453,
-                                   :width 904.9133999999999,
-                                   :height 1110.6049833333332}),
-                          :page 384},
-               :content {:text "In "},
                :properties {:color "yellow"}}],
- :extra {:page 384}}
+ :extra {:page 386}}
