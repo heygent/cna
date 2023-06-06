@@ -15,4 +15,6 @@ slide:: ![ns12](../assets/ns12.pdf)
 	- Si considerano sono le comunità non sovrapposte su grafi non diretti e non pesati, per cercare di capire la forza e i limiti di ogni approccio.
 - ## Funzione di ottimizzazione del costo
 	- È possibile definire una funzione costo che dica quanto sia buona una partizione di nodi e che faccia community detection semplicemente ottimizzando la funzione.
-	- In questo caso, la funzione costo definisce il cone
+	- In questo caso, la funzione costo definisce il concetto di comunità, per cui ciò deve essere fatto attentamente.
+	- ## Cut
+		- Siano $N_1, N_2, \ldots, N_1$
