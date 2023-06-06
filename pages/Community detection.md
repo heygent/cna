@@ -27,4 +27,5 @@ slide:: ![ns12](../assets/ns12.pdf)
 			- ((647f3cac-50eb-4078-8b70-04dc8b08c7dc))
 				- cut = 1
 	- ## Ratio cut
-		- Si conta
+		- Si conta il numero medio di connessioni che ogni nodo ha con nodi in altre comunità. Questo definisce il ratio cut:
+			- $$\text{Rcut}(N_1, \ldots, N_q) = \frac12 \sum_{a=1}^q \frac1{|N_a|}$$
