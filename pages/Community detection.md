@@ -21,5 +21,10 @@ slide:: ![ns12](../assets/ns12.pdf)
 		- Si definisce il cut del grafo come il numero di archi che cadono tra nodi in comunità distinte.
 		- $$\text{cut}(N_1, \ldots, N_q) = \frac12 \sum_{a=1}^q \sum_{i \in N_a} \sum_{b \neq a} \sum_{j \in N_b} A_{ij}$$
 		- Questa definizione non è efficiente nel creare partizioni significative, dato che tende a isolare singoli nodi dal resto della rete.
+		  collapsed:: true
 			- ((647f3c89-521a-475f-830c-2a298f419189))
 				- Partizione desiderabile, cut = 2
+			- ((647f3cac-50eb-4078-8b70-04dc8b08c7dc))
+				- cut = 1
+	- ## Ratio cut
+		- Si conta
