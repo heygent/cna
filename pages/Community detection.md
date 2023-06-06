@@ -11,4 +11,6 @@ slide:: ![ns12](../assets/ns12.pdf)
 	- ### Alta separazione
 		- Le comunità sono connesse tra loro da pochi link
 	- Per trovare comunità è necessario innanzitutto definirle **formalmente**
-	-
+	- Ci sono molti modi per farlo, nessuno dei quali è considerato necessariamente il migliore
+	- Si considerano sono le comunità non sovrapposte su grafi non diretti e non pesati, per cercare di capire la forza e i limiti di ogni approccio.
+-
