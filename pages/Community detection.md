@@ -31,4 +31,6 @@ slide:: ![ns12](../assets/ns12.pdf)
 			- $$\text{Rcut}(N_1, \ldots, N_q) = \frac12 \sum_{a=1}^q \frac1{|N_a|} \sum_{i \in N_a} \sum_{b \neq a} \sum_{j \in N_b} A_{ij}$$
 		- Questa definizione è più conveniente
 			- ((647f3d6c-ebfe-4878-943d-26ebc3d2303e))
-				- rcut = $\frac12 \left[]
+				- rcut = $\frac12 \left[ \frac25 + \frac24 \right] = \frac9{20}$
+			- ((647f3dbe-9bf2-4ece-b5f9-a46f15a3e096))
+				- rcut = $\frac12 \left[ \frac18 + \]
