@@ -1,1 +1,13 @@
-{:highlights [], :extra {:page 19}}
+{:highlights [{:id #uuid "647f3c89-521a-475f-830c-2a298f419189",
+               :page 17,
+               :position {:bounding {:x1 215,
+                                     :y1 138.2001953125,
+                                     :x2 508,
+                                     :y2 331.2001953125,
+                                     :width 720,
+                                     :height 405},
+                          :rects (),
+                          :page 17},
+               :content {:text "[:span]", :image 1686060166717},
+               :properties {:color "yellow"}}],
+ :extra {:page 17}}

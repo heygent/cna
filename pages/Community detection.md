@@ -20,4 +20,6 @@ slide:: ![ns12](../assets/ns12.pdf)
 		- Siano $N_1, N_2, \ldots, N_1$ una partizione nota in $q$ comunità. Ogni nodo del grafo appartiene a uno e solo uno di questi insiemi.
 		- Si definisce il cut del grafo come il numero di archi che cadono tra nodi in comunità distinte.
 		- $$\text{cut}(N_1, \ldots, N_q) = \frac12 \sum_{a=1}^q \sum_{i \in N_a} \sum_{b \neq a} \sum_{j \in N_b} A_{ij}$$
-		- Questa definizione non è efficiente nel creare partizioni
+		- Questa definizione non è efficiente nel creare partizioni significative, dato che tende a isolare singoli nodi dal resto della rete.
+			- ((647f3c89-521a-475f-830c-2a298f419189))
+				- Partizione desiderabile, cut = 2
