@@ -51,3 +51,28 @@ file-path:: ../assets/nsbook3.pdf
   id:: 646b3490-2f6a-46e3-a5f8-c12f77d8ab3f
   hl-type:: area
   hl-stamp:: 1684747412224
+- 11.6 C OMMUNITY DETECTION
+  ls-type:: annotation
+  hl-page:: 384
+  hl-color:: yellow
+  id:: 647f4e6d-5824-4284-ab28-1c1024a10549
+- OMMUNITY DETECTION
+  ls-type:: annotation
+  hl-page:: 384
+  hl-color:: yellow
+  id:: 647f4e72-5295-41fa-9d74-853f7b65d87d
+- C OMMUNITY DETECTION
+  ls-type:: annotation
+  hl-page:: 384
+  hl-color:: yellow
+  id:: 647f4e79-1d87-4698-b7ce-d8ee3420c460
+- C OMMUNITY DETECTION
+  ls-type:: annotation
+  hl-page:: 384
+  hl-color:: yellow
+  id:: 647f4e7e-1970-4e54-868d-b71b13d6c98c
+- In 
+  ls-type:: annotation
+  hl-page:: 384
+  hl-color:: yellow
+  id:: 647f4e83-0f8e-478a-9f8c-f277afdbb1a1
