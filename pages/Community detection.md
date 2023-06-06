@@ -1,5 +1,5 @@
 slide:: ![ns12](../assets/ns12.pdf)
-refs:: ((647f4e7e-1970-4e54-868d-b71b13d6c98c))
+ref:: ((647f4e7e-1970-4e54-868d-b71b13d6c98c))
 
 - # Community
 	- Perché studiare le comunità?
