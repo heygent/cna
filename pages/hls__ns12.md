@@ -29,3 +29,8 @@ file-path:: ../assets/ns12.pdf
   id:: 647f3dbe-9bf2-4ece-b5f9-a46f15a3e096
   hl-type:: area
   hl-stamp:: 1686060477311
+- modularity
+  ls-type:: annotation
+  hl-page:: 25
+  hl-color:: yellow
+  id:: 647f5020-f73c-49a6-ab9b-ffe2e13466bb
