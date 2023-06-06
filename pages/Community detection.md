@@ -17,4 +17,5 @@ slide:: ![ns12](../assets/ns12.pdf)
 	- È possibile definire una funzione costo che dica quanto sia buona una partizione di nodi e che faccia community detection semplicemente ottimizzando la funzione.
 	- In questo caso, la funzione costo definisce il concetto di comunità, per cui ciò deve essere fatto attentamente.
 	- ## Cut
-		- Siano $N_1, N_2, \ldots, N_1$
+		- Siano $N_1, N_2, \ldots, N_1$ una partizione nota in $q$ comunità. Ogni nodo del grafo appartiene a uno e solo uno di questi insiemi.
+		- Si definisce il cut del grafo comeil
