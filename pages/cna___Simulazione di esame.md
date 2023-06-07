@@ -11,10 +11,8 @@
 		- Draw the graph
 			- ![image.png](../assets/image_1686148452667_0.png){:height 222, :width 217}
 		- What type of graph is this?
-		  collapsed:: true
 			- Directed weighted graph
 		- What can you tell about the graph [connectivity](((64368a97-8099-48bf-b424-298fc228d1bb)))?
-		  collapsed:: true
 			- The graph is connected, but not fully connected, since there isn't a path to 4 from any node.
 		- What is the in-out [degree](((6422fb58-b14c-4f73-a8ce-c547d160c906))) of each node?
 		  collapsed:: true
