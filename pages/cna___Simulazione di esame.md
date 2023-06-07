@@ -79,6 +79,7 @@
 	  Which one of these would you expect to more closely follow a power-law distribution as a function of $k$? Give a brief explanation for your answer, using some of the ideas about power-law distributions.
 	-
 	- Draw a hyper-graph and its corresponding hyper-edge list representation.
+		- {{renderer excalidraw, excalidraw-2023-06-07-20-40-03}}
 	-
 	- Consider the social network represented in the figure. Suppose that this social network was obtained by observing a group of people at a particular point in time and recording all their friendship relations. Now suppose that we come back at some point in the future and observe it again. According to the theories based on empirical studies of [triadic closure](((64625526-7abe-416b-8538-8f2d05123946))) in networks, which new edge is most likely present? (I.e. which pair of nodes, that do not currently have an edge connecting them, are most likely to be linked by an edge when we return to take the second observation?) Also, give a brief explanation for your answer.
 	-
