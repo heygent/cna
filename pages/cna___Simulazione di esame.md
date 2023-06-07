@@ -59,12 +59,10 @@
 	  edge list: $[(a,b), (b,c), (b,d), (c,d), (d,e), (e,f), (f,a)]$
 		- {{renderer excalidraw, excalidraw-2023-06-07-19-48-29}}
 		- $a = 0, b = \frac13, c = 1, d = \frac13, e = 0, f = 0$
-		-
-		-
-	-
 	- Given the bipartite [affiliation graph](((631cc01b-8f07-470d-9924-40500a8a9d40))) in the figure:
 	  ((646e354d-0ac1-4806-809d-9d27ca954aa5))
 		- Draw the [projected](((64691261-1cc5-4b32-847b-5b8396942cb0))) graph.
+			- {{renderer excalidraw, excalidraw-2023-06-07-20-01-18}}
 		- Give an example of two different affiliation networks - on the same set of people, but with different foci - so that the projected graphs from these two different affiliation networks are the same. This shows how information can be "lost" when moving from the full affiliation network to just the projected graph on the set of people.
 	-
 	- Suppose you have a valuable piece of information and you want that it spreads quickly on the social network you belong to. Who would you share it with to make the spreading faster and why? (choose between the two for each option)
