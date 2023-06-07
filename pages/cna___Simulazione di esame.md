@@ -59,7 +59,7 @@
 	  edge list: $[(a,b), (b,c), (b,d), (c,d), (d,e), (e,f), (f,a)]$
 		- {{renderer excalidraw, excalidraw-2023-06-07-19-48-29}}
 		-
-		- ![image.png](../assets/image_1686159864137_0.png){:height 254, :width 314}
+		-
 	-
 	- Given the bipartite [affiliation graph](((631cc01b-8f07-470d-9924-40500a8a9d40))) in the figure:
 	  ((646e354d-0ac1-4806-809d-9d27ca954aa5))
