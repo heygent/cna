@@ -33,7 +33,7 @@
 			  | 3 | 5 | 3 |
 	-
 	- Consider an [ER random graph](((646e2aea-4f90-47a5-83c2-0827e9bb2db1))) with $n$ nodes and connecting probability equal to $p$. What is the expected [clustering coefficient](((64625143-588e-4dc1-a991-4b27deea3a85)))? How does this result relate to the clustering coefficient observed in real-world networks?
-		- The clustering coefficient is $p$, since $p$ is the probability of two random nodes being connected, and the cc is the possible connection for
+		- The clustering coefficient is $p$, since $p$ is the probability of two random nodes being connected, and the cc is the number of connected neighbors of a node over al the possible pairs of neighbors.
 	-
 	- How many edges are there in a [Barabasi-Albert](((647cd5f7-a502-4356-b841-b2ddd48fbf93))) network with 1000 nodes and $m = 5$?
 	-
