@@ -1,4 +1,5 @@
 - ![Testo](../assets/cna_exam_simulation_may_2022.pdf)
+- ![Soluzioni](../assets/cna_simsol.pdf)
 - # Domande #.ol
 	- Consider the [adjacency matrix](((646275b2-7887-4bef-83fa-dbaf2a264cd5))):
 	  \begin{bmatrix}
@@ -8,7 +9,6 @@
 	  0 & 0 & 3 & 0 \\
 	  \end{bmatrix}
 		- Draw the graph
-		  collapsed:: true
 			- ![image.png](../assets/image_1686148452667_0.png){:height 222, :width 217}
 		- What type of graph is this?
 		  collapsed:: true
