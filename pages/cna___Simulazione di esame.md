@@ -38,7 +38,7 @@
 		- The cc of an Erdos-Renyi graph is generally low with respect to real networks, given that the mechanism for creating edges is completely random and not influenced by the triadic closure.
 	-
 	- How many edges are there in a [Barabasi-Albert](((647cd5f7-a502-4356-b841-b2ddd48fbf93))) network with 1000 nodes and $m = 5$?
-		- $m_0
+		- $\frac{(m_0)(m_0 - 1)}{2} \cdot m(1000 -m
 	-
 	- Consider a Cayley tree as the one shown in the picture in which each node has $k$ neighbours (called offspring). Starting from a central node, we build the tree forming $l$ offspring levels.
 	  ((646e2d78-304c-4db7-8df6-989c39dc75a2))
