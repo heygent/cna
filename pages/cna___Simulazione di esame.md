@@ -57,6 +57,7 @@
 	-
 	- Draw the following graph and compute the clustering coefficient of every node.
 	  edge list: $[(a,b), (b,c), (b,d), (c,d), (d,e), (e,f), (f,a)]$
+		- {{renderer excalidraw, excalidraw-2023-06-07-19-48-29}}
 		-
 		- ![image.png](../assets/image_1686159864137_0.png){:height 254, :width 314}
 	-
