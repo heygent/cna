@@ -84,7 +84,7 @@
 	- Does the creation of a new fast road always decrease the total travelling time? If not, provide a counter-example
 -
 - # Soluzioni
-	- ((646e3ab0-51ae-4482-9533-074f575b1ff1))
+	- Show that any partition of a clique has negative [modularity](((6468a11b-78cd-4b64-9e79-96d84f382f47))).
 		- ((646a363f-b4cd-422d-9596-e37857062559))
 		- Per una cricca:
 			- il grado di ogni nodo è sempre $n - 1$ ($k_i$ e $k_j$).
