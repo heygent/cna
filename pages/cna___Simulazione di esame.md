@@ -58,7 +58,7 @@
 	- Draw the following graph and compute the clustering coefficient of every node.
 	  edge list: $[(a,b), (b,c), (b,d), (c,d), (d,e), (e,f), (f,a)]$
 		- {{renderer excalidraw, excalidraw-2023-06-07-19-48-29}}
-		- $a = 0, b = \frac13, c =
+		- $a = 0, b = \frac13, c = 1, d = \frac13, e = 0, f = 0$
 		-
 		-
 	-
