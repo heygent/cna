@@ -47,7 +47,7 @@
 		- What is the [diameter](((64368a97-9392-4dfc-8f6e-fc99ca2c919e))) of this graph?
 			- $2l$
 		- What property of real world graphs is well captured by this model?
-			-
+			- hubs?
 	- Consider the following graph. What is its [diameter](((64368a97-9392-4dfc-8f6e-fc99ca2c919e)))?
 	  \begin{bmatrix}
 	  0 & 0 & 1 & 1 & 0 \\
