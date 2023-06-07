@@ -1,0 +1,104 @@
+{:blocks (
+{:block/created-at 1686159939275
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "green"
+:rotation 0
+:index 0
+:scale [1 1]
+:scaleLevel "lg"
+:fill "green"
+:type "ellipse"
+:size [97.45001220703125 97.09381103515625]
+:strokeType "line"
+:strokeWidth 3.2
+:opacity 1
+:label "a"
+:id "09b05d20-055b-11ee-97dd-4b9e0fc43f84"
+:fontWeight 400
+:noFill false
+:point [438.55780029296875 319.1718864440918]
+:fontSize 32
+:parentId "6480c214-dd83-47b1-8c0b-c1da218516dd"
+:nonce 1686159905836
+:italic false}}
+:block/updated-at 1686159939275} 
+{:block/created-at 1686159946995
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "green"
+:rotation 0
+:index 1
+:scale [1 1]
+:scaleLevel "lg"
+:fill "green"
+:type "ellipse"
+:size [97.45001220703125 97.09381103515625]
+:strokeType "line"
+:strokeWidth 3.2
+:opacity 1
+:label "b"
+:id "1fe63f10-055b-11ee-97dd-4b9e0fc43f84"
+:fontWeight 400
+:noFill false
+:isLocked false
+:point [654.1734619140625 320.7281303405762]
+:fontSize 32
+:parentId "6480c214-dd83-47b1-8c0b-c1da218516dd"
+:nonce 1686159905960
+:italic false}}
+:block/updated-at 1686159946995} 
+{:block/created-at 1686159965593
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 2
+:scale [1 1]
+:scaleLevel "lg"
+:fill "red"
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "25115602-055b-11ee-97dd-4b9e0fc43f84"
+:fontWeight 400
+:noFill true
+:point [537.1547241210938 367.0218925476074 0.5]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]}
+:end 
+{:id "end"
+:canBind true
+:point [112.05 0]
+:bindingId nil}}
+:decorations 
+{:start nil
+:end nil}
+:parentId "6480c214-dd83-47b1-8c0b-c1da218516dd"
+:nonce 1686159951757
+:italic false}}
+:block/updated-at 1686159965593})
+:pages (
+{:block/created-at 1686159892783
+:block/name "6480c214-dd83-47b1-8c0b-c1da218516dd"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "6480c214-dd83-47b1-8c0b-c1da218516dd"
+:name "6480c214-dd83-47b1-8c0b-c1da218516dd"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("09b05d20-055b-11ee-97dd-4b9e0fc43f84" "1fe63f10-055b-11ee-97dd-4b9e0fc43f84" "25115602-055b-11ee-97dd-4b9e0fc43f84")}}
+:block/type "whiteboard"
+:block/updated-at 1686159965593
+:block/uuid #uuid "6480c214-dd83-47b1-8c0b-c1da218516dd"})}
