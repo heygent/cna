@@ -17,7 +17,8 @@
 		  collapsed:: true
 			- The graph is connected, but not fully connected, since there isn't a path to 4 from any node.
 		- What is the in-out [degree](((6422fb58-b14c-4f73-a8ce-c547d160c906))) of each node?
-			-
+			- | node | in-degree | out-degree |
+			  |------|-------|--------|
 		- Write the [strength](((64368a97-7c8d-411c-a1ab-d08880fe1e29))) and degree of each node.
 	-
 	- Consider an [ER random graph](((646e2aea-4f90-47a5-83c2-0827e9bb2db1))) with $n$ nodes and connecting probability equal to $p$. What is the expected [clustering coefficient](((64625143-588e-4dc1-a991-4b27deea3a85)))? How does this result relate to the clustering coefficient observed in real-world networks?
