@@ -13,9 +13,8 @@
 		- What type of graph is this?
 			- Directed weighted graph
 		- What can you tell about the graph [connectivity](((64368a97-8099-48bf-b424-298fc228d1bb)))?
-			- The graph is connected, but not fully connected, since there isn't a path to 4 from any node.
+			- The graph is weakly connected.
 		- What is the in-out [degree](((6422fb58-b14c-4f73-a8ce-c547d160c906))) of each node?
-		  collapsed:: true
 			- | node | in-degree | out-degree |
 			  |------|-------|--------|
 			  | 1 | 2 | 2 |
@@ -23,7 +22,6 @@
 			  | 3 | 2 | 1 |
 			  | 4 | 0 | 1 |
 		- Write the [strength](((64368a97-7c8d-411c-a1ab-d08880fe1e29))) and degree of each node.
-		  collapsed:: true
 			- | node | strength | degree |
 			  |---|---|---|
 			  | 1 | 5 | 4 |
@@ -31,7 +29,6 @@
 			  | 3 | 5 | 3 |
 	-
 	- Consider an [ER random graph](((646e2aea-4f90-47a5-83c2-0827e9bb2db1))) with $n$ nodes and connecting probability equal to $p$. What is the expected [clustering coefficient](((64625143-588e-4dc1-a991-4b27deea3a85)))? How does this result relate to the clustering coefficient observed in real-world networks?
-	  collapsed:: true
 		- The clustering coefficient is $p$, since $p$ is the probability of two random nodes being connected, and the cc is the number of connected neighbors of a node over al the possible pairs of neighbors.
 		- The cc of an Erdos-Renyi graph is generally low with respect to real networks, given that the mechanism for creating edges is completely random and not influenced by the triadic closure.
 	-
