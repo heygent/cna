@@ -1,0 +1,13 @@
+@document.meta
+title: Journal
+@end
+
+* This is a title
+  Let's talk about something.
+
+** Second level header
+    With some text.
+    - And a list
+    - Of items
+    
+
