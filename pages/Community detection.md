@@ -1,4 +1,4 @@
-slide:: ![ns12](../assets/ns12.pdf), ![ns13](../assets/ns13.pdf)
+slide:: ![ns12](../assets/ns12.pdf), ![ns13](../assets/ns13.pdf), ![ns14](../assets/ns14.pdf)
 ref:: ((647f4e7e-1970-4e54-868d-b71b13d6c98c))
 
 - # Community
