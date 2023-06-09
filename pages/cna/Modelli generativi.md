@@ -12,8 +12,6 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 		- Eterogeneità
 - # Modello di Erdos-Renyi #card
   id:: 646e2aea-4f90-47a5-83c2-0827e9bb2db1
-  icon:: A
-	- # P
 	- ✅ Distanza tra coppie di nodi è breve ( ((64633030-d7ea-434e-ada5-456426e9b83b)) )
 	- ❌ ((647b04ce-8cd3-4492-9c42-2bbf4933731b)) medio molto più basso rispetto a reti reali della stessa dimensione e grado medio
 	- ❌ I nodi hanno approssimativamente lo stesso grado, non ci sono hub
@@ -144,7 +142,7 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 			- ((647c99cd-88c7-4523-84d4-ecb4d8922d4a))
 				- La distribuzione dei gradi ha un picco dato che la maggior parte dei nodi ha lo stesso grado. **Non ci sono hub.**
 				- Il modello di Watts-Strogatz fallisce nel riprodurre le distribuzioni di grado ampie osservate in molte reti reali.
-- # Stochastic block model
+- # Stochastic block model #card
   id:: 647cd305-bbf7-4ec6-912c-8e2d2e9203f8
 	- Eredita la maggior parte delle sue proprietà dal modello di Erdos-Renyi
 	- ✅ Distanze tra coppie di nodi brevi
