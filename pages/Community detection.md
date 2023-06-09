@@ -43,5 +43,5 @@ ref:: ((647f4e7e-1970-4e54-868d-b71b13d6c98c))
 		- Favorisce configurazioni in cui le comunità hanno approssimativamente la stessa dimensione.
 	- ## ((647f5020-f73c-49a6-ab9b-ffe2e13466bb))
 	- ## ((647f50b7-c4cf-46db-b61b-2282aa08cebe))
-- #
-- {{video https://www.youtube.com/watch?v=cxTmmasBiC8&t=450s}}
+- # Spectral clustering
+	- {{video https://www.youtube.com/watch?v=cxTmmasBiC8&t=450s}}
