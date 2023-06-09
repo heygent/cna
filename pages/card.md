@@ -1,1 +1,1 @@
-- {{cards [[card]]}}
+- {{cards [[Centralità]] }}
