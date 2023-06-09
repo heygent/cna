@@ -22,3 +22,10 @@ file-path:: ../assets/cna_exam_simulation_may_2022.pdf
   id:: 646e3a44-2f12-495c-8097-31f72d637c5f
   hl-type:: area
   hl-stamp:: 1684945475543
+- [:span]
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: yellow
+  id:: 64833d28-9162-4db1-9f85-2f90e680328c
+  hl-type:: area
+  hl-stamp:: 1686322479117
