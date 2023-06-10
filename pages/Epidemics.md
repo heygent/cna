@@ -13,4 +13,5 @@ slide:: ![ns09](../assets/ns09.pdf), ![ns10](../assets/ns10.pdf)
 			- le persone decidono di adottare una nuova idea o innovazione
 		- con contagio **biologico**:
 			- non è dipendente dalla volontà individuale, e non è osservabile da persona a persona
+	- Per malattie infettive, data un'osservabilità non triviale, è meglio adottare **modelli non deterministici**, ovvero basate su *casualità* e *probabilità*.
 	-
