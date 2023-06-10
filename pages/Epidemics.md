@@ -62,4 +62,6 @@ slide:: ![ns09](../assets/ns09.pdf), ![ns10](../assets/ns10.pdf)
 			- ogni nodo che entra nello stato $I$ resta infetto per un numero fisso di passi $\mu$ e passa la sua malattia a ognuno dei dei suoi vicini suscetibili con probabilità $\beta$
 		- Recupero
 			- dopo $\mu$ passi, il nodo infetto non è più infettivo o suscetibile, ma *inerte*, e il suo stato passa a $R$.
-	- [Tran]()
+	- [Transizione nella rete](((6484c4d7-b991-4c3e-a474-a42124f1f47a)))
+	- Il branching process è un **caso speciale** del modello SIR, dove:
+		- la rete di contatto è un albero infi
