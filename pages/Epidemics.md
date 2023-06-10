@@ -69,5 +69,7 @@ slide:: ![ns09](../assets/ns09.pdf), ![ns10](../assets/ns10.pdf)
 		- $\mu = 1$
 	- Per studiare le dinamiche generali:
 		- eseguire diverse **simulazioni basate su agenti** (ogni simulazione è una realizzazione del modello)
-		- osservare cosa accade a $\frac{S(t)}{N}$,
+		- osservare cosa accade a $\frac{S(t)}{N}$, $\frac{I(t)}{N}$, $\frac{R(t)}{N}$ quando $t \rightarrow \infty$
+		- altrimenti, risolvere il problema matematicamente
+	- I
 	-
