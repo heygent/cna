@@ -5,13 +5,13 @@ slide:: ![ns05](../assets/ns05.pdf)
   id:: 64691261-104d-4802-88b4-3341d365716b
 	- Misura di importanza di un nodo
 	- {{embed ((6465f748-d058-47f4-82a7-4f89024e32c1))}}
-	- ## Closeness
+	- ## Closeness #card
 	  id:: 631eef52-ba3a-4806-beb0-fea4f9f0e90e
 		- idea: un nodo è più centrale quanto più **è vicino** a tutti gli altri nodi in media
 		- $$g_i = \frac{1}{\sum_{j \neq i} \mathcal{l}_{ij}}$$
 			- dove $\mathcal{l}_{ij}$ è la distanza tra i nodi $i$ e $j$
 			  id:: 64368a97-1bc1-47cb-a2bf-bf9ed2be5e4e
-	- ## Betweenness
+	- ## Betweenness #card
 	  id:: 631ef02a-be3c-49ea-adc7-d5c938f722f7
 		- idea: un nodo è più centrale quanto più **è attraversato da cammini.**
 		- $$b_i = \sum_{h \neq j \neq i} \frac{\sigma_{hj}(i)}{\sigma_{hj}}$$
