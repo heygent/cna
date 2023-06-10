@@ -18,4 +18,7 @@ slide:: ![ns09](../assets/ns09.pdf), ![ns10](../assets/ns10.pdf)
 	- La forma più semplice di contagio
 	- Assunzione: la rete sottostante è un albero (infinito):
 		- Paziente 0: **radice**
-		- un nodo al livello *
+		- un nodo al livello $n$ (che rappresenta un'*ondata* dell'epidemia) è una persona che incontra altre $k$ persone
+		- ogni persona trasmette la malattia con probabilità $\beta$
+	- Domanda
+		- possiamo predire se e quando la
