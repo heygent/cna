@@ -240,7 +240,7 @@ ref:: ((64672afd-0fbd-499d-9a14-2a2c062919d3))
 			- compente connessa più piccola possibile
 		- ## Grafi orientati
 		  heading:: 2
-			- ### Grafo debolmente connesso
+			- ### Grafo debolmente connesso #card
 				- esiste un cammino per ogni coppia di nodi in almeno una direzione
 			- ### Grafo fortemente connesso #card
 			  card-last-interval:: -1
