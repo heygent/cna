@@ -24,4 +24,6 @@ slide:: ![ns09](../assets/ns09.pdf), ![ns10](../assets/ns10.pdf)
 		- possiamo predire se e quando la malattia scompare?
 	- ((6484bca2-ded3-4ea8-bc2b-3d42bd4b82fa))
 	- # $R_0$
-		- Se nessun individuo nell'ondata $n$ riesce a trasmettere la malattia ad altri individui, l'infezione sparisce dalle ondate $
+		- Se nessun individuo nell'ondata $n$ riesce a trasmettere la malattia ad altri individui, l'infezione sparisce dalle ondate $\ge n + 1$.
+		- $R_0$
+			- il *numero riproduttivo base* della malattia è il *valore atteso di nuovi casi
