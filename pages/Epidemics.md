@@ -1,5 +1,5 @@
 tags:: cna
-slide:: ![ns09](../assets/ns09.pdf), ![ns10](../assets/ns10.pdf)
+slide::![ns09](../assets/ns09.pdf), ![ns10](../assets/ns10.pdf)
 
 - # Modelli di contagio semplici e complessi
 	- Si diffondono in modi profondamente molto diversi:
@@ -35,4 +35,4 @@ slide:: ![ns09](../assets/ns09.pdf), ![ns10](../assets/ns10.pdf)
 				- la malattia persiste infettando almeno una persona in ogni ondata.
 		- $R_0$ può essere applicato come regola pratica, ma con delle precauzioni:
 			- Può essere stimato empiricamente, ed è un utile approssimatore indicativo della potenza della malattia, quando gli epidemiologi non hanno altre precise condizioni che governano l'epidemia
-			- L'albero è lontano dall'essere un
+			- L'albero è lontano dall'essere un'effettiva rete di contatto.
