@@ -15,6 +15,7 @@ slide:: ![ns09](../assets/ns09.pdf), ![ns10](../assets/ns10.pdf)
 			- non è dipendente dalla volontà individuale, e non è osservabile da persona a persona
 	- Per malattie infettive, data un'osservabilità non triviale, è meglio adottare **modelli non deterministici**, ovvero basate su *casualità* e *probabilità*.
 - # Branching process
+  id:: 6484bc10-4e89-4c52-ac62-f55fdc83a2a2
 	- La forma più semplice di contagio
 	- Assunzione: la rete sottostante è un albero (infinito):
 		- Paziente 0: **radice**
@@ -63,5 +64,8 @@ slide:: ![ns09](../assets/ns09.pdf), ![ns10](../assets/ns10.pdf)
 		- Recupero
 			- dopo $\mu$ passi, il nodo infetto non è più infettivo o suscetibile, ma *inerte*, e il suo stato passa a $R$.
 	- [Transizione nella rete](((6484c4d7-b991-4c3e-a474-a42124f1f47a)))
-	- Il branching process è un **caso speciale** del modello SIR, dove:
-		- la rete di contatto è un albero infi
+	- Il ((6484bc10-4e89-4c52-ac62-f55fdc83a2a2)) è un **caso speciale** del modello SIR, dove:
+		- la rete di contatto è un albero infinito, con ogni nodo connesso a un numero fisso di nodi figli
+		- $\mu = 1$
+	-
+	-
