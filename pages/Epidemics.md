@@ -50,4 +50,8 @@ slide:: ![ns09](../assets/ns09.pdf), ![ns10](../assets/ns10.pdf)
 	- Tuttavia, sono necessari modelli che possono essere applicati a qualunque rete.
 	- Si introducono tre *stati* o *compartimenti*:
 		- **suscetibile**
-			- il non
+			- il nodo non ha ancora preso la malattia
+		- **infettivo**
+			- il nodo ha preso la malattia e ha una certa probabilità di infettare altri
+		- **rimosso**
+			- dopo un periodo infettivo, il nodo
