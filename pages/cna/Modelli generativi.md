@@ -32,6 +32,7 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 			- Se $r \le p$ crea l'arco $(i, j)$
 	- ## TODO Transizione di fase (Percolation threshold)
 	  id:: 646efb6f-975d-4540-be73-efe075b8fa3e
+		-
 	- ## Distribuzione dei gradi
 	  id:: 646f6b87-dcb3-453f-a8cb-b8b87442c6fe
 		- La distribuzione del grado di un nodo è binomiale di parametri $p$, $N - 1$
