@@ -241,6 +241,12 @@ ref:: ((64672afd-0fbd-499d-9a14-2a2c062919d3))
 		- ## Grafi orientati
 		  heading:: 2
 			- ### Grafo debolmente connesso #card
+			  card-last-interval:: -1
+			  card-repeats:: 1
+			  card-ease-factor:: 2.5
+			  card-next-schedule:: 2023-06-10T22:00:00.000Z
+			  card-last-reviewed:: 2023-06-10T14:42:17.154Z
+			  card-last-score:: 1
 				- esiste un cammino per ogni coppia di nodi in almeno una direzione
 			- ### Grafo fortemente connesso #card
 			  card-last-interval:: -1
