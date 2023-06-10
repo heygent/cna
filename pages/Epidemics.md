@@ -54,4 +54,6 @@ slide:: ![ns09](../assets/ns09.pdf), ![ns10](../assets/ns10.pdf)
 		- **infettivo**
 			- il nodo ha preso la malattia e ha una certa probabilità di infettare altri
 		- **rimosso**
-			- dopo un periodo infettivo, il nodo
+			- dopo un periodo infettivo, il nodo non può più infettare altri nodi
+	- Contact network è un grafo diretto
+		- Inizializzazione:
