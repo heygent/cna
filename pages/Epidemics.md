@@ -61,4 +61,4 @@ slide:: ![ns09](../assets/ns09.pdf), ![ns10](../assets/ns10.pdf)
 		- Infezione
 			- ogni nodo che entra nello stato $I$ resta infetto per un numero fisso di passi $\mu$ e passa la sua malattia a ognuno dei dei suoi vicini suscetibili con probabilità $\beta$
 		- Recupero
-			- dopo $\mu$ passi
+			- dopo $\mu$ passi, il nodo infetto non è più infettivo o suscetibile
