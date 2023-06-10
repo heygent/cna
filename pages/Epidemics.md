@@ -47,3 +47,7 @@ slide:: ![ns09](../assets/ns09.pdf), ![ns10](../assets/ns10.pdf)
 				- *fully-mixed* o *mass-action* approximation
 - # Modello SIR
 	- I branching process sono un buon punto di partenza quando non si conosce niente della struttura di rete
+	- Tuttavia, sono necessari modelli che possono essere applicati a qualunque rete.
+	- Si introducono tre *stati* o *compartimenti*:
+		- **suscetibile**
+			- il non
