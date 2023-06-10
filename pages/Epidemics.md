@@ -21,4 +21,7 @@ slide:: ![ns09](../assets/ns09.pdf), ![ns10](../assets/ns10.pdf)
 		- un nodo al livello $n$ (che rappresenta un'*ondata* dell'epidemia) è una persona che incontra altre $k$ persone
 		- ogni persona trasmette la malattia con probabilità $\beta$
 	- Domanda
-		- possiamo predire se e quando la
+		- possiamo predire se e quando la malattia scompare?
+	- ((6484bca2-ded3-4ea8-bc2b-3d42bd4b82fa))
+	- # $R_0$
+		-
