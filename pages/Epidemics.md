@@ -44,4 +44,6 @@ slide:: ![ns09](../assets/ns09.pdf), ![ns10](../assets/ns10.pdf)
 		- Nella rappresentazione matematica di un'epidemia le dinamiche sono ridotte a pochi stati di base o compartimenti della malattia.
 		- L'approccio tradizionale non considera reti di contatto
 			- Assunzione: "ogni individuo ha possibilità uguali, per unità di tempo, di entrare in contatto con ogni altro".
-				- *fully-mixed*
+				- *fully-mixed* o *mass-action* approximation
+- # Modello SIR
+	- I branching process sono un buon punto di partenza quando non si conosce niente della struttura di rete
