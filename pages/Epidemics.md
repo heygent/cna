@@ -14,4 +14,8 @@ slide:: ![ns09](../assets/ns09.pdf), ![ns10](../assets/ns10.pdf)
 		- con contagio **biologico**:
 			- non è dipendente dalla volontà individuale, e non è osservabile da persona a persona
 	- Per malattie infettive, data un'osservabilità non triviale, è meglio adottare **modelli non deterministici**, ovvero basate su *casualità* e *probabilità*.
-	-
+- # Branching process
+	- La forma più semplice di contagio
+	- Assunzione: la rete sottostante è un albero (infinito):
+		- Paziente 0: **radice**
+		- un nodo al livello *
