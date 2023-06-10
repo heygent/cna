@@ -67,5 +67,7 @@ slide:: ![ns09](../assets/ns09.pdf), ![ns10](../assets/ns10.pdf)
 	- Il ((6484bc10-4e89-4c52-ac62-f55fdc83a2a2)) è un **caso speciale** del modello SIR, dove:
 		- la rete di contatto è un albero infinito, con ogni nodo connesso a un numero fisso di nodi figli
 		- $\mu = 1$
-	-
+	- Per studiare le dinamiche generali:
+		- eseguire diverse **simulazioni basate su agenti** (ogni simulazione è una realizzazione del modello)
+		- osservare cosa accade a $\frac{S(t)}{N}$,
 	-
