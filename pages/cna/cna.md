@@ -120,7 +120,7 @@ alias:: Contents
 		  date:: [[2023-04-12]]
 			- Hierarchical clustering
 			- Node embeddings
-			- Spectral clustering;
+			- [[Spectral clustering]]
 		- ## Part 3
 		  date:: [[2023-04-17]]
 			- Spectral clustering and the number of communities
