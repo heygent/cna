@@ -39,4 +39,5 @@ slide:: ![ns09](../assets/ns09.pdf), ![ns10](../assets/ns10.pdf)
 			- Può essere stimato empiricamente, ed è un utile approssimatore indicativo della potenza della malattia, quando gli epidemiologi non hanno altre precise condizioni che governano l'epidemia
 			- L'albero è lontano dall'essere un'effettiva rete di contatto.
 		- Quando $R_0$ è vicino a 1, e la probabilità di contagio cresce o diminuisce di poco, l'epidemia può avere l'opportunità di di diventare un'enorme focolaio o, conversamente, di ridurre consistentemente il suo pericolo.
-			-
+			- ((6484bed4-6d4d-4c8f-bf64-df0c8f6bbb08)), per cui piccoli cambiamenti in $k$ possono causare grandi cambiamenti in $R_0$
+	- ££
