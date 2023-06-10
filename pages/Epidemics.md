@@ -26,4 +26,8 @@ slide:: ![ns09](../assets/ns09.pdf), ![ns10](../assets/ns10.pdf)
 	- # $R_0$
 		- Se nessun individuo nell'ondata $n$ riesce a trasmettere la malattia ad altri individui, l'infezione sparisce dalle ondate $\ge n + 1$.
 		- $R_0$
-			- il *numero riproduttivo base* della malattia è il *valore atteso di nuovi casi
+			- il *numero riproduttivo base* della malattia è il *valore atteso di nuovi casi causati da un singolo individuo*.
+			- In un branching process: $R_0 = \beta k$
+		- Si può dimostrare che:
+			- Se $R_0 < 1$
+				- la malatttia muore dope
