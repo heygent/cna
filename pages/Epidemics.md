@@ -27,7 +27,9 @@ slide:: ![ns09](../assets/ns09.pdf), ![ns10](../assets/ns10.pdf)
 		- Se nessun individuo nell'ondata $n$ riesce a trasmettere la malattia ad altri individui, l'infezione sparisce dalle ondate $\ge n + 1$.
 		- $R_0$
 			- il *numero riproduttivo base* della malattia è il *valore atteso di nuovi casi causati da un singolo individuo*.
-			- In un branching process: $R_0 = \beta k$
+			- In un branching process:
+				- $R_0 = \beta k$
+				  id:: 6484bed4-6d4d-4c8f-bf64-df0c8f6bbb08
 		- Si può dimostrare che:
 			- Se $R_0 < 1$
 				- la malattia muore dopo un numero finito di ondate.
@@ -36,4 +38,5 @@ slide:: ![ns09](../assets/ns09.pdf), ![ns10](../assets/ns10.pdf)
 		- $R_0$ può essere applicato come regola pratica, ma con delle precauzioni:
 			- Può essere stimato empiricamente, ed è un utile approssimatore indicativo della potenza della malattia, quando gli epidemiologi non hanno altre precise condizioni che governano l'epidemia
 			- L'albero è lontano dall'essere un'effettiva rete di contatto.
-		- Quando $R_0$ è vicino a 1, e la probabilità di contagio cresce o diminuisce di poco, l'epdiemia
+		- Quando $R_0$ è vicino a 1, e la probabilità di contagio cresce o diminuisce di poco, l'epidemia può avere l'opportunità di di diventare un'enorme focolaio o, conversamente, di ridurre consistentemente il suo pericolo.
+			-
