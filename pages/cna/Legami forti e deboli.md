@@ -120,6 +120,12 @@ ref:: ((64673b5d-2df8-4eae-9565-5b2a7cb6250a))
 		- Diventa anche utile **ordinare tutti gli archi per forza**, così per ogni dato arco possiamo chiedere quale percentile occupa.
 	- ## Neighborhood overlap #card
 	  id:: 646328e9-d663-4aea-be62-57acee3b83c3
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2023-06-10T22:00:00.000Z
+	  card-last-reviewed:: 2023-06-10T14:43:22.382Z
+	  card-last-score:: 1
 		- Ponti locali sono una frazione molto piccola degli archi in una rete telefonica.
 		- Si può ammorbidire anche questa definizione, così che alcuni archi siano "quasi" ponti locali.
 		- La *neighborhood overlap* di un arco $A \rightarrow B$ è il rapporto:
