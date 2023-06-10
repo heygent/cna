@@ -59,4 +59,6 @@ slide:: ![ns09](../assets/ns09.pdf), ![ns10](../assets/ns10.pdf)
 		- Inizializzazione
 			- alcuni nodi hanno stato $I$ e altri stato $S$
 		- Infezione
-			- ogni nodo che entra nello stato $I$ resta infetto per un periodo di tempo fisso
+			- ogni nodo che entra nello stato $I$ resta infetto per un numero fisso di passi $\mu$ e passa la sua malattia a ognuno dei dei suoi vicini suscetibili con probabilità $\beta$
+		- Recupero
+			- dopo $\mu$ passi
