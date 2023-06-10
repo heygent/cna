@@ -14,7 +14,7 @@ slide:: ![ns07](../assets/ns07.pdf)
 		- id:: 647cf8b4-16b7-45f0-9ec8-f0a8166ba847
 		  $$f(k) \approx \frac1{k^c} = k^{-c}$$
 		-
-- ## Preferential attachment
+- ## Preferential attachment #card
   id:: 647cfa91-3c31-4b4b-ba93-3c9ebf8b81b4
 	- I nodi preferiscono collegamenti a nodi più connessi
 	- Esempio:
@@ -42,7 +42,7 @@ slide:: ![ns07](../assets/ns07.pdf)
 		- Dato il preferential attachment, i nodi più connessi hanno possibilità più alte di acquisire nuovi link, il che dà loro un vantaggio sempre più grande sugli altri nodi in futuro.
 		- È così che si vengono a formare gli hub.
 		- Questo fenomeno **dipende strattamente dal preferential attachment**: la sola crescita dei nodi iniziali più connessi non porta da sola alla formazione di hub.
-	- ## Non-linear preferential attachment
+	- ## Non-linear preferential attachment #card
 		- Il modello di Barabasi-Albert usa un preferential attachment lineare: la probabilità di connessione è proporzionale al grado
 		- È possibile creare modelli con preferential attachment non lineare.
 		- ### Procedura
@@ -74,7 +74,7 @@ slide:: ![ns07](../assets/ns07.pdf)
 		- non è un problema per la condizione iniziale standard: il sottografo iniziale è completo, per cui ogni nodo ha grado non-zero
 		- Se la rete fosse diretta e la probabilità di link fosse proporzionale all'in-degree?
 			- male, dato che ogni nuovo nodo ha in-degree zero, per cui non verrebbe mai connesso ad altri nodi
-- # Attractiveness model
+- # Attractiveness model #card
   id:: 647d0650-7584-48e2-aa73-2d718f44621e
 	- ### Procedura
 		- {{embed ((647d06a9-e3e7-4e47-be61-32bcbfb3211c))}}
@@ -89,24 +89,24 @@ slide:: ![ns07](../assets/ns07.pdf)
 			- Nella rete, nuove pagine possono superare le vecchie (es. Google)
 			- Nella scienza, nuovi paper possono avere più successo di (molti) vecchi paper
 		- **Ragione**: ogni nodo ha il suo appeal individuale
-	- ## Fitness Model
-	  id:: 647d0895-5ac7-4b3a-91a6-77245a1205c8
-		- ### Procedura
-			- {{embed ((647d06a9-e3e7-4e47-be61-32bcbfb3211c))}}
-			- Probabilità che il nuovo nodo $i$ scelga un nodo più vecchio $j$ come vicino:
-				- Proporzionale al prodotto del grado $k_j$ con una fitness $\eta_j$, che indica l'appeal intrinseco di $j$:
-					- $$P(i \leftrightarrow j) = \frac{\eta_j k_j}{\sum_l \eta_l  k_l}$$
-		- I valori di fitness sono estratti da una distribuzione $\rho(\eta)$ e assegnati a ogni nuovo nodo
-			- Il fitness è un **fattore** nella probabilità di link, non un addendo
-			- Il fitness è caratteristico di ogni nodo e non è costante
-		- ### Risultati
-			- Se la distribuzione $\rho(\eta)$ ha supporto **finito**, ovvero il fitness è distribuito su un range finito di valori, la distribuzione dei gradi della rete è heavy-tailed
-			- Se la distribuzione $\rho(\eta))$ ha supporto **infinito**, ovvero il fitness è distribuito su un range infinito di valori, il nodo con il fitness più grande attrae tutti i link (**monopolio**)
-			- I nodi con fitness grande possono acquisire un grado alto anche se introdotti tardi nel sistema.
-		- ### Difetto
-			- Il modello BA non genera molti triangoli
-			- Per chiudere triangoli è necessario impostare un link tra due vicini di un nodo, mentre nel modello BA i link sono piazzati in base al grado, a prescindere di se i futuri vicini avranno vicini in comune
-			- Soluzione: introdurre un meccanismo per la chiusura triadica nel modello
+- # Fitness Model
+  id:: 647d0895-5ac7-4b3a-91a6-77245a1205c8
+	- ### Procedura
+		- {{embed ((647d06a9-e3e7-4e47-be61-32bcbfb3211c))}}
+		- Probabilità che il nuovo nodo $i$ scelga un nodo più vecchio $j$ come vicino:
+			- Proporzionale al prodotto del grado $k_j$ con una fitness $\eta_j$, che indica l'appeal intrinseco di $j$:
+				- $$P(i \leftrightarrow j) = \frac{\eta_j k_j}{\sum_l \eta_l  k_l}$$
+	- I valori di fitness sono estratti da una distribuzione $\rho(\eta)$ e assegnati a ogni nuovo nodo
+		- Il fitness è un **fattore** nella probabilità di link, non un addendo
+		- Il fitness è caratteristico di ogni nodo e non è costante
+	- ### Risultati
+		- Se la distribuzione $\rho(\eta)$ ha supporto **finito**, ovvero il fitness è distribuito su un range finito di valori, la distribuzione dei gradi della rete è heavy-tailed
+		- Se la distribuzione $\rho(\eta))$ ha supporto **infinito**, ovvero il fitness è distribuito su un range infinito di valori, il nodo con il fitness più grande attrae tutti i link (**monopolio**)
+		- I nodi con fitness grande possono acquisire un grado alto anche se introdotti tardi nel sistema.
+	- ### Difetto
+		- Il modello BA non genera molti triangoli
+		- Per chiudere triangoli è necessario impostare un link tra due vicini di un nodo, mentre nel modello BA i link sono piazzati in base al grado, a prescindere di se i futuri vicini avranno vicini in comune
+		- Soluzione: introdurre un meccanismo per la chiusura triadica nel modello
 - # Random walk model
   id:: 647d0cef-047f-48db-b506-eab886c638fa
 	- ### Procedura
