@@ -33,4 +33,5 @@ slide:: ![ns09](../assets/ns09.pdf), ![ns10](../assets/ns10.pdf)
 				- la malattia muore dopo un numero finito di ondate.
 			- Se $R_0 > 1$
 				- la malattia persiste infettando almeno una persona in ogni ondata.
-		-
+		- $R_0$ può essere applicato come regola pratica, ma con delle precauzioni:
+			-
