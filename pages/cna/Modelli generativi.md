@@ -78,7 +78,7 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 	- ## Definizione
 	  id:: 647b0223-70de-4a69-b566-83282359e171
 		- Modello per costruire reti con una distribuzione di gradi predeterminata.
-		- **[degree](((6462989a-ec74-4814-ba4f-745fd640511c))) sequence**
+		- **[degree](((6422fb58-b14c-4f73-a8ce-c547d160c906))) sequence**
 			- lista di $N$ numeri $k_1, k_2, \ldots, k_N$ dove $k_i$ è il grado del nodo $i$
 		- **principio**
 			- si sceglie il grado di ogni nodo
