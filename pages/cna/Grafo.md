@@ -256,6 +256,12 @@ ref:: ((64672afd-0fbd-499d-9a14-2a2c062919d3))
 					- l'insieme dei nodi che possono **essere raggiunti** da una componente fortemente connessa $S$, ma da cui non è possibile **raggiungere** $S$
 	- ## Coefficiente di clustering #card
 	  id:: 64625143-588e-4dc1-a991-4b27deea3a85
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2023-06-10T22:00:00.000Z
+	  card-last-reviewed:: 2023-06-10T14:33:49.585Z
+	  card-last-score:: 1
 		- Nelle reti sociali è comune che una conoscenza in comune tra due persone porti i suoi due conoscenti a conoscersi.
 		- ## Coefficiente di clustering di un nodo
 			- La frazione di coppie dei vicini del nodo che sono connesse l'una all'altra.
