@@ -240,10 +240,10 @@ ref:: ((64672afd-0fbd-499d-9a14-2a2c062919d3))
 		  card-last-interval:: -1
 		  card-repeats:: 1
 		  card-ease-factor:: 2.5
-		  card-next-schedule:: 2023-05-15T22:00:00.000Z
-		  card-last-reviewed:: 2023-05-15T01:43:01.126Z
+		  card-next-schedule:: 2023-06-11T22:00:00.000Z
+		  card-last-reviewed:: 2023-06-11T18:42:47.068Z
 		  card-last-score:: 1
-			- nodo non connesso a nessun altro arcof
+			- nodo non connesso a nessun altro arco
 			- compente connessa più piccola possibile
 		- ## Grafi orientati
 		  heading:: 2
@@ -259,8 +259,8 @@ ref:: ((64672afd-0fbd-499d-9a14-2a2c062919d3))
 			  card-last-interval:: -1
 			  card-repeats:: 1
 			  card-ease-factor:: 2.5
-			  card-next-schedule:: 2023-05-15T22:00:00.000Z
-			  card-last-reviewed:: 2023-05-15T01:42:59.177Z
+			  card-next-schedule:: 2023-06-11T22:00:00.000Z
+			  card-last-reviewed:: 2023-06-11T18:42:57.857Z
 			  card-last-score:: 1
 				- esiste un cammino per ogni coppia di nodi **a prescindere da quale nodo si scelga come partenza o destinazione.** Si può fare la stessa distinzione per le [componenti connesse.](((6bc08bd9-9b69-4966-80d2-012ab396bd72)))
 				- #### In-component
