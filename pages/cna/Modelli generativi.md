@@ -30,7 +30,7 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 		- Per ogni coppia di nodi $i$ e $j$:
 			- Genera un numero casuale $r$ tra 0 e 1
 			- Se $r \le p$ crea l'arco $(i, j)$
-	- ##  Transizione di fase (Percolation threshold)
+	- ## Transizione di fase (Percolation threshold)
 	  id:: 646efb6f-975d-4540-be73-efe075b8fa3e
 		- In un grafo di Erdős-Rényi, di solito **emerge un componente gigante** quando il grado medio del grafo supera un certo valore soglia. Questa soglia è conosciuta come **soglia di connettività**.
 		- Nel caso di un grafo di Erdős-Rényi, in cui ogni coppia di nodi è collegata con una certa probabilità *p* in modo indipendente, la soglia di connettività può essere approssimata dall'equazione \(p = \frac{1}{n - 1}\), dove *n* è il numero di nodi nel grafo.
