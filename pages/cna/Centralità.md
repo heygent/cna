@@ -19,6 +19,12 @@ slide:: ![ns05](../assets/ns05.pdf)
 			  id:: 64368a97-1bc1-47cb-a2bf-bf9ed2be5e4e
 	- ## Betweenness #card
 	  id:: 631ef02a-be3c-49ea-adc7-d5c938f722f7
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2023-06-11T22:00:00.000Z
+	  card-last-reviewed:: 2023-06-11T17:26:32.856Z
+	  card-last-score:: 1
 		- idea: un nodo è più centrale quanto più **è attraversato da cammini.**
 		- $$b_i = \sum_{h \neq j \neq i} \frac{\sigma_{hj}(i)}{\sigma_{hj}}$$
 			- $\sigma_{hj}$
