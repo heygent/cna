@@ -151,6 +151,12 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 				- Il modello di Watts-Strogatz fallisce nel riprodurre le distribuzioni di grado ampie osservate in molte reti reali.
 - # Stochastic block model #card
   id:: 647cd305-bbf7-4ec6-912c-8e2d2e9203f8
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2023-06-11T22:00:00.000Z
+  card-last-reviewed:: 2023-06-11T09:50:13.599Z
+  card-last-score:: 1
 	- Eredita la maggior parte delle sue proprietà dal modello di Erdos-Renyi
 	- ✅ Distanze tra coppie di nodi brevi
 	- ❌ I nodi hanno approssimativamente lo stesso grado, non ci sono hub.
