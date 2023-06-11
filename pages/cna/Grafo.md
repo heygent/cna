@@ -147,12 +147,12 @@ ref:: ((64672afd-0fbd-499d-9a14-2a2c062919d3))
 		  card-last-reviewed:: 2023-06-11T18:39:42.159Z
 			- $$L_{\text{max}} = \binom{N}{2} = \frac{N(N-1)}{2}$$
 		- ### Densità #card
-		  card-last-score:: 5
+		  card-last-score:: 1
 		  card-repeats:: 1
-		  card-next-schedule:: 2022-10-24T17:30:25.948Z
-		  card-last-interval:: 4
+		  card-next-schedule:: 2023-06-11T22:00:00.000Z
+		  card-last-interval:: -1
 		  card-ease-factor:: 2.6
-		  card-last-reviewed:: 2022-10-20T17:30:25.948Z
+		  card-last-reviewed:: 2023-06-11T18:40:04.082Z
 		  id:: 642308ed-6d6f-4c41-b709-e55f89808c85
 			- $$d = \frac{L}{L_{\text{max}}} = \frac{2L}{N(N-1)}$$
 		- ### Sparsità #card
