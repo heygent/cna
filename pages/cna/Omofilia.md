@@ -86,8 +86,8 @@ ref:: ((64672afd-0fbd-499d-9a14-2a2c062919d3)), ((64673c06-91c0-4205-b32c-15fbcc
 	  card-last-interval:: -1
 	  card-repeats:: 1
 	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2023-06-10T22:00:00.000Z
-	  card-last-reviewed:: 2023-06-10T14:41:50.450Z
+	  card-next-schedule:: 2023-06-11T22:00:00.000Z
+	  card-last-reviewed:: 2023-06-11T19:07:36.168Z
 	  card-last-score:: 1
 		- Normalizzazione della ((6468a11b-78cd-4b64-9e79-96d84f382f47)) rispetto al suo valore per una ((646a384b-eeb7-4ccf-8642-114eda9a0676)).
 		- ### Spiegazione

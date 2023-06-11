@@ -81,8 +81,8 @@ slide:: ![ns05](../assets/ns05.pdf)
   card-last-interval:: -1
   card-repeats:: 1
   card-ease-factor:: 2.5
-  card-next-schedule:: 2023-05-15T22:00:00.000Z
-  card-last-reviewed:: 2023-05-15T01:42:49.924Z
+  card-next-schedule:: 2023-06-11T22:00:00.000Z
+  card-last-reviewed:: 2023-06-11T19:06:42.513Z
   card-last-score:: 1
 	- ((6461509d-f72e-4f72-a403-19eb82ccf158))
 		- Scegliendo nodi casualmente, Tom ha la stessa probabilità di essere pescato di tutti gli altri.
@@ -94,8 +94,8 @@ slide:: ![ns05](../assets/ns05.pdf)
   card-last-interval:: -1
   card-repeats:: 1
   card-ease-factor:: 2.5
-  card-next-schedule:: 2023-05-15T22:00:00.000Z
-  card-last-reviewed:: 2023-05-15T01:43:32.762Z
+  card-next-schedule:: 2023-06-11T22:00:00.000Z
+  card-last-reviewed:: 2023-06-11T19:06:52.118Z
   card-last-score:: 1
 	- ((64616502-469d-427b-8963-bf47402024a1))
 	- In reti reali, molti dei cammini più brevi passano per hub

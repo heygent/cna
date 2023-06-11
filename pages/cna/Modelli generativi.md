@@ -120,8 +120,8 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
   card-last-interval:: -1
   card-repeats:: 1
   card-ease-factor:: 2.5
-  card-next-schedule:: 2023-06-10T22:00:00.000Z
-  card-last-reviewed:: 2023-06-10T14:39:59.684Z
+  card-next-schedule:: 2023-06-11T22:00:00.000Z
+  card-last-reviewed:: 2023-06-11T19:07:10.440Z
   card-last-score:: 1
 	- {{embed ((647c9707-eeaf-40ba-883a-8cb9372d3f8e))}}
 	- ❌ I nodi hanno approssimativamente lo stesso grado, non esistono hub
