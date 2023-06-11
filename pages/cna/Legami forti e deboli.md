@@ -26,6 +26,12 @@ ref:: ((64673b5d-2df8-4eae-9565-5b2a7cb6250a))
 	- > ((631af429-3ced-4079-b376-69bbd3bf171d))
 - # Chiusura triadica #card
   id:: 64625526-7abe-416b-8538-8f2d05123946
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2023-06-11T22:00:00.000Z
+  card-last-reviewed:: 2023-06-11T09:51:15.950Z
+  card-last-score:: 1
 	- Se due persone in una rete sociale hanno un amico in comune, allora c'è una maggiore probabilità che diventino amici tra di loro in futuro.
 	  background-color:: yellow
 	- Il ruolo base della chiusura triadica nelle reti sociali ha motivato la formulazione di misure delle reti sociali per catturarne la prevalenza. Una di queste è il ((64625143-588e-4dc1-a991-4b27deea3a85)).
