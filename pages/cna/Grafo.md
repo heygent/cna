@@ -116,12 +116,12 @@ ref:: ((64672afd-0fbd-499d-9a14-2a2c062919d3))
 		- ### Grado medio di una rete
 			- $$\lang k \rang = \frac{\sum_i k_i}{N} = \frac{2L}{N}$$
 		- ### Connessione tra grado medio e ((642308ed-6d6f-4c41-b709-e55f89808c85)) #card
-		  card-last-score:: 3
+		  card-last-score:: 1
 		  card-repeats:: 1
-		  card-next-schedule:: 2022-09-12T09:30:10.291Z
-		  card-last-interval:: 4
+		  card-next-schedule:: 2023-06-11T22:00:00.000Z
+		  card-last-interval:: -1
 		  card-ease-factor:: 2.36
-		  card-last-reviewed:: 2022-09-08T09:30:10.292Z
+		  card-last-reviewed:: 2023-06-11T18:39:19.073Z
 			- $$d = \frac{< k >}{N-1} = \frac{< k >}{k_{\text{max}}}$$
 	- ## Forza
 	  id:: 64368a97-7c8d-411c-a1ab-d08880fe1e29
@@ -139,12 +139,12 @@ ref:: ((64672afd-0fbd-499d-9a14-2a2c062919d3))
 		- ### Numero di archi
 			- $|L|$ o $L$
 		- ### Massimo numero possibile di archi #card
-		  card-last-score:: 5
+		  card-last-score:: 1
 		  card-repeats:: 1
-		  card-next-schedule:: 2022-10-24T17:30:24.809Z
-		  card-last-interval:: 4
+		  card-next-schedule:: 2023-06-11T22:00:00.000Z
+		  card-last-interval:: -1
 		  card-ease-factor:: 2.6
-		  card-last-reviewed:: 2022-10-20T17:30:24.810Z
+		  card-last-reviewed:: 2023-06-11T18:39:42.159Z
 			- $$L_{\text{max}} = \binom{N}{2} = \frac{N(N-1)}{2}$$
 		- ### Densità #card
 		  card-last-score:: 5
@@ -184,12 +184,12 @@ ref:: ((64672afd-0fbd-499d-9a14-2a2c062919d3))
 				- lunghezza del cammino più breve tra due nodi.
 				- un nodo singleton è considerato a distanza $\infty$ da ogni altro nodo.
 		- ### Lunghezza media e diametro #card
-		  card-last-score:: 5
+		  card-last-score:: 1
 		  card-repeats:: 1
-		  card-next-schedule:: 2022-10-24T17:30:21.918Z
-		  card-last-interval:: 4
+		  card-next-schedule:: 2023-06-11T22:00:00.000Z
+		  card-last-interval:: -1
 		  card-ease-factor:: 2.6
-		  card-last-reviewed:: 2022-10-20T17:30:21.919Z
+		  card-last-reviewed:: 2023-06-11T18:39:34.318Z
 		  id:: 646328e9-cc36-4507-8a8d-e04541c01d4b
 			- #### Lunghezza media dei cammini
 			  id:: 646328e9-959c-4cee-8058-d017e8806c35
