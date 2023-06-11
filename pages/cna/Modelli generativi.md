@@ -72,6 +72,12 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 		- Dato che $\lang k \rang$ è solitamente piccolo, il coefficiente di clustering medio di reti casuali per valori realistici di $\lang k \rang$ ed $N$ è molto più piccolo rispetto a quello osservato in reti reali.
 - # Configuration model #card
   id:: 6474d86d-605b-4e46-bb17-7dc0190990f8
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2023-06-11T22:00:00.000Z
+  card-last-reviewed:: 2023-06-11T10:34:20.678Z
+  card-last-score:: 1
 	- ✅ Le distanze tra coppie di nodi sono brevi ( ((64633030-d7ea-434e-ada5-456426e9b83b)) ), ereditato dal ((646e2aea-4f90-47a5-83c2-0827e9bb2db1))
 	- ✅ È possibile usare qualunque distribuzione di gradi
 	- ❌ Il ((647b04ce-8cd3-4492-9c42-2bbf4933731b)) è molto più basso delle reti reali della stessa dimensione e grado medio
