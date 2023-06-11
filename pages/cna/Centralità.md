@@ -7,6 +7,12 @@ slide:: ![ns05](../assets/ns05.pdf)
 	- {{embed ((6465f748-d058-47f4-82a7-4f89024e32c1))}}
 	- ## Closeness #card
 	  id:: 631eef52-ba3a-4806-beb0-fea4f9f0e90e
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2023-06-11T22:00:00.000Z
+	  card-last-reviewed:: 2023-06-11T10:11:57.346Z
+	  card-last-score:: 1
 		- idea: un nodo è più centrale quanto più **è vicino** a tutti gli altri nodi in media
 		- $$g_i = \frac{1}{\sum_{j \neq i} \mathcal{l}_{ij}}$$
 			- dove $\mathcal{l}_{ij}$ è la distanza tra i nodi $i$ e $j$

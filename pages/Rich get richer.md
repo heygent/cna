@@ -10,6 +10,12 @@ slide:: ![ns07](../assets/ns07.pdf)
 - Questo fenomeno è intrinseco alla popolarità in sé?
 -
 - # Power laws #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2023-06-11T22:00:00.000Z
+  card-last-reviewed:: 2023-06-11T10:12:13.847Z
+  card-last-score:: 1
 	- La frazione di pagine web che hanno $k$ in-link è:
 		- id:: 647cf8b4-16b7-45f0-9ec8-f0a8166ba847
 		  $$f(k) \approx \frac1{k^c} = k^{-c}$$
