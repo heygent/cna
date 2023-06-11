@@ -32,6 +32,10 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 			- Se $r \le p$ crea l'arco $(i, j)$
 	- ## TODO Transizione di fase (Percolation threshold)
 	  id:: 646efb6f-975d-4540-be73-efe075b8fa3e
+		- In un grafo di Erdos-Renyi, di solito emerge un componente gigante quando il grado medio del grafo supera un certo valore soglia. Questa soglia è conosciuta come soglia di connettività.
+		  Nel caso di un grafo di Erdos-Renyi, in cui ogni coppia di nodi è collegata con una certa probabilità p in modo indipendente, la soglia di connettività può essere approssimata dall'equazione p = 1 / (n - 1), dove n è il numero di nodi nel grafo.
+		  Quando il grado medio, che è il prodotto di p e (n - 1), supera 1, emerge un componente gigante. Un componente gigante si riferisce a un componente connesso che cresce in modo logaritmico con il numero di nodi, il che significa che contiene una frazione significativa dell'intero grafo.
+		  Per riassumere, in un grafo di Erdos-Renyi, emerge un componente gigante quando il grado medio del grafo supera 1, il che corrisponde a una probabilità di connessione superiore a 1 / (n - 1), dove n è il numero di nodi nel grafo.
 		-
 	- ## Distribuzione dei gradi
 	  id:: 646f6b87-dcb3-453f-a8cb-b8b87442c6fe
