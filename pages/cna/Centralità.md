@@ -109,8 +109,8 @@ slide:: ![ns05](../assets/ns05.pdf)
   card-last-interval:: -1
   card-repeats:: 1
   card-ease-factor:: 2.5
-  card-next-schedule:: 2023-05-15T22:00:00.000Z
-  card-last-reviewed:: 2023-05-15T01:43:21.073Z
+  card-next-schedule:: 2023-06-11T22:00:00.000Z
+  card-last-reviewed:: 2023-06-11T18:41:23.004Z
   card-last-score:: 1
 	- il fallimento di alcuni componenti non influenza il funzionamento del sistema
 	- per verificare la robustezza di una rete, rimuoviamo nodi o archi e verifichiamo che cosa succede alla sua struttura.
@@ -138,8 +138,8 @@ slide:: ![ns05](../assets/ns05.pdf)
   card-last-interval:: -1
   card-repeats:: 1
   card-ease-factor:: 2.5
-  card-next-schedule:: 2023-05-15T22:00:00.000Z
-  card-last-reviewed:: 2023-05-15T01:42:22.478Z
+  card-next-schedule:: 2023-06-11T22:00:00.000Z
+  card-last-reviewed:: 2023-06-11T18:41:39.567Z
   card-last-score:: 1
 	- **Core**: Parte densa della rete, con nodi di grado alto.
 	- Procedura per identificare nuclei sempre più densi, rimuovendo nodi di grado progressivamente più alto.

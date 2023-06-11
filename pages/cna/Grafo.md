@@ -95,12 +95,12 @@ ref:: ((64672afd-0fbd-499d-9a14-2a2c062919d3))
 			- Nodi con grado alto
 			- ((631cb57b-95f1-4f96-bde0-7c6e6c74e8e7))
 		- ### Grado medio (grafi non orientati) #card
-		  card-last-score:: 5
-		  card-repeats:: 2
-		  card-next-schedule:: 2022-12-23T09:02:07.725Z
-		  card-last-interval:: 4
+		  card-last-score:: 1
+		  card-repeats:: 1
+		  card-next-schedule:: 2023-06-11T22:00:00.000Z
+		  card-last-interval:: -1
 		  card-ease-factor:: 2.6
-		  card-last-reviewed:: 2022-12-19T09:02:07.727Z
+		  card-last-reviewed:: 2023-06-11T18:40:53.020Z
 			- $$
 			  \begin{split}
 			  \begin{aligned}
@@ -159,8 +159,8 @@ ref:: ((64672afd-0fbd-499d-9a14-2a2c062919d3))
 		  card-last-interval:: -1
 		  card-repeats:: 1
 		  card-ease-factor:: 2.5
-		  card-next-schedule:: 2023-05-15T22:00:00.000Z
-		  card-last-reviewed:: 2023-05-15T01:42:39.786Z
+		  card-next-schedule:: 2023-06-11T22:00:00.000Z
+		  card-last-reviewed:: 2023-06-11T18:41:01.002Z
 		  card-last-score:: 1
 			- Se la ((642308ed-6d6f-4c41-b709-e55f89808c85)) $d < 1$, il grafo è sparso.
 				- Se $L$ è nell'ordine di $N$, il grafo è sparso.
