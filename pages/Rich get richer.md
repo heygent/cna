@@ -22,6 +22,12 @@ slide:: ![ns07](../assets/ns07.pdf)
 		-
 - ## Preferential attachment #card
   id:: 647cfa91-3c31-4b4b-ba93-3c9ebf8b81b4
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2023-06-11T22:00:00.000Z
+  card-last-reviewed:: 2023-06-11T18:34:06.296Z
+  card-last-score:: 1
 	- I nodi preferiscono collegamenti a nodi più connessi
 	- Esempio:
 		- La nostra conoscenza di internet ha un bias verso le pagine popolari, che sono altamente connesse,  per cui è più probabile che il nostro sito punti a pagine che sono state molto linkate.
