@@ -28,6 +28,12 @@ slide:: ![ns07](../assets/ns07.pdf)
 		- Gli scienziati sono più familiari con paper molto citati (che sono spesso i più importanti), per cui tendono a citare più questi di altri
 - # Modello di Barabasi-Albert #card
   id:: 647cd5f7-a502-4356-b841-b2ddd48fbf93
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2023-06-11T22:00:00.000Z
+  card-last-reviewed:: 2023-06-11T10:34:58.974Z
+  card-last-score:: 1
 	- Le reti reali sono dinamiche e si evolvono nel tempo, in base alle circostanze.
 	- Procedura generale:
 		- Arriva un nuovo nodo con un certo numero di ceppi di arco, che indicano il numero di futuri vicini del nodo (grado)

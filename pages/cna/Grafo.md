@@ -66,6 +66,12 @@ ref:: ((64672afd-0fbd-499d-9a14-2a2c062919d3))
 	  id:: 6422fb58-b14c-4f73-a8ce-c547d160c906
 		- ### Grado #card
 		  id:: 6465f748-d058-47f4-82a7-4f89024e32c1
+		  card-last-interval:: -1
+		  card-repeats:: 1
+		  card-ease-factor:: 2.5
+		  card-next-schedule:: 2023-06-11T22:00:00.000Z
+		  card-last-reviewed:: 2023-06-11T10:35:07.232Z
+		  card-last-score:: 1
 			- numero di collegamenti (o vicini)
 				- $i \rightarrow N_i \quad k_i = |N_i|$
 				- ((64230250-19c7-4f2f-9fc8-1c2960fa093f))
