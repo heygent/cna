@@ -243,6 +243,7 @@ ref:: ((64672afd-0fbd-499d-9a14-2a2c062919d3))
 		  card-next-schedule:: 2023-05-15T22:00:00.000Z
 		  card-last-reviewed:: 2023-05-15T01:43:01.126Z
 		  card-last-score:: 1
+			- nodo non connesso a nessun altro arcof
 			- compente connessa più piccola possibile
 		- ## Grafi orientati
 		  heading:: 2
