@@ -138,8 +138,8 @@ slide:: ![ns05](../assets/ns05.pdf)
   card-last-interval:: -1
   card-repeats:: 1
   card-ease-factor:: 2.5
-  card-next-schedule:: 2023-06-11T22:00:00.000Z
-  card-last-reviewed:: 2023-06-11T18:41:39.567Z
+  card-next-schedule:: 2023-06-12T22:00:00.000Z
+  card-last-reviewed:: 2023-06-12T21:43:06.452Z
   card-last-score:: 1
 	- **Core**: Parte densa della rete, con nodi di grado alto.
 	- Procedura per identificare nuclei sempre più densi, rimuovendo nodi di grado progressivamente più alto.
