@@ -158,6 +158,12 @@ slide:: ![ns07](../assets/ns07.pdf)
 		- Il preferential attachment può essere indotto da semplici meccanismi basati su scelte casuali. Non è necessario richiedere il grado del nodo, né una stretta espressione della probabilità del link
 - # Rank model #card
   id:: 647d8d62-cac1-4382-a7d0-49d31be1ce24
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2023-06-12T22:00:00.000Z
+  card-last-reviewed:: 2023-06-12T20:18:36.128Z
+  card-last-score:: 1
 	- ## Difetto del preferential attachment
 		- Il modello BA implica che i nodi abbiano una percezione di quanto siano importanti gli altri nodi, ovvero di quanto sia grande il loro grado
 		- **Obiezione**: nel mondo reale non c'è una percezione simile del valore assoluto delle cose: è molto più semplice percepire un valore relativo
