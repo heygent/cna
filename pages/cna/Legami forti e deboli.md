@@ -29,8 +29,8 @@ ref:: ((64673b5d-2df8-4eae-9565-5b2a7cb6250a))
   card-last-interval:: -1
   card-repeats:: 1
   card-ease-factor:: 2.5
-  card-next-schedule:: 2023-06-11T22:00:00.000Z
-  card-last-reviewed:: 2023-06-11T09:51:15.950Z
+  card-next-schedule:: 2023-06-12T22:00:00.000Z
+  card-last-reviewed:: 2023-06-12T21:45:19.599Z
   card-last-score:: 1
 	- Se due persone in una rete sociale hanno un amico in comune, allora c'è una maggiore probabilità che diventino amici tra di loro in futuro.
 	  background-color:: yellow
