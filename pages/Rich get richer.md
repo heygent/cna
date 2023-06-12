@@ -103,8 +103,8 @@ slide:: ![ns07](../assets/ns07.pdf)
   card-last-interval:: -1
   card-repeats:: 1
   card-ease-factor:: 2.5
-  card-next-schedule:: 2023-06-11T22:00:00.000Z
-  card-last-reviewed:: 2023-06-11T10:36:14.567Z
+  card-next-schedule:: 2023-06-12T22:00:00.000Z
+  card-last-reviewed:: 2023-06-12T21:49:03.472Z
   card-last-score:: 1
 	- ### Procedura
 		- {{embed ((647d06a9-e3e7-4e47-be61-32bcbfb3211c))}}

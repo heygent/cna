@@ -94,8 +94,8 @@ slide:: ![ns05](../assets/ns05.pdf)
   card-last-interval:: -1
   card-repeats:: 1
   card-ease-factor:: 2.5
-  card-next-schedule:: 2023-06-11T22:00:00.000Z
-  card-last-reviewed:: 2023-06-11T19:06:52.118Z
+  card-next-schedule:: 2023-06-12T22:00:00.000Z
+  card-last-reviewed:: 2023-06-12T21:49:05.391Z
   card-last-score:: 1
 	- ((64616502-469d-427b-8963-bf47402024a1))
 	- In reti reali, molti dei cammini più brevi passano per hub
