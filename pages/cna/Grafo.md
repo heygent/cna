@@ -159,8 +159,8 @@ ref:: ((64672afd-0fbd-499d-9a14-2a2c062919d3))
 		  card-last-interval:: -1
 		  card-repeats:: 1
 		  card-ease-factor:: 2.5
-		  card-next-schedule:: 2023-06-11T22:00:00.000Z
-		  card-last-reviewed:: 2023-06-11T18:41:01.002Z
+		  card-next-schedule:: 2023-06-12T22:00:00.000Z
+		  card-last-reviewed:: 2023-06-12T20:19:57.799Z
 		  card-last-score:: 1
 			- Se la ((642308ed-6d6f-4c41-b709-e55f89808c85)) $d < 1$, il grafo è sparso.
 				- Se $L$ è nell'ordine di $N$, il grafo è sparso.
@@ -272,8 +272,8 @@ ref:: ((64672afd-0fbd-499d-9a14-2a2c062919d3))
 	  card-last-interval:: -1
 	  card-repeats:: 1
 	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2023-06-11T22:00:00.000Z
-	  card-last-reviewed:: 2023-06-11T19:06:55.253Z
+	  card-next-schedule:: 2023-06-12T22:00:00.000Z
+	  card-last-reviewed:: 2023-06-12T20:19:36.269Z
 	  card-last-score:: 1
 		- Nelle reti sociali è comune che una conoscenza in comune tra due persone porti i suoi due conoscenti a conoscersi.
 		- ## Coefficiente di clustering di un nodo
