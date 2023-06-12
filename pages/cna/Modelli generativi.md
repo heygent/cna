@@ -71,6 +71,8 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 			- **Il diametro della rete cresce come il logaritmo della dimensione della rete.**
 			- Ad esempio, $N = 7.000.000.000, k = 150$
 				- $d_\text{max} = 4.52$
+			- **Lunghezza media dei camini:**
+				- $$\lang l \rang \approx \frac{\ln(n)}{\lang k \rang}$$
 	- ## Coefficiente di Clustering
 	  id:: 647af7d1-43d5-40c2-b426-e2585c96c821
 		- Il ((647b04ce-8cd3-4492-9c42-2bbf4933731b)) di un nodo $i$ può essere interpretato come la probabilità che due vicini di $i$ siano connessi:
