@@ -81,8 +81,8 @@ slide:: ![ns05](../assets/ns05.pdf)
   card-last-interval:: -1
   card-repeats:: 1
   card-ease-factor:: 2.5
-  card-next-schedule:: 2023-06-11T22:00:00.000Z
-  card-last-reviewed:: 2023-06-11T19:06:42.513Z
+  card-next-schedule:: 2023-06-12T22:00:00.000Z
+  card-last-reviewed:: 2023-06-12T21:48:47.703Z
   card-last-score:: 1
 	- ((6461509d-f72e-4f72-a403-19eb82ccf158))
 		- Scegliendo nodi casualmente, Tom ha la stessa probabilità di essere pescato di tutti gli altri.

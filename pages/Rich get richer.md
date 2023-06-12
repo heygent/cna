@@ -37,8 +37,8 @@ slide:: ![ns07](../assets/ns07.pdf)
   card-last-interval:: -1
   card-repeats:: 1
   card-ease-factor:: 2.5
-  card-next-schedule:: 2023-06-11T22:00:00.000Z
-  card-last-reviewed:: 2023-06-11T10:34:58.974Z
+  card-next-schedule:: 2023-06-12T22:00:00.000Z
+  card-last-reviewed:: 2023-06-12T21:48:32.589Z
   card-last-score:: 1
 	- Le reti reali sono dinamiche e si evolvono nel tempo, in base alle circostanze.
 	- Procedura generale:
