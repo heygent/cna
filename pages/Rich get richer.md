@@ -139,6 +139,12 @@ slide:: ![ns07](../assets/ns07.pdf)
 		- Soluzione: introdurre un meccanismo per la chiusura triadica nel modello
 - # Random walk model #card
   id:: 647d0cef-047f-48db-b506-eab886c638fa
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2023-06-12T22:00:00.000Z
+  card-last-reviewed:: 2023-06-12T20:19:30.590Z
+  card-last-score:: 1
 	- ### Procedura
 		- {{embed ((647d06a9-e3e7-4e47-be61-32bcbfb3211c))}}
 		- Il primo link usa come target un nodo $j$ scelto casualmente
