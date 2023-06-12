@@ -171,8 +171,8 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
   card-last-interval:: -1
   card-repeats:: 1
   card-ease-factor:: 2.5
-  card-next-schedule:: 2023-06-11T22:00:00.000Z
-  card-last-reviewed:: 2023-06-11T09:50:13.599Z
+  card-next-schedule:: 2023-06-12T22:00:00.000Z
+  card-last-reviewed:: 2023-06-12T21:44:47.079Z
   card-last-score:: 1
 	- Eredita la maggior parte delle sue proprietà dal modello di Erdos-Renyi
 	- ✅ Distanze tra coppie di nodi brevi
