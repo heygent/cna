@@ -10,8 +10,8 @@ slide:: ![ns05](../assets/ns05.pdf)
 	  card-last-interval:: -1
 	  card-repeats:: 1
 	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2023-06-12T22:00:00.000Z
-	  card-last-reviewed:: 2023-06-12T21:46:40.600Z
+	  card-next-schedule:: 2023-06-13T22:00:00.000Z
+	  card-last-reviewed:: 2023-06-13T07:54:40.523Z
 	  card-last-score:: 1
 		- idea: un nodo è più centrale quanto più **è vicino** a tutti gli altri nodi in media
 		- $$g_i = \frac{1}{\sum_{j \neq i} \mathcal{l}_{ij}}$$
