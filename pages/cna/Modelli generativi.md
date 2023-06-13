@@ -50,6 +50,12 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 		- Per $p$ piccolo ed $N$ grande la distribuzione binomiale approssima una normale
 		- La maggior parte dei gradi sono centrati sul picco, per cui **la media è un buon descrittore della distribuzione**.
 		- ### Grado medio #card
+		  card-last-interval:: -1
+		  card-repeats:: 1
+		  card-ease-factor:: 2.5
+		  card-next-schedule:: 2023-06-13T22:00:00.000Z
+		  card-last-reviewed:: 2023-06-13T07:45:36.244Z
+		  card-last-score:: 1
 			- $\lang k \rang = (N-1) \cdot p = d$
 		- ((6476078f-fdc6-4633-9480-db319311ed6e))
 			- La distribuzione dei gradi è generalmente **molto diversa** rispetto alle reti reali.
@@ -63,6 +69,12 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 		- Se $k$ non è troppo piccolo, il numero totale di nodi entro una distanza $d$ da un dato nodo è approssimativamente:
 			- $$N_d \sim k(k-1)^{d-1} \sim k^d$$
 		- Quanti passi servono per coprire l'intera rete? #card
+		  card-last-interval:: -1
+		  card-repeats:: 1
+		  card-ease-factor:: 2.5
+		  card-next-schedule:: 2023-06-13T22:00:00.000Z
+		  card-last-reviewed:: 2023-06-13T07:45:26.885Z
+		  card-last-score:: 1
 			- \begin{aligned}
 			  N &\sim k^{d_\text{max}} \\
 			  \log N &\sim d_\text{max} \log k \\
@@ -72,6 +84,12 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 			- Ad esempio, $N = 7.000.000.000, k = 150$
 				- $d_\text{max} = 4.52$
 			- **Lunghezza media dei camini:** #card
+			  card-last-interval:: -1
+			  card-repeats:: 1
+			  card-ease-factor:: 2.5
+			  card-next-schedule:: 2023-06-13T22:00:00.000Z
+			  card-last-reviewed:: 2023-06-13T07:45:13.559Z
+			  card-last-score:: 1
 				- $$\lang l \rang \approx \frac{\ln(n)}{\lang k \rang}$$
 	- ## Coefficiente di Clustering
 	  id:: 647af7d1-43d5-40c2-b426-e2585c96c821

@@ -272,8 +272,8 @@ ref:: ((64672afd-0fbd-499d-9a14-2a2c062919d3))
 	  card-last-interval:: -1
 	  card-repeats:: 1
 	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2023-06-12T22:00:00.000Z
-	  card-last-reviewed:: 2023-06-12T20:19:36.269Z
+	  card-next-schedule:: 2023-06-13T22:00:00.000Z
+	  card-last-reviewed:: 2023-06-13T07:45:42.892Z
 	  card-last-score:: 1
 		- Nelle reti sociali è comune che una conoscenza in comune tra due persone porti i suoi due conoscenti a conoscersi.
 		- ## Coefficiente di clustering di un nodo
