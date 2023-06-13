@@ -29,8 +29,8 @@ ref:: ((64673b5d-2df8-4eae-9565-5b2a7cb6250a))
   card-last-interval:: -1
   card-repeats:: 1
   card-ease-factor:: 2.5
-  card-next-schedule:: 2023-06-12T22:00:00.000Z
-  card-last-reviewed:: 2023-06-12T21:45:19.599Z
+  card-next-schedule:: 2023-06-13T22:00:00.000Z
+  card-last-reviewed:: 2023-06-13T07:53:54.094Z
   card-last-score:: 1
 	- Se due persone in una rete sociale hanno un amico in comune, allora c'è una maggiore probabilità che diventino amici tra di loro in futuro.
 	  background-color:: yellow
@@ -129,8 +129,8 @@ ref:: ((64673b5d-2df8-4eae-9565-5b2a7cb6250a))
 	  card-last-interval:: -1
 	  card-repeats:: 1
 	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2023-06-12T22:00:00.000Z
-	  card-last-reviewed:: 2023-06-12T21:43:21.510Z
+	  card-next-schedule:: 2023-06-13T22:00:00.000Z
+	  card-last-reviewed:: 2023-06-13T07:53:33.338Z
 	  card-last-score:: 1
 		- Ponti locali sono una frazione molto piccola degli archi in una rete telefonica.
 		- Si può ammorbidire anche questa definizione, così che alcuni archi siano "quasi" ponti locali.

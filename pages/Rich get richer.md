@@ -64,8 +64,8 @@ slide:: ![ns07](../assets/ns07.pdf)
 	  card-last-interval:: -1
 	  card-repeats:: 1
 	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2023-06-12T22:00:00.000Z
-	  card-last-reviewed:: 2023-06-12T21:42:52.661Z
+	  card-next-schedule:: 2023-06-13T22:00:00.000Z
+	  card-last-reviewed:: 2023-06-13T07:53:26.778Z
 	  card-last-score:: 1
 		- Il modello di Barabasi-Albert usa un preferential attachment lineare: la probabilità di connessione è proporzionale al grado
 		- È possibile creare modelli con preferential attachment non lineare.
