@@ -62,7 +62,7 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 			- in generale: $k(k-1)^{d-1}$
 		- Se $k$ non è troppo piccolo, il numero totale di nodi entro una distanza $d$ da un dato nodo è approssimativamente:
 			- $$N_d \sim k(k-1)^{d-1} \sim k^d$$
-		- Quanti passi servono per coprire l'intera rete?
+		- Quanti passi servono per coprire l'intera rete? #card
 			- \begin{aligned}
 			  N &\sim k^{d_\text{max}} \\
 			  \log N &\sim d_\text{max} \log k \\
@@ -71,7 +71,7 @@ ref:: ((64688dce-786d-4483-96aa-0f7794277d6c)), ((64688e49-92e6-499c-99fd-911bb7
 			- **Il diametro della rete cresce come il logaritmo della dimensione della rete.**
 			- Ad esempio, $N = 7.000.000.000, k = 150$
 				- $d_\text{max} = 4.52$
-			- **Lunghezza media dei camini:**
+			- **Lunghezza media dei camini:** #card
 				- $$\lang l \rang \approx \frac{\ln(n)}{\lang k \rang}$$
 	- ## Coefficiente di Clustering
 	  id:: 647af7d1-43d5-40c2-b426-e2585c96c821
