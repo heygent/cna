@@ -109,8 +109,8 @@ slide:: ![ns05](../assets/ns05.pdf)
   card-last-interval:: -1
   card-repeats:: 1
   card-ease-factor:: 2.5
-  card-next-schedule:: 2023-06-12T22:00:00.000Z
-  card-last-reviewed:: 2023-06-12T20:20:28.385Z
+  card-next-schedule:: 2023-06-13T22:00:00.000Z
+  card-last-reviewed:: 2023-06-13T07:48:02.352Z
   card-last-score:: 1
 	- il fallimento di alcuni componenti non influenza il funzionamento del sistema
 	- per verificare la robustezza di una rete, rimuoviamo nodi o archi e verifichiamo che cosa succede alla sua struttura.
