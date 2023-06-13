@@ -25,8 +25,8 @@ slide:: ![ns07](../assets/ns07.pdf)
   card-last-interval:: -1
   card-repeats:: 1
   card-ease-factor:: 2.5
-  card-next-schedule:: 2023-06-11T22:00:00.000Z
-  card-last-reviewed:: 2023-06-11T18:34:06.296Z
+  card-next-schedule:: 2023-06-12T22:00:00.000Z
+  card-last-reviewed:: 2023-06-12T21:50:09.580Z
   card-last-score:: 1
 	- I nodi preferiscono collegamenti a nodi più connessi
 	- Esempio:

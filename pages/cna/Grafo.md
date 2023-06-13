@@ -186,10 +186,10 @@ ref:: ((64672afd-0fbd-499d-9a14-2a2c062919d3))
 		- ### Lunghezza media e diametro #card
 		  card-last-score:: 1
 		  card-repeats:: 1
-		  card-next-schedule:: 2023-06-11T22:00:00.000Z
+		  card-next-schedule:: 2023-06-12T22:00:00.000Z
 		  card-last-interval:: -1
 		  card-ease-factor:: 2.6
-		  card-last-reviewed:: 2023-06-11T18:39:34.318Z
+		  card-last-reviewed:: 2023-06-12T21:50:16.634Z
 		  id:: 646328e9-cc36-4507-8a8d-e04541c01d4b
 			- #### Lunghezza media dei cammini
 			  id:: 646328e9-959c-4cee-8058-d017e8806c35
